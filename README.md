@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm <b>Prachi Ankush</b> 👋</h1>  
 
-<p align="center">
+<p>
 💻 Skilled in <b>C, C++, Java, Advanced Java, Android, PHP, DBMS, Data Structures, DSA, HTML, CSS, JavaScript</b>  
 <br>
 🚀 Passionate about <b>AI, Web Development, App Development & Creative Designing</b>  
