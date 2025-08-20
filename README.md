@@ -1,18 +1,26 @@
-# Hi, I'm Sita 👋  
+# Hi, I'm Prachi Ankush 👋  
 
-✨ **Beginner Developer | AI Explorer | Lifelong Learner** ✨  
+✨ **AI Enthusiast | Web & App Developer | Designer** ✨  
 
-- 🔭 I’m currently learning **Java, Advanced Java & AI**  
-- 🌱 Exploring **Open Source & Projects**  
-- 💃 Fun fact: I love dancing & storytelling  
+- 💻 I know **C, C++, Java, Advanced Java, Android, PHP, DBMS, Data Structures, DSA, HTML, CSS, JavaScript**  
+- 🌱 Currently exploring **AI, Web Development, App Development, and Creative Designing**  
+- 🎯 Passion: Building projects that mix creativity + technology  
+- 💃 Fun fact: I love dancing & creating stories 🎶  
 
 ---
 
-## 🌟 Skills
-![Java](https://img.shields.io/badge/Java-blue?logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-orange?logo=javascript)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+## 🌟 Tech Stack
+![C](https://img.shields.io/badge/C-blue?logo=c)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![Advanced Java](https://img.shields.io/badge/Advanced%20Java-green?logo=java)
+![Android](https://img.shields.io/badge/Android-darkgreen?logo=android)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
+![DBMS](https://img.shields.io/badge/DBMS-grey?logo=mysql)
+![DSA](https://img.shields.io/badge/Data%20Structures-red)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
 ---
 
@@ -25,11 +33,19 @@
 
 ---
 
-## ✨ Fun GIF
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
+## 🌍 Connect With Me
+- 📧 Email: **prachiankush3@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/)  
+- 📸 [Instagram](https://www.instagram.com/)  
 
 ---
 
-## 🌍 Connect With Me
-- 💼 [My GitHub Profile](https://github.com/prachi-ankush-3)
-- 📧 Reach me at: *your email here*
+## ✨ Fun Zone
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px">
+
+---
+
+## 🎨 Banner / Avatar Suggestions
+- **Anime Coding Girl Banner** 👉 [Anime Banner Collection](https://www.wallpaperflare.com/search?wallpaper=anime+coding)  
+- **Free AI Avatars** 👉 [https://pfpmaker.com/](https://pfpmaker.com/)  
+- **Custom GitHub Header Generator** 👉 [https://capsule-render.vercel.app/](https://capsule-render.vercel.app/)  
