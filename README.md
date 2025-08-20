@@ -1,15 +1,16 @@
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Prachi%20Ankush%20👩‍💻&fontSize=50&fontAlignY=40&desc=AI%20Enthusiast%20|%20Web%20&%20App%20Developer%20|%20Designer&descAlignY=65&descAlign=50" />
+
 # Hi, I'm Prachi Ankush 👋  
 
-✨ **AI Enthusiast | Web & App Developer | Designer** ✨  
-
-- 💻 I know **C, C++, Java, Advanced Java, Android, PHP, DBMS, Data Structures, DSA, HTML, CSS, JavaScript**  
-- 🌱 Currently exploring **AI, Web Development, App Development, and Creative Designing**  
-- 🎯 Passion: Building projects that mix creativity + technology  
-- 💃 Fun fact: I love dancing & creating stories 🎶  
+💻 **C | C++ | Java | Advanced Java | Android | PHP | DBMS | Data Structures | DSA | HTML | CSS | JavaScript**  
+🚀 Exploring **AI | Web Development | App Development | Creative Designing**  
+🎯 Goal: Build innovative projects mixing creativity + technology  
+💃 Fun fact: I love **dancing & storytelling**  
 
 ---
 
-## 🌟 Tech Stack
+## ⚡ Tech Stack
 ![C](https://img.shields.io/badge/C-blue?logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
@@ -24,28 +25,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&theme=radical)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&theme=tokyonight)  
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prachi-ankush-3&theme=dark&hide_border=false)  
 
 ---
 
 ## 🌍 Connect With Me
-- 📧 Email: **prachiankush3@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/)  
-- 📸 [Instagram](https://www.instagram.com/)  
+📧 **prachiankush3@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/)  
+📸 [Instagram](https://www.instagram.com/)  
 
 ---
 
-## ✨ Fun Zone
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px">
-
----
-
-## 🎨 Banner / Avatar Suggestions
-- **Anime Coding Girl Banner** 👉 [Anime Banner Collection](https://www.wallpaperflare.com/search?wallpaper=anime+coding)  
-- **Free AI Avatars** 👉 [https://pfpmaker.com/](https://pfpmaker.com/)  
-- **Custom GitHub Header Generator** 👉 [https://capsule-render.vercel.app/](https://capsule-render.vercel.app/)  
+<!-- Anime Coding Girl Banner -->
+<img src="https://i.pinimg.com/originals/1f/9a/0f/1f9a0f4c5f3a8a77c7a773a27d2c2d1f.gif" width="100%" />
