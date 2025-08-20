@@ -29,6 +29,11 @@
   <img src="https://img.shields.io/badge/Advanced%20Java-5382A1?style=for-the-badge&logo=java&logoColor=white" />
 </p>  
 
+<!-- Anime GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4d/25/26/4d2526e4db99f89bceccab696648efa6.gif" width="500" alt="Coding Anime" />
+</p>  
+
 ### 📱 App & Web Development  
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
