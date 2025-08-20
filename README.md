@@ -3,41 +3,67 @@
 
 # Hi, I'm Prachi Ankush 👋  
 
-💻 **C | C++ | Java | Advanced Java | Android | PHP | DBMS | Data Structures | DSA | HTML | CSS | JavaScript**  
-🚀 Exploring **AI | Web Development | App Development | Creative Designing**  
-🎯 Goal: Build innovative projects mixing creativity + technology  
-💃 Fun fact: I love **dancing & storytelling**  
+💻 Skilled in **C, C++, Java, Advanced Java, Android, PHP, DBMS, Data Structures, DSA, HTML, CSS, JavaScript**  
+🚀 Passionate about **AI, Web Development, App Development & Creative Designing**  
+🎯 Dedicated to **transforming ideas into impactful projects**  
+✨ Always learning, always building, always evolving 💡  
+⚡ Fun fact: I don’t just fix bugs… I adopt them, train them, and make them features 🐞✨  
+
 
 ---
 
-## ⚡ Tech Stack
-![C](https://img.shields.io/badge/C-blue?logo=c)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![Advanced Java](https://img.shields.io/badge/Advanced%20Java-green?logo=java)
-![Android](https://img.shields.io/badge/Android-darkgreen?logo=android)
-![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
-![DBMS](https://img.shields.io/badge/DBMS-grey?logo=mysql)
-![DSA](https://img.shields.io/badge/Data%20Structures-red)
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+## ⚡ Tech Stack  
+
+### 👩‍💻 Programming Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Advanced Java](https://img.shields.io/badge/Advanced%20Java-5382A1?style=for-the-badge&logo=java&logoColor=white)  
+
+### 📱 App & Web Development  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+
+### 🗄️ Database & Structures  
+![DBMS](https://img.shields.io/badge/Database-003B57?style=for-the-badge&logo=mysql&logoColor=white)  
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FF6F00?style=for-the-badge&logo=buffer&logoColor=white)  
 
 ---
 
-## 📊 GitHub Insights
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prachi-ankush-3&theme=dark&hide_border=false)  
+✨ *Crafting code with logic + creativity to build impactful solutions!* ✨  
 
 ---
 
-## 🌍 Connect With Me
-📧 **prachiankush3@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/)  
-📸 [Instagram](https://www.instagram.com/)  
+## 📊 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&theme=tokyonight" height="180" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-ankush-3&theme=dark&hide_border=false" height="200" />
+</p>  
 
 ---
 
-<!-- Anime Coding Girl Banner -->
-<img src="https://i.pinimg.com/originals/1f/9a/0f/1f9a0f4c5f3a8a77c7a773a27d2c2d1f.gif" width="100%" />
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="mailto:prachiankush3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>  
+
+---
+
+
