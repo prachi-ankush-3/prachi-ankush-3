@@ -59,7 +59,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&langs_count=10&layout=compact&theme=tokyonight&hide=html,css,php,javascript,c,c%2B%2B" height="180" />
+
 </p>  
 
 <p align="center">
