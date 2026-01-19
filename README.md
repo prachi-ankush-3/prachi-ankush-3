@@ -54,6 +54,23 @@
 <p align="center">✨ <i>Crafting code with logic + creativity to build impactful solutions!</i> ✨</p>  
 
 ---
+---
+
+## 📊 GitHub Insights (Java Focused)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&theme=tokyonight&hide_border=true&hide=python,html,css,javascript&langs_count=5" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Primary%20Language-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+---
 
 
 ---
