@@ -63,8 +63,8 @@
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-ankush-3&theme=dark&hide_border=false" height="200" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&theme=dark&langs_count=5"/>
+</p>
 
 ---
 
