@@ -58,13 +58,9 @@
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&theme=tokyonight" height="180" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&theme=dark&langs_count=5"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&theme=tokyonight&langs_count=3&hide=html,css,javascript"/>
 </p>
+
 
 ---
 
