@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d4432,100:9FB38D&height=260&section=header&text=Prachi%20Ankush%20👩‍💻&fontSize=55&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=AI%20Enthusiast%20|%20Web%20%26%20App%20Developer%20|%20Designer&descAlignY=62&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3d4432&height=250&section=header&text=Prachi%20Ankush%20👩‍💻&fontSize=50&fontAlignY=40&fontColor=ffffff&fontAlign=50&desc=AI%20Enthusiast%20|%20Web%20&%20App%20Developer%20|%20Designer&descAlignY=65&descAlign=50&descSize=20&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi, I'm <b>Prachi Ankush</b> 👋</h1>  
@@ -87,4 +87,6 @@ src="https://streak-stats.demolab.com?user=prachi-ankush-3&theme=dark&hide_borde
 ---
 
 <!-- Footer -->
-<<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9FB38D,100:3d4432&height=130&section=footer&animation=twinkling" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3d4432&height=120&section=footer" />
+</p>
