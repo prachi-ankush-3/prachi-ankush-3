@@ -69,11 +69,7 @@ src="https://streak-stats.demolab.com?user=prachi-ankush-3&theme=dark&hide_borde
 
 </p>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/☕%20Java-Primary%20Language-3d4432?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-</p>
+<
 
 ---
 
