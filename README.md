@@ -56,22 +56,39 @@
 ---
 ---
 
-## 📊 GitHub Insights (Java Focused)
+<!-- ================= GITHUB INSIGHTS ================= -->
+
+# 🌿 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+  <!-- Stats Card -->
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9FB38D&icon_color=9FB38D&text_color=ffffff&ring_color=9FB38D"/>
+
+  <!-- Top Languages -->
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&hide_border=true&bg_color=0d1117&title_color=9FB38D&text_color=ffffff"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&theme=tokyonight&hide_border=true&hide=python,html,css,javascript&langs_count=5" height="180"/>
+
+  <!-- Streak Stats -->
+  <img height="170"
+       src="https://streak-stats.demolab.com?user=prachi-ankush-3&hide_border=true&background=0d1117&ring=9FB38D&fire=9FB38D&currStreakLabel=9FB38D&sideLabels=ffffff&dates=cccccc"/>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Primary%20Language-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+  <!-- Java Badge -->
+  <img src="https://img.shields.io/badge/☕%20Java-Primary%20Language-3d4432?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=prachi-ankush-3&color=3d4432&style=for-the-badge"/>
+
 </p>
-
----
-
 
 ---
 
