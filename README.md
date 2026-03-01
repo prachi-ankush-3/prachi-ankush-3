@@ -1,27 +1,97 @@
-<h1 align="center">Hi 👋, I'm Prachi Ankush</h1>
-<h3 align="center">✨ Building impactful tech with logic + creativity</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachi-ankush-3" alt="prachi-ankush-3" /></a> </p>
-
-- 📫 How to reach me **prachiankush3@gmail.com**
-
-- ⚡ Fun fact **I don’t just fix bugs… I adopt them, train them, and make them features**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prachiankush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prachiankush/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/prachi_ankush_3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/prachi_ankush_3/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/prachiankush3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/prachiankush3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/prachi_ankush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/prachi_ankush" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/prachi_ankush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/prachi_ankush/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/416312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="416312" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3d4432&height=250&section=header&text=Prachi%20Ankush%20👩‍💻&fontSize=50&fontAlignY=40&fontColor=ffffff&fontAlign=50&desc=AI%20Enthusiast%20|%20Web%20&%20App%20Developer%20|%20Designer&descAlignY=65&descAlign=50&descSize=20&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi, I'm <b>Prachi Ankush</b> 👋</h1>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachi-ankush-3&show_icons=true&locale=en&layout=compact" alt="prachi-ankush-3" /></p>
+<p>
+💻 Skilled in <b> Java, Android, DBMS, DSA</b>  
+<br>
+🚀 Passionate about <b>AI, Web Development, App Development & Creative Designing</b>  
+<br>
+🎯 Dedicated to <b>transforming ideas into impactful projects</b>  
+<br>
+✨ Always learning, always building, always evolving 💡  
+<br>
+⚡ Fun fact: <b>I don’t just fix bugs… I adopt them, train them, and make them features 🐞✨</b>  
+</p>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&locale=en" alt="prachi-ankush-3" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-ankush-3&" alt="prachi-ankush-3" /></p>
+## ⚡ Tech Stack  
+
+### 👩‍💻 Programming Languages  
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced%20Java-5382A1?style=for-the-badge&logo=java&logoColor=white" />
+</p>  
+
+<!-- Anime GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4d/25/26/4d2526e4db99f89bceccab696648efa6.gif" width="500" alt="Coding Anime" />
+</p>  
+
+### 📱 App & Web Development  
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>  
+
+### 🗄️ Database & Structures  
+<p align="center">
+  <img src="https://img.shields.io/badge/Database-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FF6F00?style=for-the-badge&logo=buffer&logoColor=white" />
+</p>  
+
+---
+
+<p align="center">✨ <i>Crafting code with logic + creativity to build impactful solutions!</i> ✨</p>  
+
+---
+---
+
+## 📊 GitHub Insights (Java Focused)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&theme=tokyonight&hide_border=true&hide=python,html,css,javascript&langs_count=5" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Primary%20Language-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+---
+
+
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="mailto:prachiankush3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>  
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3d4432&height=120&section=footer" />
+</p>
