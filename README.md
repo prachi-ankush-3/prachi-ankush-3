@@ -54,7 +54,6 @@
 <p align="center">✨ <i>Crafting code with logic + creativity to build impactful solutions!</i> ✨</p>  
 
 ---
----
 
 <!-- ================= GITHUB INSIGHTS ================= -->
 
@@ -69,9 +68,7 @@ src="https://streak-stats.demolab.com?user=prachi-ankush-3&theme=dark&hide_borde
 
 </p>
 
-<
 
----
 
 ## 🌍 Connect With Me  
 
