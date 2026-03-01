@@ -60,15 +60,7 @@
 
 <h2 align="center">🌿 GitHub Insights</h2>
 
-<p align="center">
 
-<img width="48%" 
-src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&hide_border=true&theme=dark&title_color=9FB38D&icon_color=9FB38D&text_color=ffffff&bg_color=0d1117"/>
-
-<img width="48%" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&hide_border=true&theme=dark&title_color=9FB38D&text_color=ffffff&bg_color=0d1117"/>
-
-</p>
 
 <p align="center">
 
