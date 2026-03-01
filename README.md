@@ -58,35 +58,28 @@
 
 <!-- ================= GITHUB INSIGHTS ================= -->
 
-# 🌿 GitHub Insights
+<h2 align="center">🌿 GitHub Insights</h2>
 
 <p align="center">
 
-  <!-- Stats Card -->
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9FB38D&icon_color=9FB38D&text_color=ffffff&ring_color=9FB38D"/>
+<img width="48%" 
+src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&hide_border=true&theme=dark&title_color=9FB38D&icon_color=9FB38D&text_color=ffffff&bg_color=0d1117"/>
 
-  <!-- Top Languages -->
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&hide_border=true&bg_color=0d1117&title_color=9FB38D&text_color=ffffff"/>
+<img width="48%" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&hide_border=true&theme=dark&title_color=9FB38D&text_color=ffffff&bg_color=0d1117"/>
 
 </p>
 
 <p align="center">
 
-  <!-- Streak Stats -->
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=prachi-ankush-3&hide_border=true&background=0d1117&ring=9FB38D&fire=9FB38D&currStreakLabel=9FB38D&sideLabels=ffffff&dates=cccccc"/>
+<img width="70%"
+src="https://streak-stats.demolab.com?user=prachi-ankush-3&theme=dark&hide_border=true&ring=9FB38D&fire=9FB38D&currStreakLabel=9FB38D&background=0d1117"/>
 
 </p>
 
 <p align="center">
 
-  <!-- Java Badge -->
-  <img src="https://img.shields.io/badge/☕%20Java-Primary%20Language-3d4432?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=prachi-ankush-3&color=3d4432&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☕%20Java-Primary%20Language-3d4432?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 </p>
 
