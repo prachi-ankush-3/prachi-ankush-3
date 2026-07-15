@@ -140,16 +140,14 @@ Fun Fact:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3&section=footer"/>
 </p>
 
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=95A27D&icon_color=95A27D"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=95A27D"/>
-
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 </p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -160,15 +158,7 @@ Fun Fact:
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prachi-ankush-3&theme=gruvbox&no-frame=true&row=1&column=7"/>
-
-</p>
 
 ---
 
@@ -180,15 +170,7 @@ Fun Fact:
 
 </p>
 
----
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
