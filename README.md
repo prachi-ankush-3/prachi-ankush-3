@@ -66,18 +66,41 @@ Fun Fact:
 ```
 
 ---
-
 <h2 align="center">🌿 Tech Stack</h2>
+
+<p align="center">
+  <i>Technologies and tools I use to build, learn, and create.</i>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3"/>
+</p>
 
 <table align="center" width="100%">
 
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
-### 💻 Development
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,js,php,react,nodejs,vite,androidstudio,firebase,mysql&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js&theme=dark&perline=5"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-95A27D?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,php&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Responsive%20Web%20Development-95A27D?style=for-the-badge"/>
 
 </td>
 
@@ -87,9 +110,53 @@ Fun Fact:
 
 <td align="center">
 
-### ⚙️ Tools & Cloud
+### 📱 Android Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,java&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Android%20Development-95A27D?style=for-the-badge&logo=android&logoColor=white"/>
+
+</td>
+
+<td align="center">
+
+### 🤖 AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/TensorFlow-95A27D?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🗄 Database
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MySQL-95A27D?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</td>
+
+<td align="center">
+
+### ⚙️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Daily%20Workflow-95A27D?style=for-the-badge&logo=github&logoColor=white"/>
 
 </td>
 
@@ -98,9 +165,44 @@ Fun Fact:
 </table>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3"/>
 </p>
 
+---
+
+<h2 align="center">📚 Core Computer Science</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures-95A27D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Algorithms-95A27D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OOP-95A27D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DBMS-95A27D?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Operating%20Systems-95A27D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Networks-95A27D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software%20Engineering-95A27D?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Debugging-95A27D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software%20Testing-95A27D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API%20Integration-95A27D?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+🌱 <i>Always exploring new technologies and continuously improving my skills.</i>
+</p>
 ---
 
 # 🔥 GitHub Streak
