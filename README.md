@@ -140,14 +140,6 @@ Fun Fact:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3&section=footer"/>
 </p>
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-</p>
 ---
 
 # 🔥 GitHub Streak
