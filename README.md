@@ -23,7 +23,6 @@
 
 # 🌿 Hello, I'm Prachi Ankush 👋
 
-<img align="right" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime.gif">
 <img align="right" width="320" src="https://media.tenor.com/JtS9Kx7vKnQAAAAC/anime-study.gif">
 <img align="right" width="320" src="https://media.tenor.com/tjR4k9K6LJgAAAAC/anime-computer.gif">
 
