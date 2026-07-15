@@ -23,7 +23,7 @@
 
 # 🌿 Hello, I'm Prachi Ankush 👋
 
-<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="320" src="https://media.tenor.com/NOYF3f82b_gAAAAC/anime-girl.gif">
 
 I'm a **Computer Engineering student** passionate about creating meaningful software through **Artificial Intelligence, Web Development, Android Development, and Problem Solving.**
 
