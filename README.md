@@ -173,31 +173,71 @@ Fun Fact:
 <h2 align="center">📚 Core Computer Science</h2>
 
 <p align="center">
+<i>Building strong fundamentals, one concept at a time.</i>
+</p>
+
+<table align="center" width="100%">
+
+<tr>
+
+<td align="center" width="33%">
+
+### 📖 Programming Concepts
 
 <img src="https://img.shields.io/badge/Data%20Structures-95A27D?style=for-the-badge"/>
 
+<br>
+
 <img src="https://img.shields.io/badge/Algorithms-95A27D?style=for-the-badge"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/OOP-95A27D?style=for-the-badge"/>
 
+</td>
+
+<td align="center" width="33%">
+
+### 💾 System Fundamentals
+
 <img src="https://img.shields.io/badge/DBMS-95A27D?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Operating%20Systems-95A27D?style=for-the-badge"/>
 
+<br>
+
 <img src="https://img.shields.io/badge/Computer%20Networks-95A27D?style=for-the-badge"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠 Software Engineering
 
 <img src="https://img.shields.io/badge/Software%20Engineering-95A27D?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Debugging-95A27D?style=for-the-badge"/>
 
+<br>
+
 <img src="https://img.shields.io/badge/Software%20Testing-95A27D?style=for-the-badge"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/API%20Integration-95A27D?style=for-the-badge"/>
 
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3"/>
 </p>
 
 <p align="center">
