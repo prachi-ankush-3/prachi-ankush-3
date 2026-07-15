@@ -71,78 +71,25 @@ Fun Fact:
 
 ---
 
-<h2 align="center">🌿 Tech Stack</h2>
+<h2 align="center">💻 Tech Arsenal</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=95A27D&center=true&vCenter=true&width=500&lines=Technologies+I+Love+💚;Always+Learning+New+Things+🌱"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=95A27D&center=true&vCenter=true&width=500&lines=Building+with+these+technologies..."/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3&section=header"/>
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,php,react,nodejs,vite,mysql,androidstudio,firebase,git,github,vscode,aws&perline=6&theme=dark"/>
+
 </p>
-
-<table align="center">
-<tr>
-
-<td align="center" width="50%">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,sql&theme=dark&perline=3"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Strong%20Foundation-95A27D?style=for-the-badge&logo=codeforces&logoColor=white"/>
-
-</td>
-
-<td align="center" width="50%">
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,php,react,nodejs,vite&theme=dark&perline=3"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Frontend%20%26%20Backend-95A27D?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 📱 Android
-
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase,java&theme=dark"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Native%20Apps-95A27D?style=for-the-badge&logo=android&logoColor=white"/>
-
-</td>
-
-<td align="center">
-
-### ⚙️ Tools & Cloud
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,figma&theme=dark&perline=3"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Daily%20Workflow-95A27D?style=for-the-badge&logo=github&logoColor=white"/>
-
-</td>
-
-</tr>
-</table>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3&section=footer"/>
-</p>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prachi-ankush-3&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prachi-ankush-3&theme=github_dark"/>
+
+</p>
 
 
 # 📈 GitHub Analytics
