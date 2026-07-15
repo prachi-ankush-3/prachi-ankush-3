@@ -71,88 +71,49 @@ Fun Fact:
 
 ---
 
-# 💻 Tech Stack
+# 🌿 Tech Universe
 
-## 👩‍💻 Programming Languages
+<div align="center">
 
-<p align="center">
+### 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,sql"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,sql&theme=dark"/>
 
-</p>
+<br><br>
 
----
+### 🌐 Web Development
 
-## 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,php,react,nodejs,vite&theme=dark"/>
 
-<p align="center">
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,php,js"/>
+### 📱 Mobile Development
 
-</p>
+<img src="https://skillicons.dev/icons?i=androidstudio,java,firebase&theme=dark"/>
 
----
+<br><br>
 
-## 📱 Android Development
+### 🤖 AI & Machine Learning
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=androidstudio"/>
+<br><br>
 
-</p>
+### 🗄 Databases
 
----
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
 
-## 🗄 Database
+<br><br>
 
-<p align="center">
+### ⚙ Tools
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,figma&theme=dark"/>
 
-</p>
-
----
-
-## ⚙ Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws"/>
-
-</p>
+</div>
 
 ---
 
-# 📚 Core Subjects
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures-95A27D?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Algorithms-95A27D?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OOP-95A27D?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DBMS-95A27D?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Operating%20Systems-95A27D?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer%20Networks-95A27D?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🌾 AgriInsight AI | AI-powered Plant Disease Detection & Smart Agriculture Assistant |
-| 🚌 TravAgent | AI Bus Booking Automation System |
-| 🤟 HandTalk | Hand Gesture to Speech & Text Converter |
-| 📱 Android Projects | Native Android Applications |
-
----
 
 # 📈 GitHub Analytics
 
@@ -224,17 +185,12 @@ Fun Fact:
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/prachiankush/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
-<a href="YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+
 
 </p>
 
