@@ -71,47 +71,51 @@ Fun Fact:
 
 ---
 
-# 🌿 Tech Universe
+# 🌿 Tech Stack
 
-<div align="center">
+<table align="center">
 
-### 👨‍💻 Languages
+<tr>
+
+<td align="center" width="50%">
+
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,sql&theme=dark"/>
 
-<br><br>
+</td>
 
-### 🌐 Web Development
+<td align="center">
+
+### 🌐 Web
 
 <img src="https://skillicons.dev/icons?i=html,css,php,react,nodejs,vite&theme=dark"/>
 
-<br><br>
+</td>
 
-### 📱 Mobile Development
+</tr>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,java,firebase&theme=dark"/>
+<tr>
 
-<br><br>
+<td align="center">
 
-### 🤖 AI & Machine Learning
+### 📱 Android
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase&theme=dark"/>
 
-<br><br>
+</td>
 
-### 🗄 Databases
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
-
-<br><br>
+<td align="center">
 
 ### ⚙ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws&theme=dark"/>
 
-</div>
+</td>
 
----
+</tr>
+
+</table>
 
 
 
