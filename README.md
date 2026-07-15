@@ -26,7 +26,6 @@
 <img align="right" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime.gif">
 <img align="right" width="320" src="https://media.tenor.com/JtS9Kx7vKnQAAAAC/anime-study.gif">
 <img align="right" width="320" src="https://media.tenor.com/tjR4k9K6LJgAAAAC/anime-computer.gif">
-<img align="right" width="320" src="https://media.tenor.com/JH4P6E4K5WAAAAAC/rain-anime.gif">
 
 I'm a **Computer Engineering student** passionate about creating meaningful software through **Artificial Intelligence, Web Development, Android Development, and Problem Solving.**
 
