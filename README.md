@@ -69,30 +69,15 @@ Fun Fact:
 
 <h2 align="center">🌿 Tech Stack</h2>
 
-<table align="center" width="90%">
+<table align="center" width="100%">
+
 <tr>
 
-<td align="center" width="50%">
+<td align="center">
 
-### 💻 Languages
+### 💻 Development
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,sql&theme=dark&perline=3"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Strong%20Foundation-95A27D?style=for-the-badge"/>
-
-</td>
-
-<td align="center" width="50%">
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,php,react,nodejs,vite&theme=dark&perline=3"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Frontend%20%26%20Backend-95A27D?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,js,php,react,nodejs,vite,androidstudio,firebase,mysql&theme=dark&perline=7"/>
 
 </td>
 
@@ -102,29 +87,14 @@ Fun Fact:
 
 <td align="center">
 
-### 📱 Android
+### ⚙️ Tools & Cloud
 
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase,java&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Native%20Apps-95A27D?style=for-the-badge"/>
-
-</td>
-
-<td align="center">
-
-### ☁️ Tools & Cloud
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,figma&theme=dark&perline=3"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Daily%20Workflow-95A27D?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,figma&theme=dark"/>
 
 </td>
 
 </tr>
+
 </table>
 
 <p align="center">
