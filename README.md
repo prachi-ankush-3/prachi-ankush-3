@@ -88,7 +88,7 @@ Fun Fact:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SQL-95A27D?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-3D4432?style=for-the-badge&logo=mysql&logoColor=white&color=3D4432"/>
 
 </td>
 
@@ -100,7 +100,7 @@ Fun Fact:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Responsive%20Web%20Development-95A27D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive%20Web%20Development-3D4432?style=for-the-badge&color=3D4432"/>
 
 </td>
 
@@ -116,7 +116,7 @@ Fun Fact:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Android%20Development-95A27D?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Development-3D4432?style=for-the-badge&logo=android&logoColor=white&color=3D4432"/>
 
 </td>
 
@@ -128,7 +128,7 @@ Fun Fact:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/TensorFlow-95A27D?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-3D4432?style=for-the-badge&logo=tensorflow&logoColor=white&color=3D4432"/>
 
 </td>
 
@@ -144,7 +144,7 @@ Fun Fact:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/MySQL-95A27D?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-3D4432?style=for-the-badge&logo=mysql&logoColor=white&color=3D4432"/>
 
 </td>
 
@@ -156,7 +156,7 @@ Fun Fact:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Daily%20Workflow-95A27D?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Daily%20Workflow-3D4432?style=for-the-badge&logo=github&logoColor=white&color=3D4432"/>
 
 </td>
 
@@ -184,15 +184,15 @@ Fun Fact:
 
 ### 📖 Programming Concepts
 
-<img src="https://img.shields.io/badge/Data%20Structures-95A27D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures-3D4432?style=for-the-badge&color=3D4432"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Algorithms-95A27D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-3D4432?style=for-the-badge&color=3D4432"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/OOP-95A27D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-3D4432?style=for-the-badge&color=3D4432"/>
 
 </td>
 
@@ -200,15 +200,15 @@ Fun Fact:
 
 ### 💾 System Fundamentals
 
-<img src="https://img.shields.io/badge/DBMS-95A27D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-3D4432?style=for-the-badge&color=3D4432"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Operating%20Systems-95A27D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-3D4432?style=for-the-badge&color=3D4432"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Computer%20Networks-95A27D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-3D4432?style=for-the-badge&color=3D4432"/>
 
 </td>
 
@@ -216,19 +216,19 @@ Fun Fact:
 
 ### 🛠 Software Engineering
 
-<img src="https://img.shields.io/badge/Software%20Engineering-95A27D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-3D4432?style=for-the-badge&color=3D4432"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Debugging-95A27D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Debugging-3D4432?style=for-the-badge&color=3D4432"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Software%20Testing-95A27D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Testing-3D4432?style=for-the-badge&color=3D4432"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/API%20Integration-95A27D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Integration-3D4432?style=for-the-badge&color=3D4432"/>
 
 </td>
 
