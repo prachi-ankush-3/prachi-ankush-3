@@ -18,9 +18,6 @@
 <!--          ANIME GIF          -->
 <!-- =========================== -->
 
-<p align="center">
-<img src="YOUR_TENOR_GIF_LINK" width="550"/>
-</p>
 
 ---
 
@@ -39,7 +36,7 @@ I enjoy turning ideas into real-world applications while continuously learning m
 - 💻 Full Stack Development
 - 📱 Android Applications
 - ☁ Learning AWS Cloud
-- 📚 Practicing DSA every day
+
 
 ---
 
@@ -61,8 +58,8 @@ Interests:
 Currently Learning:
   - React
   - TensorFlow
-  - AWS
-  - Advanced DSA
+  - AWS Cloud
+
 
 Fun Fact:
   "I don't fix bugs...
