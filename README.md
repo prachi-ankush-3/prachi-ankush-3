@@ -1,319 +1,320 @@
-<!-- =========================== -->
-<!--        FOREST BANNER        -->
-<!-- =========================== -->
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3d4432&height=260&section=header&text=Prachi%20Ankush&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20🌿&descAlignY=62"/>
-</p>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
 
-<!-- =========================== -->
-<!--      TYPING ANIMATION       -->
-<!-- =========================== -->
+<!--                    🌧️ CINEMATIC HEADER                       -->
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=95A27D&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;AI+Enthusiast;Full+Stack+Developer;Android+Developer;Open+Source+Learner;Always+Building+Something+New+🌱"/>
-</p>
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- =========================== -->
-<!--          ANIME GIF          -->
-<!-- =========================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0F0C&height=280&section=header&text=PRACHI%20ANKUSH&fontSize=58&fontColor=E8EDE3&animation=fadeIn&fontAlignY=38&desc=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20GROW%20%F0%9F%8C%BF&descAlignY=62&descSize=18&descColor=95A27D"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=900&color=95A27D&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Android+Developer;Cloud+%26+AWS+Learner;Turning+Ideas+Into+Real+Projects+%F0%9F%8C%B1" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=2&section=header"/>
+
+</div>
 
 ---
 
-# 🌿 Hello, I'm Prachi Ankush 👋
+<div align="center">
 
+### 🌧️ A little about me
 
-I'm a **Computer Engineering student** passionate about creating meaningful software through **Artificial Intelligence, Web Development, Android Development, and Problem Solving.**
+**I like turning ideas into things people can actually use.**
 
-I enjoy turning ideas into real-world applications while continuously learning modern technologies.
+I'm a **Computer Engineering student** exploring the intersection of
+**Artificial Intelligence, Software Engineering, Full Stack Development, Android and Cloud.**
 
-### 🌱 Currently
+I enjoy building projects, solving problems, experimenting with new technologies,
+and continuously improving the fundamentals behind the code.
 
-- 🤖 Building AI Projects
-- 🌾 Smart Agriculture Solutions
-- 💻 Full Stack Development
-- 📱 Android Applications
-- ☁ Learning AWS Cloud
+</div>
 
+<br>
+
+<div align="center">
+
+`🤖 AI`   `🌐 WEB`   `📱 ANDROID`   `☁️ CLOUD`   `🧠 DSA`
+
+</div>
 
 ---
 
-# 🌲 About Me
+## 🌿 Currently Exploring
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+* Machine Learning
+* TensorFlow
+* Computer Vision
+* MediaPipe
+* OpenCV
+* AI-powered applications
+
+</td>
+
+<td width="50%">
+
+### ☁️ Cloud & Development
+
+* AWS Cloud
+* React
+* Android Development
+* Firebase
+* Full Stack Development
+* Software Engineering
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🌲 Developer Profile
 
 ```yaml
-Name: Prachi Ankush
+name: Prachi Ankush
 
-Education:
-  B.Tech Computer Engineering
+education:
+  degree: B.Tech Computer Engineering
+  specialization: Software Engineering
 
-Interests:
+interests:
   - Artificial Intelligence
+  - Machine Learning
   - Full Stack Development
   - Android Development
-  - UI Design
-  - Open Source
+  - Cloud Computing
+  - UI/UX
+  - Problem Solving
 
-Currently Learning:
+currently_learning:
   - React
   - TensorFlow
-  - AWS Cloud
+  - AWS
+  - Advanced DSA
 
+mindset:
+  "Build it. Break it. Understand it. Improve it."
 
-Fun Fact:
+fun_fact:
   "I don't fix bugs...
    I convince them to become features."
 ```
 
 ---
-<h2 align="center">🌿 Tech Stack</h2>
 
-<p align="center">
-  <i>Technologies and tools I use to build, learn, and create.</i>
-</p>
+# 🌧️ Things I'm Building
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3"/>
-</p>
+<div align="center">
 
-<table align="center" width="100%">
+### 🌾 AgriInsight AI
 
-<tr>
+**Smart agriculture powered by AI**
 
-<td align="center" width="50%">
+An AI-focused project exploring intelligent solutions for agriculture and helping make agricultural insights more accessible.
 
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js&theme=dark&perline=5"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL-3D4432?style=for-the-badge&logo=mysql&logoColor=white&color=3D4432"/>
-
-</td>
-
-<td align="center" width="50%">
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,php&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Responsive%20Web%20Development-3D4432?style=for-the-badge&color=3D4432"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 📱 Android Development
-
-<img src="https://skillicons.dev/icons?i=androidstudio,java&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Android%20Development-3D4432?style=for-the-badge&logo=android&logoColor=white&color=3D4432"/>
-
-</td>
-
-<td align="center">
-
-### 🤖 AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/TensorFlow-3D4432?style=for-the-badge&logo=tensorflow&logoColor=white&color=3D4432"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🗄 Database
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MySQL-3D4432?style=for-the-badge&logo=mysql&logoColor=white&color=3D4432"/>
-
-</td>
-
-<td align="center">
-
-### ⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Daily%20Workflow-3D4432?style=for-the-badge&logo=github&logoColor=white&color=3D4432"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3"/>
-</p>
+`Python` `AI/ML` `Computer Vision` `TensorFlow`
 
 ---
 
-<h2 align="center">📚 Core Computer Science</h2>
+### 🖐️ HandTalk — Voice for the Voiceless
 
-<p align="center">
-<i>Building strong fundamentals, one concept at a time.</i>
-</p>
+**Real-time sign language recognition**
 
-<table align="center" width="100%">
+A computer-vision based project designed to recognize sign language and bridge communication gaps.
 
-<tr>
+`Python` `OpenCV` `MediaPipe` `TensorFlow`
 
-<td align="center" width="33%">
-
-### 📖 Programming Concepts
-
-<img src="https://img.shields.io/badge/Data%20Structures-3D4432?style=for-the-badge&color=3D4432"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Algorithms-3D4432?style=for-the-badge&color=3D4432"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/OOP-3D4432?style=for-the-badge&color=3D4432"/>
-
-</td>
-
-<td align="center" width="33%">
-
-### 💾 System Fundamentals
-
-<img src="https://img.shields.io/badge/DBMS-3D4432?style=for-the-badge&color=3D4432"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Operating%20Systems-3D4432?style=for-the-badge&color=3D4432"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Computer%20Networks-3D4432?style=for-the-badge&color=3D4432"/>
-
-</td>
-
-<td align="center" width="33%">
-
-### 🛠 Software Engineering
-
-<img src="https://img.shields.io/badge/Software%20Engineering-3D4432?style=for-the-badge&color=3D4432"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Debugging-3D4432?style=for-the-badge&color=3D4432"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Software%20Testing-3D4432?style=for-the-badge&color=3D4432"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/API%20Integration-3D4432?style=for-the-badge&color=3D4432"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3"/>
-</p>
-
-<p align="center">
-🌱 <i>Always exploring new technologies and continuously improving my skills.</i>
-</p>
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=prachi-ankush-3&theme=dark&hide_border=true&ring=95A27D&fire=95A27D&currStreakLabel=95A27D&background=0d1117"/>
-
-</p>
-
-
+📚 **Research Publication — Springer / Scopus Indexed**
 
 ---
 
-# 📊 Contribution Graph
+### 👥 TeamUp
 
-<p align="center">
+**Team Formation Platform**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-ankush-3&theme=github-dark&bg_color=0d1117&color=95A27D&line=95A27D&point=FFFFFF"/>
+An Android application designed to help students discover teammates, create profiles and build project teams.
 
-</p>
-
-
+`Java` `Android Studio` `Firebase`
 
 ---
 
-# ✍ Dev Quote
+### 🧩 BOMVision
 
-<p align="center">
+**BOM → Engineering Visualization**
 
-> **"Code grows best where curiosity is watered." 🌱**
+A software engineering project that processes Bill of Materials information and generates visual engineering representations.
 
-</p>
+`Python` `Streamlit` `Matplotlib` `Excel`
 
 ---
 
-# 🌎 Connect With Me
+### 🌍 AnyaWorld
 
-<p align="center">
+**Anime-inspired web experience**
+
+A creative web project focused on interactive design, visual storytelling and frontend development.
+
+`HTML` `CSS` `JavaScript`
+
+</div>
+
+---
+
+# 🛠️ My Tech Ecosystem
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,sql&theme=dark&perline=6"/>
+
+<br><br>
+
+### 🌐 Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,androidstudio,firebase&theme=dark&perline=6"/>
+
+<br><br>
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark&perline=6"/>
+
+<br><br>
+
+### ☁️ Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,streamlit&theme=dark&perline=6"/>
+
+</div>
+
+---
+
+# 🧠 Computer Science Foundations
+
+<div align="center">
+
+|  🧩 Programming |     💾 Systems    |    ⚙️ Engineering    |
+| :-------------: | :---------------: | :------------------: |
+| Data Structures |        DBMS       | Software Engineering |
+|    Algorithms   | Operating Systems |       Debugging      |
+|       OOP       | Computer Networks |   Software Testing   |
+| Problem Solving |        SQL        |    API Integration   |
+
+</div>
+
+---
+
+# 🔥 Consistency > Motivation
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=prachi-ankush-3&theme=dark&hide_border=true&background=0B0F0C&ring=95A27D&fire=95A27D&currStreakLabel=95A27D&sideLabels=95A27D&dates=89927F"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-ankush-3&bg_color=0B0F0C&color=95A27D&line=78906A&point=B7C3A0&area=true&hide_border=true&custom_title=Contribution%20Garden"/>
+
+</div>
+
+---
+
+# 🧠 Problem Solving
+
+<div align="center">
+
+### 💻 200+ LeetCode Problems Solved
+
+<img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-3D4432?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DSA-Always%20Learning-3D4432?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-Continuous-3D4432?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌱 What I Believe
+
+<div align="center">
+
+> **"Small progress every day eventually becomes something remarkable."**
+
+<br>
+
+`Learn → Build → Fail → Debug → Improve → Repeat`
+
+</div>
+
+---
+
+# 🌧️ Developer Mode
+
+<div align="center">
+
+```text
+              ┌─────────────────────────────────────┐
+              │                                     │
+              │       🌧️  CODING IN PROGRESS        │
+              │                                     │
+              │       coffee.exe        running     │
+              │       ideas.exe         running     │
+              │       bugs.exe          detected    │
+              │       debugging.exe     running     │
+              │                                     │
+              │       status: BUILDING 🌿           │
+              │                                     │
+              └─────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# 🌎 Let's Connect
+
+<div align="center">
 
 <a href="mailto:prachiankush3@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-3D4432?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/prachiankush/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-3D4432?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://github.com/prachi-ankush-3">
+<img src="https://img.shields.io/badge/GitHub-3D4432?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+</div>
 
+<br>
 
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=prachi-ankush-3&label=PROFILE%20VIEWS&color=3D4432&style=for-the-badge"/>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=prachi-ankush-3&label=Profile%20Views&color=95A27D&style=flat)
+### 🌿 Keep learning. Keep building. Keep growing.
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3D4432&height=150&section=footer"/>
 
----
-
-<p align="center">
-
-### 🌿 *"Keep learning. Keep building. Keep growing."*
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3d4432&height=140&section=footer"/>
-
-</p>
+</div>
