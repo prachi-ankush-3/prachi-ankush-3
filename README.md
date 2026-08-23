@@ -65,110 +65,155 @@ Fun Fact:
    I convince them to become features."
 ```
 
----
+<!-- ===================================================== -->
+<!--              🌧️ RAINY FOREST TECH STACK              -->
+<!-- ===================================================== -->
+
 <h2 align="center">🌿 Tech Stack</h2>
 
 <p align="center">
   <i>Technologies and tools I use to build, learn, and create.</i>
 </p>
 
+<!-- Rain animation -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=3D4432&height=80&section=header"
+    width="100%"
+  />
 </p>
 
-<table align="center" width="100%">
-
-<tr>
-
-<td align="center" width="50%">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js&theme=dark&perline=5"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL-3D4432?style=for-the-badge&logo=mysql&logoColor=white&color=3D4432"/>
-
-</td>
-
-<td align="center" width="50%">
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,php&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Responsive%20Web%20Development-3D4432?style=for-the-badge&color=3D4432"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 📱 Android Development
-
-<img src="https://skillicons.dev/icons?i=androidstudio,java&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Android%20Development-3D4432?style=for-the-badge&logo=android&logoColor=white&color=3D4432"/>
-
-</td>
-
-<td align="center">
-
-### 🤖 AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/TensorFlow-3D4432?style=for-the-badge&logo=tensorflow&logoColor=white&color=3D4432"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🗄 Database
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MySQL-3D4432?style=for-the-badge&logo=mysql&logoColor=white&color=3D4432"/>
-
-</td>
-
-<td align="center">
-
-### ⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Daily%20Workflow-3D4432?style=for-the-badge&logo=github&logoColor=white&color=3D4432"/>
-
-</td>
-
-</tr>
-
-</table>
+<!-- ===================================================== -->
+<!--                 ☁️ PROGRAMMING CLOUD                 -->
+<!-- ===================================================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=☁️+PROGRAMMING+LANGUAGES"/>
 </p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js&theme=dark&perline=5"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-3D4432?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                    🌧️ WEB CLOUD                      -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=☁️+WEB+DEVELOPMENT"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,php,react,vite,flask&theme=dark&perline=6"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Responsive%20Web%20Development-3D4432?style=for-the-badge"/>
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                  📱 ANDROID CLOUD                    -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=☁️+ANDROID+DEVELOPMENT"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,java&theme=dark&perline=4"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/XML-3D4432?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                   🤖 AI CLOUD                        -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=☁️+AI+%26+MACHINE+LEARNING"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark&perline=4"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Keras-3D4432?style=for-the-badge&logo=keras&logoColor=white"/>
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                  🗄️ DATABASE CLOUD                   -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=☁️+DATABASE"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-3D4432?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                    ⚙️ TOOLS CLOUD                    -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=☁️+TOOLS+%26+WORKFLOW"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=4"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Daily%20Workflow-3D4432?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                 🌧️ RAIN DIVIDER                      -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3"/>
+</p>
+
+<p align="center">
+  🌧️ &nbsp; 🌧️ &nbsp; 🌧️ &nbsp; 🌧️ &nbsp; 🌧️ &nbsp; 🌧️ &nbsp; 🌧️
+</p>
+
+<p align="center">
+  <i>Every drop of knowledge adds to the forest of experience. 🌲</i>
+</p>
+
+<p align="center">
+  🌧️ &nbsp; 🌧️ &nbsp; 🌧️ &nbsp; 🌧️ &nbsp; 🌧️ &nbsp; 🌧️ &nbsp; 🌧️
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3D4432&height=80&section=footer"/>
+</p>
 
 <h2 align="center">📚 Core Computer Science</h2>
 
