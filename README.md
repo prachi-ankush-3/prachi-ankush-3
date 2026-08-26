@@ -1,319 +1,323 @@
-<!-- =========================== -->
-<!--        FOREST BANNER        -->
-<!-- =========================== -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3D4432,100:95A27D&height=220&section=header&text=Prachi%20Ankush&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20🌿&descAlignY=58&descSize=20" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=95A27D&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+Enthusiast;Full+Stack+Developer;Android+Developer;Open+Source+Learner;Cloud+Learner;Always+Building+Something+New+%F0%9F%8C%B1" alt="Typing SVG" />
+</a>
+
+</div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3d4432&height=260&section=header&text=Prachi%20Ankush&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20🌿&descAlignY=62"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<!-- =========================== -->
-<!--      TYPING ANIMATION       -->
-<!-- =========================== -->
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=95A27D&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;AI+Enthusiast;Full+Stack+Developer;Android+Developer;Open+Source+Learner;Always+Building+Something+New+🌱"/>
-</p>
+## 🌿 Hello, I'm Prachi Ankush
 
-<!-- =========================== -->
-<!--          ANIME GIF          -->
-<!-- =========================== -->
+I'm a Computer Engineering student exploring the space between artificial intelligence, software engineering, and everyday problem-solving. I enjoy building things end-to-end — from AI models to Android apps to full-stack web projects — and I'm always looking for the next idea worth growing.
 
+<br/>
 
----
+<div align="center">
 
-# 🌿 Hello, I'm Prachi Ankush 👋
+🌱 Building AI-powered applications&nbsp;&nbsp;|&nbsp;&nbsp;🌾 Exploring Smart Agriculture
+<br/>
+💻 Building full-stack applications&nbsp;&nbsp;|&nbsp;&nbsp;📱 Developing Android applications
+<br/>
+☁️ Learning AWS Cloud
 
+</div>
 
-I'm a **Computer Engineering student** passionate about creating meaningful software through **Artificial Intelligence, Web Development, Android Development, and Problem Solving.**
+<br/>
 
-I enjoy turning ideas into real-world applications while continuously learning modern technologies.
+<p align="center">🌿 ── 🌲 ── 🌧️ ── ☁️ ── 🌙 ── ✨ ── 🌱</p>
 
-### 🌱 Currently
+<br/>
 
-- 🤖 Building AI Projects
-- 🌾 Smart Agriculture Solutions
-- 💻 Full Stack Development
-- 📱 Android Applications
-- ☁ Learning AWS Cloud
-
-
----
-
-# 🌲 About Me
+## 🌙 About Me
 
 ```yaml
 Name: Prachi Ankush
-
-Education:
-  B.Tech Computer Engineering
+Education: B.Tech Computer Engineering (Software Engineering) – VIT Pune
 
 Interests:
   - Artificial Intelligence
+  - Machine Learning
   - Full Stack Development
   - Android Development
   - UI Design
   - Open Source
+  - Cloud Computing
 
 Currently Learning:
   - React
   - TensorFlow
   - AWS Cloud
 
-
-Fun Fact:
-  "I don't fix bugs...
-   I convince them to become features."
+Fun Fact: "I don't fix bugs... I convince them to become features."
 ```
 
----
-<h2 align="center">🌿 Tech Stack</h2>
+<br/>
 
-<p align="center">
-  <i>Technologies and tools I use to build, learn, and create.</i>
-</p>
+## 💻 Tech Stack
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3"/>
-</p>
+<div align="center">
 
-<table align="center" width="100%">
+**Programming Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,py,cpp,c,js,mysql&theme=dark" />
 
+<br/><br/>
+
+**Web Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,php,react,vite,tailwind&theme=dark" />
+
+<br/><br/>
+
+**Android Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=androidstudio,java,firebase&theme=dark" />
+
+<br/><br/>
+
+**AI & Machine Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" />
+
+<br/><br/>
+
+**Cloud & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,mysql,firebase&theme=dark" />
+
+<br/><br/>
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" />
+
+</div>
+
+<br/>
+
+<p align="center">🌿 ── 🌲 ── 🌧️ ── ☁️ ── 🌙 ── ✨ ── 🌱</p>
+
+<br/>
+
+## 📚 Core Computer Science
+
+<table align="center">
 <tr>
+<td valign="top" width="33%">
 
-<td align="center" width="50%">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js&theme=dark&perline=5"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL-3D4432?style=for-the-badge&logo=mysql&logoColor=white&color=3D4432"/>
+**📚 Programming**
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
 
 </td>
+<td valign="top" width="33%">
 
-<td align="center" width="50%">
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,php&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Responsive%20Web%20Development-3D4432?style=for-the-badge&color=3D4432"/>
+**💾 System Fundamentals**
+- DBMS
+- Operating Systems
+- Computer Networks
 
 </td>
+<td valign="top" width="33%">
 
+**🛠 Software Engineering**
+- Software Engineering
+- Debugging
+- Software Testing
+- API Integration
+
+</td>
 </tr>
-
-<tr>
-
-<td align="center">
-
-### 📱 Android Development
-
-<img src="https://skillicons.dev/icons?i=androidstudio,java&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Android%20Development-3D4432?style=for-the-badge&logo=android&logoColor=white&color=3D4432"/>
-
-</td>
-
-<td align="center">
-
-### 🤖 AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/TensorFlow-3D4432?style=for-the-badge&logo=tensorflow&logoColor=white&color=3D4432"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🗄 Database
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MySQL-3D4432?style=for-the-badge&logo=mysql&logoColor=white&color=3D4432"/>
-
-</td>
-
-<td align="center">
-
-### ⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Daily%20Workflow-3D4432?style=for-the-badge&logo=github&logoColor=white&color=3D4432"/>
-
-</td>
-
-</tr>
-
 </table>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3"/>
-</p>
+<br/>
 
----
-
-<h2 align="center">📚 Core Computer Science</h2>
-
-<p align="center">
-<i>Building strong fundamentals, one concept at a time.</i>
-</p>
+## 🌲 Projects
 
 <table align="center" width="100%">
-
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" width="33%">
-
-### 📖 Programming Concepts
-
-<img src="https://img.shields.io/badge/Data%20Structures-3D4432?style=for-the-badge&color=3D4432"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Algorithms-3D4432?style=for-the-badge&color=3D4432"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/OOP-3D4432?style=for-the-badge&color=3D4432"/>
+### 🌾 BOMVision / CAD2BOM Pro
+AI-assisted engineering/BOM and technical drawing workflow.
 
 </td>
+<td width="50%" valign="top">
 
-<td align="center" width="33%">
-
-### 💾 System Fundamentals
-
-<img src="https://img.shields.io/badge/DBMS-3D4432?style=for-the-badge&color=3D4432"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Operating%20Systems-3D4432?style=for-the-badge&color=3D4432"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Computer%20Networks-3D4432?style=for-the-badge&color=3D4432"/>
+### 🌱 AgriInsight_AI
+AI / smart agriculture project.
 
 </td>
-
-<td align="center" width="33%">
-
-### 🛠 Software Engineering
-
-<img src="https://img.shields.io/badge/Software%20Engineering-3D4432?style=for-the-badge&color=3D4432"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Debugging-3D4432?style=for-the-badge&color=3D4432"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Software%20Testing-3D4432?style=for-the-badge&color=3D4432"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/API%20Integration-3D4432?style=for-the-badge&color=3D4432"/>
-
-</td>
-
 </tr>
+<tr>
+<td width="50%" valign="top">
 
+### 📱 TeamUp
+Android team formation platform using Java and Firebase.
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 PocketExpenseTracker / Taskora
+Android productivity and task-management application.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 AnyaWorld
+Web project inspired by Spy × Family.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤟 HandTalk – Voice for the Voiceless
+Real-time sign language recognition using Python, OpenCV and MediaPipe.
+Published through Springer and Scopus-indexed.
+
+</td>
+</tr>
 </table>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D4432&height=3"/>
-</p>
+<br/>
 
-<p align="center">
-🌱 <i>Always exploring new technologies and continuously improving my skills.</i>
-</p>
----
+<p align="center">🌿 ── 🌲 ── 🌧️ ── ☁️ ── 🌙 ── ✨ ── 🌱</p>
 
-# 🔥 GitHub Streak
+<br/>
 
-<p align="center">
+## 🏆 Experience & Achievements
 
-<img src="https://streak-stats.demolab.com?user=prachi-ankush-3&theme=dark&hide_border=true&ring=95A27D&fire=95A27D&currStreakLabel=95A27D&background=0d1117"/>
+<table align="center" width="100%">
+<tr>
+<td valign="top" width="50%">
 
-</p>
+**💼 Internship**
+<br/>
+Android Development Internship
+<br/>
+Stormsofts Technology
 
+</td>
+<td valign="top" width="50%">
 
+**☁️ Cloud**
+<br/>
+AWS Cloud learning through AWS Skill Builder
 
----
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-# 📊 Contribution Graph
+**🏆 Coding**
+<br/>
+200+ LeetCode problems solved
+<br/>
+LeetCode 100 Days Badge 2026
 
-<p align="center">
+</td>
+<td valign="top" width="50%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-ankush-3&theme=github-dark&bg_color=0d1117&color=95A27D&line=95A27D&point=FFFFFF"/>
+**📚 Research Publication**
+<br/>
+HandTalk – Voice for the Voiceless
+<br/>
+Springer / Scopus-indexed publication
 
-</p>
+</td>
+</tr>
+</table>
 
+<br/>
 
+## 🧩 LeetCode
 
----
+<div align="center">
 
-# ✍ Dev Quote
+![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Problems%20Solved-3D4432?style=for-the-badge&logo=leetcode&logoColor=95A27D&labelColor=0D1117)
+![LeetCode Streak](https://img.shields.io/badge/100%20Days%20Badge-2026-95A27D?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117)
 
-<p align="center">
+</div>
 
-> **"Code grows best where curiosity is watered." 🌱**
+<br/>
 
-</p>
+<p align="center">🌿 ── 🌲 ── 🌧️ ── ☁️ ── 🌙 ── ✨ ── 🌱</p>
 
----
+<br/>
 
-# 🌎 Connect With Me
+## 🌧️ GitHub Statistics
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&theme=dark&bg_color=0D1117&title_color=95A27D&icon_color=95A27D&text_color=FFFFFF&border_color=3D4432&hide_border=false" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=prachi-ankush-3&theme=dark&background=0D1117&ring=95A27D&fire=95A27D&currStreakLabel=95A27D&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=95A27D&border=3D4432" width="48%" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=prachi-ankush-3&label=Profile%20Views&color=3D4432&style=for-the-badge" />
+
+</div>
+
+<br/>
+
+## ☁️ Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-ankush-3&bg_color=0D1117&color=95A27D&line=95A27D&point=FFFFFF&area=true&hide_border=true" width="90%" />
+
+</div>
+
+<br/>
+
+<p align="center">🌿 ── 🌲 ── 🌧️ ── ☁️ ── 🌙 ── ✨ ── 🌱</p>
+
+<br/>
+
+<div align="center">
+
+### 🌱 Dev Quote
+
+> **"Code grows best where curiosity is watered."** 🌱
+
+</div>
+
+<br/>
+
+## 🌙 Connect With Me
+
+<div align="center">
 
 <a href="mailto:prachiankush3@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-3D4432?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </a>
-
 <a href="https://www.linkedin.com/in/prachiankush/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-95A27D?style=for-the-badge&logo=linkedin&logoColor=0D1117" />
+</a>
+<a href="https://github.com/prachi-ankush-3">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=95A27D" />
 </a>
 
+</div>
 
+<br/>
 
+<div align="center">
 
-</p>
+🌿 *Keep learning. Keep building. Keep growing.*
 
----
+</div>
 
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=prachi-ankush-3&label=Profile%20Views&color=95A27D&style=flat)
-
-</p>
-
----
-
-<p align="center">
-
-### 🌿 *"Keep learning. Keep building. Keep growing."*
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3d4432&height=140&section=footer"/>
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:95A27D,50:3D4432,100:0D1117&height=120&section=footer" />
