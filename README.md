@@ -245,18 +245,6 @@ Fun Fact:
 </p>
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=prachi-ankush-3&theme=dark&hide_border=true&ring=95A27D&fire=95A27D&currStreakLabel=95A27D&background=0d1117"/>
-
-</p>
-
-
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
