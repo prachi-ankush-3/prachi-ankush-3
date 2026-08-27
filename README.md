@@ -245,15 +245,14 @@ Fun Fact:
 </p>
 ---
 
-# 📊 Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-ankush-3&theme=github-dark&bg_color=0d1117&color=95A27D&line=95A27D&point=FFFFFF"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-ankush-3&bg_color=0d1117&color=95A27D&line=95A27D&point=FFFFFF&area_color=3D4432&area=true&hide_border=true"
+    width="95%"
+  />
 </p>
-
-
 
 ---
 
