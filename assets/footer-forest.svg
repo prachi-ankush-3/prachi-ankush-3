@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" role="img" aria-label="Living forest footer">
+  <defs>
+    <linearGradient id="fg" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#1B2117"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <filter id="fglo" x="-50%" y="-80%" width="200%" height="260%">
+      <feGaussianBlur stdDeviation="1.4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="160" fill="url(#fg)"/>
+  <g fill="#263021">
+    <polygon points="80,160 110,70 140,160"/>
+    <polygon points="200,160 230,90 260,160"/>
+    <polygon points="320,160 365,40 410,160"/>
+    <polygon points="480,160 510,85 540,160"/>
+    <polygon points="600,160 645,48 690,160"/>
+    <polygon points="760,160 790,88 820,160"/>
+  </g>
+  <g fill="#3D4432" opacity="0.75">
+    <polygon points="95,160 110,90 125,160"/>
+    <polygon points="340,160 365,62 390,160"/>
+    <polygon points="620,160 645,70 670,160"/>
+  </g>
+  <path d="M0 150 C120 140 180 148 300 146 C420 144 500 152 620 148 C740 144 820 150 900 146" fill="none" stroke="#3D4432" stroke-width="1.4"/>
+  <path d="M0 150 C120 140 180 148 300 146 C420 144 500 152 620 148 C740 144 820 150 900 146" fill="none" stroke="#95A27D" stroke-width="1" stroke-dasharray="10 22" opacity="0.7">
+    <animate attributeName="stroke-dashoffset" values="0;-64" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <g filter="url(#fglo)">
+    <circle cx="150" cy="50" r="1.5" fill="#95A27D">
+      <animate attributeName="opacity" values="0.15;1;0.15" dur="3.5s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="50;36;50" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="365" cy="30" r="1.6" fill="#FFFFFF">
+      <animate attributeName="opacity" values="0.2;0.95;0.2" dur="4s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="645" cy="28" r="1.5" fill="#95A27D">
+      <animate attributeName="opacity" values="0.15;1;0.15" dur="3.8s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="790" cy="42" r="1.3" fill="#B8C4A3">
+      <animate attributeName="opacity" values="0.1;0.9;0.1" dur="4.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="450" y="24" text-anchor="middle" fill="#95A27D" font-family="Courier New, monospace" font-size="13" letter-spacing="5">BUILD. BREAK. LEARN. FIX. REPEAT.</text>
+</svg>

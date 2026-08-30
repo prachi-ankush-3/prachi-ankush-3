@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" role="img" aria-label="Typing developer class">
+  <defs>
+    <clipPath id="c0"><rect x="40" y="36" width="0" height="22"><animate attributeName="width" from="0" to="160" dur="0.6s" begin="0.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c1"><rect x="40" y="66" width="0" height="22"><animate attributeName="width" from="0" to="200" dur="0.5s" begin="0.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="40" y="90" width="0" height="22"><animate attributeName="width" from="0" to="420" dur="1.1s" begin="1.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="40" y="114" width="0" height="22"><animate attributeName="width" from="0" to="500" dur="1.2s" begin="2.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="40" y="138" width="0" height="22"><animate attributeName="width" from="0" to="430" dur="1s" begin="4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="40" y="162" width="0" height="22"><animate attributeName="width" from="0" to="80" dur="0.25s" begin="5.1s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="40" y="198" width="0" height="22"><animate attributeName="width" from="0" to="210" dur="0.6s" begin="5.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c7"><rect x="40" y="222" width="0" height="22"><animate attributeName="width" from="0" to="360" dur="1s" begin="6.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c8"><rect x="40" y="246" width="0" height="22"><animate attributeName="width" from="0" to="80" dur="0.25s" begin="7.3s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <rect width="720" height="340" fill="#0D1117"/>
+  <style>
+    .t { font-family: "Courier New", Courier, monospace; font-size: 15px; }
+  </style>
+  <text class="t" x="40" y="28" fill="#95A27D" font-size="13" letter-spacing="2">&gt; EXECUTING...</text>
+  <text class="t" x="40" y="52" fill="#72805F" clip-path="url(#c0)">class Developer:</text>
+  <text class="t" x="40" y="82" fill="#58634A" clip-path="url(#c1)">    def __init__(self):</text>
+  <text class="t" x="40" y="106" fill="#B8C4A3" clip-path="url(#c2)">        self.name = "Prachi"</text>
+  <text class="t" x="40" y="130" fill="#B8C4A3" clip-path="url(#c3)">        self.skills = ["Java", "Python", "React"]</text>
+  <text class="t" x="40" y="154" fill="#B8C4A3" clip-path="url(#c4)">        self.learning = ["AI", "AWS"]</text>
+  <text class="t" x="40" y="178" fill="#58634A" clip-path="url(#c5)"></text>
+  <text class="t" x="40" y="214" fill="#72805F" clip-path="url(#c6)">    def build(self):</text>
+  <text class="t" x="40" y="238" fill="#FFFFFF" clip-path="url(#c7)">        return "ideas ’ software"</text>
+  <text class="t" x="40" y="286" fill="#95A27D" opacity="0">BUILD SUCCESSFUL 
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="7.7s" fill="freeze"/>
+  </text>
+  <rect x="40" y="292" width="8" height="15" fill="#95A27D">
+    <animate attributeName="x" values="40;200;200;460;460;540;540;120;120;250;250;400;400" keyTimes="0;0.08;0.11;0.22;0.34;0.48;0.62;0.66;0.7;0.78;0.9;0.95;1" dur="7.7s" fill="freeze"/>
+    <animate attributeName="y" values="40;40;70;94;118;142;166;202;226;226;270;270;270" dur="7.7s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" begin="7.7s" repeatCount="indefinite"/>
+  </rect>
+</svg>

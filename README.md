@@ -1,68 +1,37 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:0D1117,40:3D4432,100:95A27D&fontColor=95A27D&text=SYSTEM%20ONLINE&fontSize=18&animation=twinkling&fontAlignY=78" width="100%" alt="system online" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/scan.svg" width="100%" alt="" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h1>PRACHI ANKUSH</h1>
-
-  <p>
-    COMPUTER ENGINEER<br/>
-    DEVELOPER · BUILDER · PROBLEM SOLVER
-  </p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=800&color=95A27D&center=true&vCenter=true&width=560&cursor=true&lines=Java+%E2%86%92+Python+%E2%86%92+C%2B%2B;Building+with+React;Exploring+AI+%26+Computer+Vision;Learning+AWS+%26+Linux;Solving+DSA+Problems" alt="typing" />
-</div>
-
-<br/>
-
-<div align="center">
-  <em>Turning ideas into software, one commit at a time.</em>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/branch.svg" width="100%" alt="" />
-</div>
-
-<br/>
-
-<div align="center">
-  <code>whoami</code>
+  <img src="./assets/boot.svg" width="100%" alt="BIOS boot sequence — PRACHI ANKUSH SYSTEM ONLINE" />
 </div>
 
 <div align="center">
-  <img src="./assets/identity.svg" width="680" alt="digital identity" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/branch.svg" width="100%" alt="" />
-</div>
-
-<br/>
-
-<div align="center">
-  <code>signal</code>
+  <img src="./assets/fireflies.svg" width="100%" alt="" />
 </div>
 
 <div align="center">
-  <img src="./assets/stats.svg" width="100%" alt="system readout" />
+  <img src="./assets/terminal-rain.svg" width="100%" alt="terminal rain of git and code commands" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="./assets/typing-code.svg" width="720" alt="executing Developer class" />
+</div>
 
 <div align="center">
-  <img src="./assets/branch.svg" width="100%" alt="" />
+  <img src="./assets/rootline.svg" width="100%" alt="" />
+</div>
+
+<div align="center">
+  <img src="./assets/code-tree.svg" width="100%" alt="code growing into a digital forest tree" />
+</div>
+
+<div align="center">
+  <img src="./assets/identity.svg" width="860" alt="Prachi Ankush — Computer Engineering student, VIT Pune, CGPA 9.55, 200+ LeetCode" />
+</div>
+
+<div align="center">
+  <img src="./assets/fireflies.svg" width="100%" alt="" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2400&pause=700&color=95A27D&center=true&vCenter=true&width=560&cursor=true&lines=Java+%E2%86%92+Python+%E2%86%92+React;Building+with+AI+%26+Computer+Vision;Learning+AWS+%26+Linux;Turning+ideas+into+software" alt="typing" />
 </div>
 
 <br/>
@@ -71,160 +40,89 @@
   <code>TECH DNA</code>
 </div>
 
-<br/>
+<div align="center">
+  <img src="./assets/tech-network.svg" width="100%" alt="tech DNA node network" />
+</div>
 
 <div align="center">
-  <sub>LANGUAGES</sub><br/>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark" alt="languages" /><br/>
-  <img src="./assets/flow.svg" width="28" alt="" /><br/>
-  <sub>BUILD</sub><br/>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,php&theme=dark" alt="build" /><br/>
-  <img src="./assets/flow.svg" width="28" alt="" /><br/>
-  <sub>CREATE</sub><br/>
-  <img src="https://skillicons.dev/icons?i=androidstudio,opencv,tensorflow&theme=dark" alt="create" /><br/>
-  <sub>OpenCV · MediaPipe · TensorFlow</sub><br/>
-  <img src="./assets/flow.svg" width="28" alt="" /><br/>
-  <sub>CONNECT</sub><br/>
-  <img src="https://skillicons.dev/icons?i=aws,linux,mysql,git,github,vscode&theme=dark" alt="connect" />
+  <sub>CORE</sub><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark" alt="Java Python C++ C" /><br/><br/>
+  <sub>WEB</sub><br/>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,php&theme=dark" alt="React JavaScript HTML CSS PHP" /><br/><br/>
+  <sub>AI / VISION</sub><br/>
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow&theme=dark" alt="OpenCV TensorFlow" /><br/>
+  <sub>OpenCV · MediaPipe · TensorFlow</sub><br/><br/>
+  <sub>MOBILE</sub><br/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,java&theme=dark" alt="Android Java" /><br/><br/>
+  <sub>CLOUD</sub><br/>
+  <img src="https://skillicons.dev/icons?i=aws,linux&theme=dark" alt="AWS Linux" /><br/><br/>
+  <sub>TOOLS</sub><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" alt="Git GitHub VS Code MySQL" />
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>DSA · OOP · DBMS · OS · CN · SE</sub>
+  <img src="./assets/rootline.svg" width="100%" alt="" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/branch.svg" width="100%" alt="" />
-</div>
-
-<br/>
 
 <div align="center">
   <code>BUILD LOG</code>
 </div>
 
 ```
-●  2026
-│
-├──  EngiSummary
-│    Engineering Drawing Intelligence
-│    React · Python · AI
-│    STATUS: BUILDING
+●
+│  EngiSummary
+│  Engineering Drawing Intelligence
+│  React · Python · AI
+│  ● BUILDING
 │
 ●
-│
-├──  TravAgent
-│    AI Travel & Bus Assistant
-│    Python · React
-│
-●
-│
-├──  HandTalk
-│    Sign Language → Text + Speech
-│    Python · OpenCV · MediaPipe
-│    SPRINGER · SCOPUS
+│  TravAgent
+│  AI Travel & Bus Assistant
+│  Python · FastAPI · React
 │
 ●
+│  HandTalk — Voice for the Voiceless
+│  Python · OpenCV · MediaPipe
+│  SPRINGER · SCOPUS INDEXED
 │
-└──  TaskPro
-     Smart Team Collaboration
-     PHP · MySQL · JavaScript
+●
+│  TaskPro
+│  Smart Team Collaboration
+│  PHP · MySQL · JavaScript
 ```
 
-<p>
-  <a href="https://github.com/prachi-ankush-3/EngiSummary">VIEW → EngiSummary</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/prachi-ankush-3/TravAgent">VIEW → TravAgent</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/prachi-ankush-3/HandTalk">VIEW → HandTalk</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/prachi-ankush-3/TaskPro">VIEW → TaskPro</a>
-</p>
-
-<br/>
+[VIEW → EngiSummary](https://github.com/prachi-ankush-3/EngiSummary) ·
+[VIEW → TravAgent](https://github.com/prachi-ankush-3/TravAgent) ·
+[VIEW → HandTalk](https://github.com/prachi-ankush-3/HandTalk) ·
+[VIEW → TaskPro](https://github.com/prachi-ankush-3/TaskPro)
 
 <div align="center">
-  <img src="./assets/branch.svg" width="100%" alt="" />
+  <img src="./assets/rootline.svg" width="100%" alt="" />
 </div>
-
-<br/>
 
 <div align="center">
   <code>ACHIEVEMENT SYSTEM</code>
 </div>
 
 <div align="center">
-  <img src="./assets/achievements.svg" width="680" alt="achievement nodes" />
+  <img src="./assets/achievements.svg" width="720" alt="unlocked achievements and next cycle" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/branch.svg" width="100%" alt="" />
-</div>
-
-<br/>
-
-<div align="center">
-  <code>CONTRIBUTION FOREST</code>
-  <br/>
-  <sub>every contribution grows the forest</sub>
-</div>
-
-<div align="center">
-  <img src="./assets/forest.svg" width="100%" alt="digital forest" />
-</div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/95A27D/prachi-ankush-3" alt="contribution canopy" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-ankush-3&bg_color=0D1117&color=95A27D&line=95A27D&point=FFFFFF&area=true&area_color=3D4432&hide_border=true&custom_title=canopy%20growth" width="100%" alt="contribution landscape" />
-</div>
-
-<br/>
-
-<div align="center">
-  <code>CODE IN MOTION</code>
-</div>
-
-<div align="center">
-  <img src="./assets/code-rain.svg" width="100%" alt="code rain" />
-</div>
-
-<br/>
 
 <div align="center">
   <code>DEVELOPER TELEMETRY</code>
 </div>
 
 <div align="center">
-  <img height="148" src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=95A27D&icon_color=95A27D&text_color=FFFFFF&ring_color=95A27D" alt="github stats" />
-  <img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=95A27D&text_color=FFFFFF" alt="top languages" />
-  <img height="148" src="https://streak-stats.demolab.com?user=prachi-ankush-3&background=0D1117&border=3D4432&stroke=3D4432&ring=95A27D&fire=95A27D&currStreakNum=FFFFFF&sideNums=95A27D&currStreakLabel=95A27D&sideLabels=95A27D&dates=3D4432&hide_border=true" alt="streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/branch.svg" width="100%" alt="" />
-</div>
-
-<br/>
-
-<div align="center">
-  <code>LIVE DEVELOPMENT</code>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=95A27D&icon_color=95A27D&text_color=FFFFFF&ring_color=95A27D" alt="GitHub stats" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=95A27D&text_color=FFFFFF" alt="Top languages" />
+  <img height="140" src="https://streak-stats.demolab.com?user=prachi-ankush-3&background=0D1117&border=3D4432&stroke=3D4432&ring=95A27D&fire=95A27D&currStreakNum=FFFFFF&sideNums=95A27D&currStreakLabel=95A27D&sideLabels=95A27D&dates=72805F&hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="./assets/live.svg" width="680" alt="live development" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-ankush-3&bg_color=0D1117&color=95A27D&line=95A27D&point=B8C4A3&area=true&area_color=263021&hide_border=true&custom_title=growth" width="100%" alt="contribution landscape" />
 </div>
-
-<br/>
 
 <div align="center">
   <code>CONTRIBUTION TRAIL</code>
@@ -235,33 +133,33 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution trail" src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
-<br/>
-
 <div align="center">
-  <code>PATH</code>
+  <img src="./assets/live-status.svg" width="720" alt="live development status" />
 </div>
 
 <div align="center">
-  <img src="./assets/path.svg" width="680" alt="education and experience" />
+  <code>CONTRIBUTION RAIN</code>
 </div>
-
-<br/>
 
 <div align="center">
-  <img src="./assets/philosophy.svg" width="100%" alt="BUILD. BREAK. LEARN. FIX. REPEAT." />
+  <img src="./assets/contribution-rain.svg" width="100%" alt="commit push merge rain" />
 </div>
-
-<br/>
 
 <div align="center">
-  <img src="./assets/exit.svg" width="680" alt="exit" />
+  <img src="./assets/code-tree.svg" width="100%" alt="growth from contribution into forest" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="./assets/shutdown.svg" width="860" alt="session complete — system still online" />
+</div>
+
+<div align="center">
+  <img src="./assets/footer-forest.svg" width="100%" alt="BUILD. BREAK. LEARN. FIX. REPEAT." />
+</div>
 
 <div align="center">
   <a href="https://github.com/prachi-ankush-3"><img src="https://cdn.simpleicons.org/github/95A27D" height="22" alt="GitHub" /></a>
@@ -275,8 +173,6 @@
   <a href="mailto:prachiankush3@gmail.com"><img src="https://cdn.simpleicons.org/gmail/95A27D" height="22" alt="Email" /></a>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0D1117,50:3D4432,100:95A27D&fontColor=95A27D&text=STATUS%20ONLINE&fontSize=16&animation=twinkling&fontAlignY=68" width="100%" alt="forest wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0D1117,45:3D4432,100:95A27D&fontColor=95A27D&text=ONLINE&fontSize=16&animation=twinkling&fontAlignY=70" width="100%" alt="forest wave" />
 </div>

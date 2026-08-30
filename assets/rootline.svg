@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 18" role="img" aria-hidden="true">
+  <rect width="900" height="18" fill="#0D1117"/>
+  <path d="M0 9 H360 L390 3 H430 L470 15 H510 L900 9" fill="none" stroke="#263021" stroke-width="1"/>
+  <path d="M0 9 H360 L390 3 H430 L470 15 H510 L900 9" fill="none" stroke="#95A27D" stroke-width="1" stroke-dasharray="6 16" opacity="0.65">
+    <animate attributeName="stroke-dashoffset" values="0;-44" dur="4.5s" repeatCount="indefinite"/>
+  </path>
+</svg>
