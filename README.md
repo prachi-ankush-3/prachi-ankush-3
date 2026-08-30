@@ -185,26 +185,8 @@
 | 🟢 | **RESEARCHER** — HandTalk paper published, Springer · Scopus-indexed |
 
 <details>
-<summary><b>🟢 CERTIFIED / TRAINED</b> — expand</summary>
-<br/>
 
-- Android Development Internship — Stormsoft Technologies
-- Data Engineering Training Badge — AWS Academy Graduate
-- Technology Job Simulation — Deloitte
 
-</details>
-
-<br/>
-
-<sub><b>NEXT UNLOCKS</b> · in progress</sub>
-
-`🔒 500+ LeetCode`&nbsp; `🔒 Open Source Contributor`&nbsp; `🔒 Hackathon Win`&nbsp; `🔒 Advanced Cloud Cert`
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:95A27D,100:3D4432&height=3&width=100%25" width="100%"/>
-</div>
-
-<div align="center">
 
 ## 🌧️ CONTRIBUTION RAIN
 
