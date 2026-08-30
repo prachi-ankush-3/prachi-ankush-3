@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" role="img" aria-label="Education and experience path">
+  <style>
+    .y { font-family: "Courier New", Courier, monospace; fill: #95A27D; font-size: 12px; }
+    .n { font-family: "Trebuchet MS", "Segoe UI", sans-serif; fill: #FFFFFF; font-size: 16px; }
+    .d { font-family: "Courier New", Courier, monospace; fill: #95A27D; font-size: 12px; }
+  </style>
+  <rect width="720" height="240" fill="#0D1117"/>
+  <path d="M24 20 V220" stroke="#3D4432" stroke-width="2"/>
+  <circle cx="24" cy="32" r="5" fill="#95A27D"/>
+  <text class="y" x="48" y="24">2025 ’ 2028</text>
+  <text class="n" x="48" y="46">VIT Pune · B.Tech Computer Engineering</text>
+  <text class="d" x="48" y="64">Software Engineering · CGPA 9.55</text>
+  <circle cx="24" cy="100" r="5" fill="#95A27D"/>
+  <text class="y" x="48" y="92">2024</text>
+  <text class="n" x="48" y="114">Stormsofts Technology</text>
+  <text class="d" x="48" y="132">Software Development Intern  Android · JunJul</text>
+  <circle cx="24" cy="168" r="5" fill="#95A27D"/>
+  <text class="y" x="48" y="160">2022 ’ 2025</text>
+  <text class="n" x="48" y="182">Government Residence Women Polytechnic, Tasgaon</text>
+  <text class="d" x="48" y="200">Diploma in Information Technology · 92.00%</text>
+  <circle cx="24" cy="220" r="3" fill="#3D4432"/>
+  <text class="d" x="48" y="224">SSC 20212022 · 92.80% · S.V.U.B. Patwardhan Kanya Prashala</text>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" role="img" aria-label="Digital forest growing with contributions">
+  <rect width="900" height="160" fill="#0D1117"/>
+  <g fill="#3D4432">
+    <polygon points="70,140 100,40 130,140"/>
+    <polygon points="160,140 185,70 210,140"/>
+    <polygon points="240,140 280,28 320,140"/>
+    <polygon points="350,140 375,78 400,140"/>
+    <polygon points="430,140 470,22 510,140"/>
+    <polygon points="540,140 565,82 590,140"/>
+    <polygon points="620,140 660,36 700,140"/>
+    <polygon points="730,140 755,74 780,140"/>
+    <polygon points="800,140 825,90 850,140"/>
+  </g>
+  <g fill="#95A27D" opacity="0.55">
+    <polygon points="80,140 100,58 120,140"/>
+    <polygon points="255,140 280,48 305,140"/>
+    <polygon points="445,140 470,42 495,140"/>
+    <polygon points="635,140 660,56 685,140"/>
+  </g>
+  <rect x="95" y="140" width="10" height="12" fill="#3D4432"/>
+  <rect x="275" y="140" width="10" height="12" fill="#3D4432"/>
+  <rect x="465" y="140" width="10" height="12" fill="#3D4432"/>
+  <rect x="655" y="140" width="10" height="12" fill="#3D4432"/>
+  <g>
+    <circle cx="120" cy="50" r="1.6" fill="#95A27D">
+      <animate attributeName="cy" values="120;30;120" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="280" cy="40" r="1.4" fill="#FFFFFF">
+      <animate attributeName="cy" values="130;20;130" dur="6.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="6.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="470" cy="35" r="1.8" fill="#95A27D">
+      <animate attributeName="cy" values="125;18;125" dur="4.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="4.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="660" cy="48" r="1.5" fill="#95A27D">
+      <animate attributeName="cy" values="128;26;128" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="70" r="1.2" fill="#95A27D">
+      <animate attributeName="opacity" values="0.1;1;0.1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="540" cy="64" r="1.2" fill="#95A27D">
+      <animate attributeName="opacity" values="0.1;1;0.1" dur="3s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="58" r="1.2" fill="#FFFFFF">
+      <animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.7s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="450" y="24" text-anchor="middle" fill="#3D4432" font-family="Courier New, monospace" font-size="11" letter-spacing="4">EVERY COMMIT GROWS THE CANOPY</text>
+</svg>

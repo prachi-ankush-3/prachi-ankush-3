@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 150" role="img" aria-label="Exit terminal">
+  <style>
+    .t { font-family: "Courier New", Courier, monospace; }
+  </style>
+  <rect width="720" height="150" fill="#0D1117"/>
+  <text class="t" x="24" y="32" fill="#3D4432" font-size="13">prachi@github:~$</text>
+  <text class="t" x="186" y="32" fill="#95A27D" font-size="13">exit</text>
+  <text class="t" x="24" y="64" fill="#FFFFFF" font-size="16">Thanks for visiting.</text>
+  <text class="t" x="24" y="96" fill="#95A27D" font-size="13">STATUS: ONLINE</text>
+  <text class="t" x="24" y="122" fill="#3D4432" font-size="13">NEXT COMMIT: LOADING</text>
+  <rect x="214" y="110" width="8" height="14" fill="#95A27D">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text class="t" x="228" y="122" fill="#95A27D" font-size="13">...</text>
+</svg>

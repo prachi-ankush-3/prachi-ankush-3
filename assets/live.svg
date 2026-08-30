@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" role="img" aria-label="Live development status">
+  <style>
+    .t { font-family: "Courier New", Courier, monospace; }
+    .k { fill: #3D4432; font-size: 13px; letter-spacing: 2px; }
+    .v { fill: #FFFFFF; font-size: 14px; }
+    .a { fill: #95A27D; font-size: 12px; letter-spacing: 3px; }
+  </style>
+  <rect width="720" height="220" fill="#0D1117"/>
+  <circle cx="36" cy="28" r="5" fill="#95A27D">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <text class="t a" x="52" y="32">ACTIVE</text>
+  <text class="t k" x="36" y="68">BUILDING</text>
+  <text class="t v" x="200" y="68">’  EngiSummary</text>
+  <text class="t k" x="36" y="96">LEARNING</text>
+  <text class="t v" x="200" y="96">’  AWS / Linux</text>
+  <text class="t k" x="36" y="124">EXPLORING</text>
+  <text class="t v" x="200" y="124">’  AI / Computer Vision</text>
+  <text class="t k" x="36" y="152">PRACTICING</text>
+  <text class="t v" x="200" y="152">’  DSA</text>
+  <text class="t k" x="36" y="180">DEVELOPING</text>
+  <text class="t v" x="200" y="180">’  React</text>
+  <rect x="200" y="196" width="7" height="14" fill="#95A27D">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

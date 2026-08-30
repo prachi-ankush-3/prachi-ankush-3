@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 92" role="img" aria-label="Code rain">
+  <style>
+    .c { font-family: "Courier New", Courier, monospace; font-size: 11px; fill: #95A27D; }
+  </style>
+  <rect width="900" height="92" fill="#0D1117"/>
+  <g class="c">
+    <text x="40" y="12">01</text>
+    <text x="40" y="28">10</text>
+    <text x="40" y="44">101</text>
+    <text x="40" y="60">commit</text>
+    <text x="40" y="76">011</text>
+    <animateTransform attributeName="transform" type="translate" values="0 -20; 0 20; 0 -20" dur="5s" repeatCount="indefinite"/>
+  </g>
+  <g class="c" opacity="0.55">
+    <text x="140" y="18">1101</text>
+    <text x="140" y="34">push</text>
+    <text x="140" y="50">01</text>
+    <text x="140" y="66">build</text>
+    <animateTransform attributeName="transform" type="translate" values="0 16; 0 -16; 0 16" dur="6s" repeatCount="indefinite"/>
+  </g>
+  <g class="c">
+    <text x="250" y="10">solve</text>
+    <text x="250" y="34">10</text>
+    <text x="250" y="50">011</text>
+    <text x="250" y="66">commit</text>
+    <animateTransform attributeName="transform" type="translate" values="0 -12; 0 18; 0 -12" dur="4.4s" repeatCount="indefinite"/>
+  </g>
+  <g class="c" opacity="0.4" fill="#3D4432">
+    <text x="370" y="22" fill="#3D4432">101</text>
+    <text x="370" y="38" fill="#3D4432">01</text>
+    <text x="370" y="54" fill="#3D4432">push</text>
+    <text x="370" y="70" fill="#3D4432">1101</text>
+    <animateTransform attributeName="transform" type="translate" values="0 10; 0 -20; 0 10" dur="7s" repeatCount="indefinite"/>
+  </g>
+  <g class="c">
+    <text x="500" y="16">build</text>
+    <text x="500" y="32">01</text>
+    <text x="500" y="48">solve</text>
+    <text x="500" y="64">10</text>
+    <animateTransform attributeName="transform" type="translate" values="0 8; 0 -14; 0 8" dur="5.2s" repeatCount="indefinite"/>
+  </g>
+  <g class="c" opacity="0.7">
+    <text x="630" y="14">011</text>
+    <text x="630" y="30">commit</text>
+    <text x="630" y="46">10</text>
+    <text x="630" y="62">push</text>
+    <animateTransform attributeName="transform" type="translate" values="0 -18; 0 10; 0 -18" dur="4.8s" repeatCount="indefinite"/>
+  </g>
+  <g class="c" opacity="0.45">
+    <text x="760" y="20">101</text>
+    <text x="760" y="36">build</text>
+    <text x="760" y="52">01</text>
+    <text x="760" y="68">solve</text>
+    <animateTransform attributeName="transform" type="translate" values="0 14; 0 -12; 0 14" dur="5.6s" repeatCount="indefinite"/>
+  </g>
+</svg>

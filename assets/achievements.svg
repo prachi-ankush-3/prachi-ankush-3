@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" role="img" aria-label="Achievement system nodes">
+  <style>
+    .t { font-family: "Courier New", Courier, monospace; }
+    .on { fill: #FFFFFF; font-size: 15px; letter-spacing: 2px; }
+    .sub { fill: #95A27D; font-size: 12px; }
+    .off { fill: #3D4432; font-size: 14px; letter-spacing: 2px; }
+    .offsub { fill: #3D4432; font-size: 12px; }
+    .h { fill: #95A27D; font-size: 11px; letter-spacing: 4px; }
+  </style>
+  <rect width="760" height="420" fill="#0D1117"/>
+  <path d="M48 52 V188" stroke="#95A27D" stroke-width="1.5" opacity="0.7"/>
+  <path d="M48 188 V248" stroke="#3D4432" stroke-width="1.5"/>
+  <path d="M48 248 H720" stroke="#3D4432" stroke-width="1" stroke-dasharray="3 8"/>
+  <circle cx="48" cy="40" r="7" fill="#0D1117" stroke="#95A27D" stroke-width="2"/>
+  <text x="44" y="45" class="t" fill="#95A27D" font-size="12"></text>
+  <text class="t on" x="72" y="36">PROBLEM SOLVER</text>
+  <text class="t sub" x="72" y="56">200+ LeetCode</text>
+  <circle cx="48" cy="88" r="7" fill="#0D1117" stroke="#95A27D" stroke-width="2"/>
+  <text x="44" y="93" class="t" fill="#95A27D" font-size="12"></text>
+  <text class="t on" x="72" y="84">CLOUD EXPLORER</text>
+  <text class="t sub" x="72" y="104">AWS Skill Builder · AWS Academy Graduate</text>
+  <circle cx="48" cy="136" r="7" fill="#0D1117" stroke="#95A27D" stroke-width="2"/>
+  <text x="44" y="141" class="t" fill="#95A27D" font-size="12"></text>
+  <text class="t on" x="72" y="132">ANDROID BUILDER</text>
+  <text class="t sub" x="72" y="156">Stormsofts Technology · Deloitte Job Simulation</text>
+  <circle cx="48" cy="184" r="7" fill="#0D1117" stroke="#95A27D" stroke-width="2"/>
+  <text x="44" y="189" class="t" fill="#95A27D" font-size="12"></text>
+  <text class="t on" x="72" y="180">RESEARCHER</text>
+  <text class="t sub" x="72" y="200">Springer · Scopus</text>
+  <text class="t h" x="72" y="248">NEXT OBJECTIVES</text>
+  <circle cx="48" cy="284" r="6" fill="none" stroke="#3D4432" stroke-width="2"/>
+  <text class="t off" x="72" y="288">500+ DSA</text>
+  <circle cx="48" cy="320" r="6" fill="none" stroke="#3D4432" stroke-width="2"/>
+  <text class="t off" x="72" y="324">OPEN SOURCE</text>
+  <circle cx="48" cy="356" r="6" fill="none" stroke="#3D4432" stroke-width="2"/>
+  <text class="t off" x="72" y="360">ADVANCED CLOUD</text>
+  <circle cx="48" cy="392" r="6" fill="none" stroke="#3D4432" stroke-width="2"/>
+  <text class="t off" x="72" y="396">MORE AI BUILDS</text>
+  <circle cx="48" cy="40" r="11" fill="#95A27D" opacity="0.15">
+    <animate attributeName="r" values="8;14;8" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
