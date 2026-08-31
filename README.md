@@ -21,7 +21,11 @@
 </div> -->
 
 <div align="center">
-  <img src="./assets/rootline.svg" width="100%" alt="Flying butterflies" />
+  <img
+    src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/main/assets/rootline.svg"
+    width="100%"
+    alt="Flying butterflies"
+  />
 </div>
 <div align="center">
   <img src="./assets/identity.svg" width="860" alt="Prachi Ankush — Computer Engineering Student" />
