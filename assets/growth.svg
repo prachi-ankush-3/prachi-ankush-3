@@ -1,16 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260">
 
   <rect width="900" height="260" rx="18" fill="#0D1117"/>
 
-  <!-- subtle background dots -->
-  <g fill="#263021" opacity="0.5">
-    <circle cx="90" cy="55" r="2"/>
-    <circle cx="180" cy="35" r="1.5"/>
-    <circle cx="290" cy="70" r="2"/>
-    <circle cx="470" cy="35" r="1.5"/>
-    <circle cx="580" cy="65" r="2"/>
-    <circle cx="760" cy="45" r="1.5"/>
-    <circle cx="840" cy="85" r="2"/>
+  <!-- subtle stars -->
+  <g fill="#95A27D" opacity=".45">
+    <circle cx="95" cy="55" r="2"/>
+    <circle cx="215" cy="80" r="1.5"/>
+    <circle cx="315" cy="42" r="2"/>
+    <circle cx="510" cy="65" r="1.5"/>
+    <circle cx="590" cy="35" r="2"/>
+    <circle cx="810" cy="65" r="2"/>
   </g>
 
   <!-- ground -->
@@ -21,100 +20,116 @@
     stroke-width="2"
   />
 
-  <!-- GROWTH PATH -->
+  <!-- growth path -->
   <path
-    d="M110 215 C220 190 290 205 390 185 C500 160 570 185 690 155"
+    d="M110 215
+       C210 195 290 205 390 185
+       C500 165 570 185 690 155"
     fill="none"
     stroke="#95A27D"
     stroke-width="2"
     stroke-dasharray="5 8"
-    opacity="0.7"
+    opacity=".65"
   />
 
   <!-- SMALL TREE -->
-  <g transform="translate(130 82)">
-    <rect x="44" y="105" width="8" height="35" rx="3" fill="#6B7658"/>
+  <g>
 
-    <circle cx="48" cy="92" r="28" fill="#59664A"/>
-    <circle cx="25" cy="105" r="19" fill="#657255"/>
-    <circle cx="71" cy="105" r="20" fill="#657255"/>
-    <circle cx="48" cy="72" r="20" fill="#748263"/>
-
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="130 82;130 79;130 82"
-      dur="4s"
-      repeatCount="indefinite"
+    <!-- trunk -->
+    <rect
+      x="174"
+      y="185"
+      width="9"
+      height="30"
+      rx="3"
+      fill="#6B7658"
     />
+
+    <!-- leaves -->
+    <circle cx="178" cy="164" r="27" fill="#59664A"/>
+    <circle cx="155" cy="177" r="18" fill="#657255"/>
+    <circle cx="201" cy="177" r="19" fill="#657255"/>
+    <circle cx="178" cy="145" r="20" fill="#748263"/>
+
   </g>
 
   <!-- MEDIUM TREE -->
-  <g transform="translate(365 43)">
-    <rect x="57" y="125" width="10" height="55" rx="3" fill="#7D8968"/>
+  <g>
 
-    <circle cx="62" cy="108" r="42" fill="#657255"/>
-    <circle cx="28" cy="124" r="29" fill="#71805E"/>
-    <circle cx="97" cy="124" r="30" fill="#71805E"/>
-    <circle cx="62" cy="76" r="34" fill="#7C8A68"/>
-    <circle cx="38" cy="91" r="23" fill="#82906D"/>
-    <circle cx="85" cy="91" r="23" fill="#82906D"/>
-
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="365 43;365 40;365 43"
-      dur="5s"
-      repeatCount="indefinite"
+    <!-- trunk -->
+    <rect
+      x="422"
+      y="160"
+      width="11"
+      height="55"
+      rx="3"
+      fill="#7D8968"
     />
+
+    <!-- leaves -->
+    <circle cx="427" cy="143" r="43" fill="#657255"/>
+    <circle cx="393" cy="160" r="29" fill="#71805E"/>
+    <circle cx="462" cy="160" r="30" fill="#71805E"/>
+    <circle cx="427" cy="111" r="34" fill="#7C8A68"/>
+    <circle cx="403" cy="126" r="23" fill="#82906D"/>
+    <circle cx="450" cy="126" r="23" fill="#82906D"/>
+
   </g>
 
   <!-- BIG TREE -->
-  <g transform="translate(620 12)">
-    <rect x="72" y="145" width="13" height="68" rx="4" fill="#95A27D"/>
+  <g>
+
+    <!-- trunk -->
+    <rect
+      x="697"
+      y="145"
+      width="14"
+      height="70"
+      rx="4"
+      fill="#95A27D"
+    />
 
     <!-- branches -->
     <path
-      d="M78 165 L43 130 M80 158 L113 125"
+      d="M704 170 L668 135
+         M706 163 L741 130"
       stroke="#95A27D"
       stroke-width="7"
       stroke-linecap="round"
+      fill="none"
     />
 
-    <circle cx="78" cy="105" r="55" fill="#71805E"/>
-    <circle cx="35" cy="125" r="37" fill="#7C8A68"/>
-    <circle cx="120" cy="125" r="38" fill="#7C8A68"/>
-    <circle cx="78" cy="65" r="43" fill="#82906D"/>
-    <circle cx="48" cy="76" r="30" fill="#8D9A76"/>
-    <circle cx="108" cy="78" r="31" fill="#8D9A76"/>
-    <circle cx="78" cy="35" r="25" fill="#95A27D"/>
+    <!-- crown -->
+    <circle cx="704" cy="105" r="55" fill="#71805E"/>
+    <circle cx="661" cy="125" r="37" fill="#7C8A68"/>
+    <circle cx="746" cy="125" r="38" fill="#7C8A68"/>
+    <circle cx="704" cy="65" r="43" fill="#82906D"/>
+    <circle cx="674" cy="76" r="30" fill="#8D9A76"/>
+    <circle cx="734" cy="78" r="31" fill="#8D9A76"/>
+    <circle cx="704" cy="35" r="25" fill="#95A27D"/>
 
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="620 12;620 8;620 12"
-      dur="6s"
-      repeatCount="indefinite"
-    />
   </g>
 
   <!-- labels -->
   <g
-    font-family="Arial, sans-serif"
+    font-family="Arial, Helvetica, sans-serif"
     font-size="13"
-    text-anchor="middle"
     letter-spacing="2"
+    text-anchor="middle"
   >
-    <text x="178" y="242" fill="#657255">START</text>
-    <text x="427" y="242" fill="#7D8968">GROWING</text>
-    <text x="700" y="242" fill="#B8C4A3">BUILDING</text>
-  </g>
 
-  <!-- tiny stars -->
-  <g fill="#B8C4A3">
-    <circle cx="250" cy="115" r="2"/>
-    <circle cx="540" cy="95" r="2"/>
-    <circle cx="800" cy="105" r="2"/>
+    <text x="178" y="240" fill="#657255">
+      START
+    </text>
+
+    <text x="427" y="240" fill="#7D8968">
+      GROWING
+    </text>
+
+    <text x="704" y="240" fill="#B8C4A3">
+      BUILDING
+    </text>
+
   </g>
 
 </svg>

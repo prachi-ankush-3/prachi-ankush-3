@@ -84,16 +84,13 @@
   />
 
 </div>
-
-<br/>
-
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-ankush-3&bg_color=0D1117&color=95A27D&line=95A27D&point=B8C4A3&area_color=263021&area=true&hide_border=true"
-  width="95%"
-  alt="Prachi Ankush GitHub Activity"
-/>
+  <img
+    src="./assets/growth.svg"
+    width="95%"
+    alt="Growth journey"
+  />
 
 </div>
 
