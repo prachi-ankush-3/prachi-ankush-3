@@ -1,129 +1,42 @@
-<!-- ========================================================= -->
-<!--                 PRACHI OS // BOOT                         -->
-<!-- ========================================================= -->
-
 <div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/main/assets/boot.svg"
-  width="100%"
-  alt="PRACHI OS boot sequence"
-/>
-
+  <img
+    src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/main/assets/boot.svg"
+    width="100%"
+    alt="PRACHI ANKUSH boot sequence"
+  />
 </div>
 
-<!-- ========================================================= -->
-<!--             DIGITAL ATMOSPHERE                            -->
-<!-- ========================================================= -->
-
 <div align="center">
-
-<img
-  src="./assets/fireflies.svg"
-  width="100%"
-  alt="Floating digital particles"
-/>
-
+  <img src="./assets/fireflies.svg" width="100%" alt="" />
 </div>
 
-<!-- ========================================================= -->
-<!--                 TERMINAL RAIN                             -->
-<!-- ========================================================= -->
-
 <div align="center">
-
-<img
-  src="./assets/terminal-rain.svg"
-  width="100%"
-  alt="Falling terminal commands and code"
-/>
-
+  <img src="./assets/terminal-rain.svg" width="100%" alt="terminal rain of git and code commands" />
 </div>
 
-<!-- ========================================================= -->
-<!--                 LIVE CODE                                 -->
-<!-- ========================================================= -->
-
 <div align="center">
-
-<img
-  src="./assets/typing-code.svg"
-  width="760"
-  alt="Live developer code animation"
-/>
-
+  <img src="./assets/typing-code.svg" width="720" alt="executing Developer class" />
 </div>
 
-<!-- ========================================================= -->
-<!--              SYSTEM CONNECTION                            -->
-<!-- ========================================================= -->
-
 <div align="center">
-
-<img
-  src="./assets/rootline.svg"
-  width="100%"
-  alt="Developer system connection"
-/>
-
+  <img src="./assets/rootline.svg" width="100%" alt="" />
 </div>
 
-<!-- ========================================================= -->
-<!--              CODE → DIGITAL FOREST                        -->
-<!-- ========================================================= -->
-
 <div align="center">
-
-<img
-  src="./assets/code-tree.svg"
-  width="100%"
-  alt="Code transforming into a digital forest"
-/>
-
+  <img src="./assets/code-tree.svg" width="100%" alt="code growing into a digital forest tree" />
 </div>
 
-<!-- ========================================================= -->
-<!--                    IDENTITY                               -->
-<!-- ========================================================= -->
-
 <div align="center">
-
-<img
-  src="./assets/identity.svg"
-  width="860"
-  alt="Prachi Ankush — Computer Engineering student and developer"
-/>
-
+  <img src="./assets/identity.svg" width="860" alt="Prachi Ankush — Computer Engineering student, VIT Pune, CGPA 9.55, 200+ LeetCode" />
 </div>
 
-<!-- ========================================================= -->
-<!--                  AMBIENT FIREFLIES                         -->
-<!-- ========================================================= -->
-
 <div align="center">
-
-<img
-  src="./assets/fireflies.svg"
-  width="100%"
-  alt="Digital fireflies"
-/>
-
+  <img src="./assets/fireflies.svg" width="100%" alt="" />
 </div>
 
-<!-- ========================================================= -->
-<!--                 CURRENT SYSTEM STATUS                      -->
-<!-- ========================================================= -->
-
 <div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2400&pause=700&color=95A27D&center=true&vCenter=true&width=650&height=45&cursor=true&lines=Java+%E2%86%92+Python+%E2%86%92+React;Building+with+AI+%26+Computer+Vision;Learning+AWS+%26+Linux;200%2B+DSA+Problems+Solved;Turning+ideas+into+software;git+commit+%E2%86%92+build+%E2%86%92+deploy+%E2%86%92+repeat"
-  alt="Developer status"
-/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2400&pause=700&color=95A27D&center=true&vCenter=true&width=560&cursor=true&lines=Java+%E2%86%92+Python+%E2%86%92+React;Building+with+AI+%26+Computer+Vision;Learning+AWS+%26+Linux;Turning+ideas+into+software" alt="typing" />
 </div>
-
-<br/>
 
 <br/>
 
