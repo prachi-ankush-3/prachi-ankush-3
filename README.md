@@ -27,9 +27,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/code-tree.svg"
-       width="100%"
-       alt="Code growing into a digital forest tree" />
+  <img src="./assets/tree.svg" width="100%" alt="Code tree" />
 </div>
 
 <div align="center">
