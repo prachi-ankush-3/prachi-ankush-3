@@ -97,11 +97,6 @@
 
 </div>
 
-<div align="center">
-  <code>CONTRIBUTION TRAIL</code>
-  <br/>
-  <sub>Code → Commit → Contribute → Repeat.</sub>
-</div>
 
 <div align="center">
   <picture>
