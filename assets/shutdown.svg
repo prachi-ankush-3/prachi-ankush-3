@@ -1,71 +1,286 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 430" role="img" aria-label="Session shutdown terminal">
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 860 430"
+     role="img"
+     aria-label="Prachi Ankush GitHub session">
+
   <defs>
-    <filter id="sg" x="-30%" y="-40%" width="160%" height="180%">
-      <feGaussianBlur stdDeviation="2" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
     <radialGradient id="night" cx="50%" cy="70%" r="70%">
       <stop offset="0%" stop-color="#1B2117" stop-opacity="0.7"/>
       <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
     </radialGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
+
+  <!-- Background -->
   <rect width="860" height="430" fill="#0D1117"/>
   <rect width="860" height="430" fill="url(#night)"/>
-  <g filter="url(#sg)">
+
+  <!-- Floating particles -->
+  <g filter="url(#glow)">
     <circle cx="80" cy="360" r="1.5" fill="#95A27D">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.4s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="360;340;360" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity"
+               values="0.2;1;0.2"
+               dur="3.4s"
+               repeatCount="indefinite"/>
+      <animate attributeName="cy"
+               values="360;340;360"
+               dur="7s"
+               repeatCount="indefinite"/>
     </circle>
+
     <circle cx="210" cy="390" r="1.3" fill="#FFFFFF">
-      <animate attributeName="opacity" values="0.15;0.9;0.15" dur="4.1s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity"
+               values="0.15;0.9;0.15"
+               dur="4.1s"
+               begin="0.5s"
+               repeatCount="indefinite"/>
     </circle>
+
     <circle cx="700" cy="370" r="1.6" fill="#95A27D">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="3.8s" begin="0.8s" repeatCount="indefinite"/>
-      <animate attributeName="cx" values="700;720;690;700" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity"
+               values="0.2;1;0.2"
+               dur="3.8s"
+               begin="0.8s"
+               repeatCount="indefinite"/>
+      <animate attributeName="cx"
+               values="700;720;690;700"
+               dur="9s"
+               repeatCount="indefinite"/>
     </circle>
+
     <circle cx="790" cy="400" r="1.2" fill="#B8C4A3">
-      <animate attributeName="opacity" values="0.1;0.85;0.1" dur="4.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity"
+               values="0.1;0.85;0.1"
+               dur="4.6s"
+               repeatCount="indefinite"/>
     </circle>
   </g>
+
+  <!-- Terminal font -->
   <style>
-    .t { font-family: "Courier New", Courier, monospace; }
+    .terminal {
+      font-family: "Courier New", Courier, monospace;
+    }
   </style>
-  <text class="t" x="48" y="48" fill="#3D4432" font-size="14">prachi@github:~$</text>
-  <text class="t" x="206" y="48" fill="#95A27D" font-size="14" opacity="0">exit
-    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.2s" fill="freeze"/>
+
+  <!-- Prompt -->
+  <text
+    class="terminal"
+    x="48"
+    y="48"
+    fill="#3D4432"
+    font-size="14">
+    prachi@github:~$
   </text>
-  <text class="t" x="48" y="92" fill="#72805F" font-size="14" opacity="0">SAVING SESSION............. OK
-    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.7s" fill="freeze"/>
+
+  <!-- Command -->
+  <text
+    class="terminal"
+    x="206"
+    y="48"
+    fill="#95A27D"
+    font-size="14"
+    opacity="0">
+    exit
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.25s"
+      begin="0.2s"
+      fill="freeze"/>
   </text>
-  <text class="t" x="48" y="118" fill="#72805F" font-size="14" opacity="0">COMMITS.................... SYNCED
-    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="1.15s" fill="freeze"/>
+
+  <!-- Status lines -->
+  <text
+    class="terminal"
+    x="48"
+    y="92"
+    fill="#72805F"
+    font-size="14"
+    opacity="0">
+    SAVING SESSION............. OK
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.25s"
+      begin="0.7s"
+      fill="freeze"/>
   </text>
-  <text class="t" x="48" y="144" fill="#72805F" font-size="14" opacity="0">PROJECTS................... SAVED
-    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="1.6s" fill="freeze"/>
+
+  <text
+    class="terminal"
+    x="48"
+    y="118"
+    fill="#72805F"
+    font-size="14"
+    opacity="0">
+    COMMITS.................... SYNCED
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.25s"
+      begin="1.15s"
+      fill="freeze"/>
   </text>
-  <text class="t" x="48" y="170" fill="#95A27D" font-size="14" opacity="0">LEARNING................... CONTINUOUS
-    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.05s" fill="freeze"/>
+
+  <text
+    class="terminal"
+    x="48"
+    y="144"
+    fill="#72805F"
+    font-size="14"
+    opacity="0">
+    PROJECTS................... SAVED
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.25s"
+      begin="1.6s"
+      fill="freeze"/>
   </text>
-  <text class="t" x="48" y="220" fill="#FFFFFF" font-size="18" letter-spacing="2" opacity="0">SESSION COMPLETE 
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.5s" fill="freeze"/>
+
+  <text
+    class="terminal"
+    x="48"
+    y="170"
+    fill="#95A27D"
+    font-size="14"
+    opacity="0">
+    LEARNING................... CONTINUOUS
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.3s"
+      begin="2.05s"
+      fill="freeze"/>
   </text>
-  <text class="t" x="48" y="256" fill="#B8C4A3" font-size="16" opacity="0">See you in the next commit.
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3s" fill="freeze"/>
+
+  <!-- Completion -->
+  <text
+    class="terminal"
+    x="48"
+    y="220"
+    fill="#FFFFFF"
+    font-size="18"
+    letter-spacing="2"
+    opacity="0">
+    SESSION COMPLETE
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.4s"
+      begin="2.5s"
+      fill="freeze"/>
   </text>
-  <text class="t" x="48" y="318" fill="#3D4432" font-size="12" letter-spacing="3" opacity="0">SYSTEM STATUS
-    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.5s" fill="freeze"/>
+
+  <!-- Message -->
+  <text
+    class="terminal"
+    x="48"
+    y="256"
+    fill="#B8C4A3"
+    font-size="16"
+    opacity="0">
+    See you in the next commit.
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.4s"
+      begin="3s"
+      fill="freeze"/>
   </text>
-  <circle cx="60" cy="350" r="5" fill="#95A27D" opacity="0" filter="url(#sg)">
-    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.7s" fill="freeze"/>
-    <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" begin="4s" repeatCount="indefinite"/>
+
+  <!-- System status -->
+  <text
+    class="terminal"
+    x="48"
+    y="318"
+    fill="#3D4432"
+    font-size="12"
+    letter-spacing="3"
+    opacity="0">
+    SYSTEM STATUS
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.3s"
+      begin="3.5s"
+      fill="freeze"/>
+  </text>
+
+  <!-- Online indicator -->
+  <circle
+    cx="60"
+    cy="350"
+    r="5"
+    fill="#95A27D"
+    filter="url(#glow)"
+    opacity="0">
+
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.3s"
+      begin="3.7s"
+      fill="freeze"/>
+
+    <animate
+      attributeName="opacity"
+      values="1;0.25;1"
+      dur="1.4s"
+      begin="4s"
+      repeatCount="indefinite"/>
   </circle>
-  <text class="t" x="76" y="355" fill="#95A27D" font-size="16" letter-spacing="4" opacity="0">ONLINE
-    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.7s" fill="freeze"/>
+
+  <text
+    class="terminal"
+    x="76"
+    y="355"
+    fill="#95A27D"
+    font-size="16"
+    letter-spacing="4"
+    opacity="0">
+    ONLINE
+
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.3s"
+      begin="3.7s"
+      fill="freeze"/>
   </text>
-  <rect x="48" y="380" width="8" height="15" fill="#95A27D">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="4s" repeatCount="indefinite"/>
+
+  <!-- Cursor -->
+  <rect
+    x="48"
+    y="380"
+    width="8"
+    height="15"
+    fill="#95A27D">
+
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="1s"
+      begin="4s"
+      repeatCount="indefinite"/>
   </rect>
+
 </svg>

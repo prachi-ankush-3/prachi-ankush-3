@@ -101,28 +101,16 @@
   </picture>
 </div>
 
-<div align="center">
-  <img src="./assets/live-status.svg" width="720" alt="live development status" />
-</div>
+
 
 <div align="center">
-  <img src="./assets/code-tree.svg" width="100%" alt="growth from contribution into forest" />
+  <img src="./assets/shutdown.svg" width="100%" alt="session complete — system still online" />
 </div>
 
-<div align="center">
-  <img src="./assets/shutdown.svg" width="860" alt="session complete — system still online" />
-</div>
 
-<div align="center">
-  <img src="./assets/typing-code.svg" width="100%" alt="BUILD. BREAK. LEARN. FIX. REPEAT." />
-</div>
 
 <div align="center">
   <a href="https://github.com/prachi-ankush-3"><img src="https://cdn.simpleicons.org/github/95A27D" height="22" alt="GitHub" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prachiankush/"><img src="https://cdn.simpleicons.org/linkedin/95A27D" height="22" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/prachiankush/"><img src="https://cdn.simpleicons.org/leetcode/95A27D" height="22" alt="LeetCode" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/prachiankush3"><img src="https://cdn.simpleicons.org/hackerrank/95A27D" height="22" alt="HackerRank" /></a>
   &nbsp;&nbsp;&nbsp;
