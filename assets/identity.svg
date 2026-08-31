@@ -1,18 +1,481 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 280" role="img" aria-label="Developer identity">
-  <rect width="860" height="280" fill="#0D1117"/>
-  <line x1="60" y1="40" x2="60" y2="240" stroke="#3D4432" stroke-width="1"/>
-  <circle cx="60" cy="48" r="4" fill="#95A27D">
-    <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+```svg
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 430"
+     role="img"
+     aria-label="Prachi Ankush developer profile">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg"
+                    x1="0" y1="0"
+                    x2="1" y2="1">
+      <stop offset="0%" stop-color="#080B09"/>
+      <stop offset="50%" stop-color="#10160F"/>
+      <stop offset="100%" stop-color="#060806"/>
+    </linearGradient>
+
+    <!-- Main glow -->
+    <radialGradient id="mainGlow"
+                    cx="72%" cy="45%" r="45%">
+      <stop offset="0%" stop-color="#95A27D" stop-opacity=".14"/>
+      <stop offset="55%" stop-color="#72805F" stop-opacity=".05"/>
+      <stop offset="100%" stop-color="#080B09" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Line gradient -->
+    <linearGradient id="line"
+                    x1="0" y1="0"
+                    x2="1" y2="0">
+      <stop offset="0%" stop-color="#3D4432" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#95A27D"/>
+      <stop offset="100%" stop-color="#3D4432" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow"
+            x="-100%" y="-100%"
+            width="300%"
+            height="300%">
+      <feGaussianBlur stdDeviation="3"
+                      result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Grid -->
+    <pattern id="grid"
+             width="40"
+             height="40"
+             patternUnits="userSpaceOnUse">
+
+      <path d="M40 0H0V40"
+            fill="none"
+            stroke="#95A27D"
+            stroke-opacity=".045"
+            stroke-width="1"/>
+
+    </pattern>
+
+  </defs>
+
+
+  <!-- ================================================= -->
+  <!-- BACKGROUND -->
+  <!-- ================================================= -->
+
+  <rect width="1200"
+        height="430"
+        rx="24"
+        fill="url(#bg)"/>
+
+  <rect width="1200"
+        height="430"
+        rx="24"
+        fill="url(#grid)"/>
+
+  <rect width="1200"
+        height="430"
+        rx="24"
+        fill="url(#mainGlow)"/>
+
+
+  <!-- ================================================= -->
+  <!-- TOP ACCENT -->
+  <!-- ================================================= -->
+
+  <line x1="55"
+        y1="35"
+        x2="1145"
+        y2="35"
+        stroke="url(#line)"
+        stroke-width="1"/>
+
+
+  <!-- small status -->
+
+  <circle cx="70"
+          cy="35"
+          r="4"
+          fill="#95A27D"
+          filter="url(#glow)">
+
+    <animate attributeName="opacity"
+             values="1;.35;1"
+             dur="2s"
+             repeatCount="indefinite"/>
+
   </circle>
-  <text x="90" y="56" fill="#FFFFFF" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="38" letter-spacing="4">PRACHI ANKUSH</text>
-  <text x="90" y="92" fill="#95A27D" font-family="Courier New, monospace" font-size="13" letter-spacing="3">COMPUTER ENGINEERING STUDENT</text>
-  <text x="90" y="118" fill="#B8C4A3" font-family="Courier New, monospace" font-size="14">DEVELOPER</text>
-  <text x="90" y="142" fill="#B8C4A3" font-family="Courier New, monospace" font-size="14">PROBLEM SOLVER</text>
-  <text x="90" y="166" fill="#B8C4A3" font-family="Courier New, monospace" font-size="14">AI EXPLORER</text>
-  <text x="90" y="190" fill="#B8C4A3" font-family="Courier New, monospace" font-size="14">BUILDER</text>
-  <text x="90" y="232" fill="#FFFFFF" font-family="Courier New, monospace" font-size="22">VIT PUNE</text>
-  <text x="280" y="232" fill="#95A27D" font-family="Courier New, monospace" font-size="22">9.55</text>
-  <text x="390" y="232" fill="#58634A" font-family="Courier New, monospace" font-size="12">CGPA</text>
-  <text x="500" y="232" fill="#FFFFFF" font-family="Courier New, monospace" font-size="22">200+</text>
-  <text x="590" y="232" fill="#58634A" font-family="Courier New, monospace" font-size="12">LEETCODE</text>
+
+
+  <text x="85"
+        y="39"
+        fill="#58634A"
+        font-family="Courier New, monospace"
+        font-size="10"
+        letter-spacing="3">
+
+    DEVELOPER PROFILE
+
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- NAME -->
+  <!-- ================================================= -->
+
+  <text x="65"
+        y="125"
+        fill="#F2F4EF"
+        font-family="Trebuchet MS, Segoe UI, sans-serif"
+        font-size="58"
+        font-weight="bold"
+        letter-spacing="2">
+
+    PRACHI
+
+  </text>
+
+
+  <text x="65"
+        y="180"
+        fill="#95A27D"
+        font-family="Trebuchet MS, Segoe UI, sans-serif"
+        font-size="58"
+        font-weight="bold"
+        letter-spacing="2">
+
+    ANKUSH
+
+  </text>
+
+
+  <!-- animated underline -->
+
+  <rect x="68"
+        y="200"
+        width="0"
+        height="2"
+        fill="#95A27D">
+
+    <animate attributeName="width"
+             from="0"
+             to="270"
+             dur="1.5s"
+             begin=".5s"
+             fill="freeze"/>
+
+  </rect>
+
+
+  <!-- ================================================= -->
+  <!-- COLLEGE -->
+  <!-- ================================================= -->
+
+  <text x="65"
+        y="238"
+        fill="#B8C4A3"
+        font-family="Courier New, monospace"
+        font-size="14"
+        letter-spacing="1">
+
+    VISHWAKARMA INSTITUTE OF TECHNOLOGY, PUNE
+
+  </text>
+
+
+  <text x="65"
+        y="264"
+        fill="#72805F"
+        font-family="Courier New, monospace"
+        font-size="12">
+
+    B.TECH • COMPUTER ENGINEERING (SOFTWARE ENGINEERING)
+
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- RIGHT INFORMATION PANEL -->
+  <!-- ================================================= -->
+
+  <rect x="730"
+        y="75"
+        width="400"
+        height="275"
+        rx="18"
+        fill="#0B100B"
+        fill-opacity=".72"
+        stroke="#30382A"
+        stroke-width="1"/>
+
+
+  <!-- decorative corner -->
+
+  <path d="M730 105V92Q730 75 747 75H765"
+        fill="none"
+        stroke="#95A27D"
+        stroke-width="2"/>
+
+
+  <path d="M1095 350H1113Q1130 350 1130 333V315"
+        fill="none"
+        stroke="#58634A"
+        stroke-width="2"/>
+
+
+  <!-- ================================================= -->
+  <!-- CGPA -->
+  <!-- ================================================= -->
+
+  <text x="765"
+        y="120"
+        fill="#58634A"
+        font-family="Courier New, monospace"
+        font-size="10"
+        letter-spacing="3">
+
+    ACADEMIC PERFORMANCE
+
+  </text>
+
+
+  <text x="765"
+        y="165"
+        fill="#F2F4EF"
+        font-family="Trebuchet MS, Segoe UI, sans-serif"
+        font-size="38"
+        font-weight="bold">
+
+    9.55
+
+  </text>
+
+
+  <text x="870"
+        y="164"
+        fill="#72805F"
+        font-family="Courier New, monospace"
+        font-size="12">
+
+    CGPA / 10
+
+  </text>
+
+
+  <line x1="765"
+        y1="185"
+        x2="1095"
+        y2="185"
+        stroke="#30382A"/>
+
+
+  <!-- ================================================= -->
+  <!-- LEETCODE -->
+  <!-- ================================================= -->
+
+  <text x="765"
+        y="215"
+        fill="#58634A"
+        font-family="Courier New, monospace"
+        font-size="10"
+        letter-spacing="3">
+
+    PROBLEM SOLVING
+
+  </text>
+
+
+  <text x="765"
+        y="258"
+        fill="#95A27D"
+        font-family="Trebuchet MS, Segoe UI, sans-serif"
+        font-size="34"
+        font-weight="bold">
+
+    200+
+
+  </text>
+
+
+  <text x="870"
+        y="257"
+        fill="#72805F"
+        font-family="Courier New, monospace"
+        font-size="12">
+
+    LEETCODE
+
+  </text>
+
+
+  <line x1="765"
+        y1="278"
+        x2="1095"
+        y2="278"
+        stroke="#30382A"/>
+
+
+  <!-- ================================================= -->
+  <!-- FOCUS -->
+  <!-- ================================================= -->
+
+  <text x="765"
+        y="308"
+        fill="#58634A"
+        font-family="Courier New, monospace"
+        font-size="10"
+        letter-spacing="3">
+
+    CURRENT FOCUS
+
+  </text>
+
+
+  <text x="765"
+        y="333"
+        fill="#B8C4A3"
+        font-family="Courier New, monospace"
+        font-size="12">
+
+    SOFTWARE • AI • CLOUD • BUILDING
+
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- TECHNOLOGY MARQUEE -->
+  <!-- ================================================= -->
+
+  <g font-family="Courier New, monospace"
+     font-size="11"
+     fill="#58634A">
+
+    <text x="65" y="315">
+      JAVA
+    </text>
+
+    <circle cx="110" cy="311" r="2" fill="#95A27D"/>
+
+    <text x="130" y="315">
+      C++
+    </text>
+
+    <circle cx="175" cy="311" r="2" fill="#95A27D"/>
+
+    <text x="195" y="315">
+      PYTHON
+    </text>
+
+    <circle cx="260" cy="311" r="2" fill="#95A27D"/>
+
+    <text x="280" y="315">
+      JAVASCRIPT
+    </text>
+
+    <circle cx="370" cy="311" r="2" fill="#95A27D"/>
+
+    <text x="390" y="315">
+      REACT
+    </text>
+
+    <circle cx="450" cy="311" r="2" fill="#95A27D"/>
+
+    <text x="470" y="315">
+      ANDROID
+    </text>
+
+    <circle cx="560" cy="311" r="2" fill="#95A27D"/>
+
+    <text x="580" y="315">
+      AWS
+    </text>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- BOTTOM PHILOSOPHY -->
+  <!-- ================================================= -->
+
+  <line x1="65"
+        y1="350"
+        x2="650"
+        y2="350"
+        stroke="#30382A"/>
+
+
+  <text x="65"
+        y="382"
+        fill="#B8C4A3"
+        font-family="Courier New, monospace"
+        font-size="14">
+
+    "Build something. Break something. Learn something."
+
+  </text>
+
+
+  <text x="65"
+        y="407"
+        fill="#58634A"
+        font-family="Courier New, monospace"
+        font-size="10"
+        letter-spacing="2">
+
+    KEEP LEARNING • KEEP BUILDING • KEEP MOVING
+
+  </text>
+
+
+  <!-- ================================================= -->
+  <!-- FLOATING CODE PARTICLES -->
+  <!-- ================================================= -->
+
+  <g fill="#95A27D"
+     filter="url(#glow)">
+
+    <circle cx="690" cy="55" r="2">
+      <animate attributeName="cy"
+               values="55;48;55"
+               dur="2s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1150" cy="120" r="2">
+      <animate attributeName="cy"
+               values="120;112;120"
+               dur="2.4s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="700" cy="385" r="1.5">
+      <animate attributeName="cy"
+               values="385;377;385"
+               dur="2.1s"
+               repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- CORNER CODE -->
+  <!-- ================================================= -->
+
+  <text x="1095"
+        y="55"
+        text-anchor="end"
+        fill="#3D4432"
+        font-family="Courier New, monospace"
+        font-size="10">
+
+    { 01 / 01 }
+
+  </text>
+
+
 </svg>
+```
