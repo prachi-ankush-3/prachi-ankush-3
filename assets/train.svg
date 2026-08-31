@@ -7,51 +7,114 @@
 
 <defs>
 
-  <!-- Sky gradient -->
+  <!-- ================= BACKGROUND ================= -->
+
   <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#08140D"/>
-    <stop offset="1" stop-color="#13281A"/>
+    <stop offset="0" stop-color="#0D1117"/>
+    <stop offset="0.55" stop-color="#111A13"/>
+    <stop offset="1" stop-color="#182319"/>
   </linearGradient>
 
-  <!-- Train body -->
+
+  <!-- ================= TRAIN ================= -->
+
   <linearGradient id="trainBody" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#203B25"/>
-    <stop offset="1" stop-color="#0B1B10"/>
+    <stop offset="0" stop-color="#4A553B"/>
+    <stop offset="0.35" stop-color="#3D4432"/>
+    <stop offset="1" stop-color="#20271E"/>
   </linearGradient>
 
-  <!-- Window glow -->
+  <linearGradient id="trainRoof" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#59664A"/>
+    <stop offset="1" stop-color="#30382A"/>
+  </linearGradient>
+
+
+  <!-- ================= WINDOWS ================= -->
+
   <linearGradient id="window" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#D7E6BA"/>
-    <stop offset="1" stop-color="#70865B"/>
+    <stop offset="0" stop-color="#E4EBCF"/>
+    <stop offset="0.4" stop-color="#B8C4A3"/>
+    <stop offset="1" stop-color="#71805F"/>
   </linearGradient>
 
-  <!-- Tree -->
+
+  <!-- ================= TRAIN GLOW ================= -->
+
+  <filter id="trainGlow"
+          x="-20%"
+          y="-20%"
+          width="140%"
+          height="150%">
+
+    <feGaussianBlur
+      stdDeviation="2"
+      result="blur"/>
+
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+
+  </filter>
+
+
+  <!-- ================= TREE ================= -->
+
   <g id="tree">
 
-    <rect x="-4" y="35" width="8" height="65"
-          fill="#352D1D"/>
+    <rect x="-4"
+          y="35"
+          width="8"
+          height="65"
+          rx="2"
+          fill="#29271E"/>
 
-    <circle cx="0" cy="20" r="28"
-            fill="#18351F"/>
+    <circle cx="0"
+            cy="20"
+            r="28"
+            fill="#1B3020"/>
 
-    <circle cx="-18" cy="35" r="22"
-            fill="#214528"/>
+    <circle cx="-18"
+            cy="35"
+            r="22"
+            fill="#233D27"/>
 
-    <circle cx="18" cy="35" r="22"
-            fill="#214528"/>
+    <circle cx="18"
+            cy="35"
+            r="22"
+            fill="#29472D"/>
 
-    <circle cx="0" cy="5" r="20"
-            fill="#285331"/>
+    <circle cx="0"
+            cy="5"
+            r="20"
+            fill="#315333"/>
 
   </g>
 
-  <!-- Cloud -->
-  <g id="cloud" fill="#B8C99A" opacity=".12">
 
-    <circle cx="0" cy="15" r="18"/>
-    <circle cx="22" cy="10" r="25"/>
-    <circle cx="48" cy="17" r="18"/>
-    <rect x="0" y="15" width="48" height="18"/>
+  <!-- ================= CLOUD ================= -->
+
+  <g id="cloud"
+     fill="#B8C4A3"
+     opacity=".09">
+
+    <circle cx="0"
+            cy="15"
+            r="18"/>
+
+    <circle cx="22"
+            cy="10"
+            r="25"/>
+
+    <circle cx="48"
+            cy="17"
+            r="18"/>
+
+    <rect x="0"
+          y="15"
+          width="48"
+          height="18"/>
 
   </g>
 
@@ -62,42 +125,69 @@
 <!-- SKY -->
 <!-- ================================================= -->
 
-<rect width="1200" height="380" fill="url(#sky)"/>
+<rect width="1200"
+      height="380"
+      fill="url(#sky)"/>
+
+
+<!-- ================================================= -->
+<!-- MOON / SOFT LIGHT -->
+<!-- ================================================= -->
+
+<circle cx="1030"
+        cy="65"
+        r="25"
+        fill="#D7E6BA"
+        opacity=".07"/>
+
+<circle cx="1030"
+        cy="65"
+        r="18"
+        fill="#E4EBCF"
+        opacity=".05"/>
 
 
 <!-- ================================================= -->
 <!-- CLOUDS -->
 <!-- ================================================= -->
 
-<use href="#cloud" x="150" y="55">
-
-  <animateTransform
-    attributeName="transform"
-    type="translate"
-    values="0 0;40 0;0 0"
-    dur="12s"
-    repeatCount="indefinite"/>
-
-</use>
-
-<use href="#cloud" x="650" y="45">
-
-  <animateTransform
-    attributeName="transform"
-    type="translate"
-    values="0 0;-50 0;0 0"
-    dur="15s"
-    repeatCount="indefinite"/>
-
-</use>
-
-<use href="#cloud" x="980" y="75">
+<use href="#cloud"
+     x="130"
+     y="55">
 
   <animateTransform
     attributeName="transform"
     type="translate"
     values="0 0;35 0;0 0"
-    dur="13s"
+    dur="14s"
+    repeatCount="indefinite"/>
+
+</use>
+
+
+<use href="#cloud"
+     x="600"
+     y="40">
+
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    values="0 0;-45 0;0 0"
+    dur="17s"
+    repeatCount="indefinite"/>
+
+</use>
+
+
+<use href="#cloud"
+     x="950"
+     y="75">
+
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    values="0 0;30 0;0 0"
+    dur="12s"
     repeatCount="indefinite"/>
 
 </use>
@@ -107,30 +197,27 @@
 <!-- DISTANT FOREST -->
 <!-- ================================================= -->
 
-<g opacity=".55">
+<g opacity=".45">
 
-  <use href="#tree" x="70" y="115" transform="scale(.8)"/>
-  <use href="#tree" x="180" y="125" transform="scale(.65)"/>
-  <use href="#tree" x="1040" y="110" transform="scale(.75)"/>
-  <use href="#tree" x="1140" y="120" transform="scale(.9)"/>
+  <use href="#tree"
+       x="70"
+       y="115"
+       transform="scale(.8)"/>
 
-</g>
+  <use href="#tree"
+       x="190"
+       y="120"
+       transform="scale(.65)"/>
 
+  <use href="#tree"
+       x="1000"
+       y="115"
+       transform="scale(.7)"/>
 
-<!-- ================================================= -->
-<!-- MOVING FOREGROUND FOREST -->
-<!-- ================================================= -->
-
-<g>
-
-  <g>
-
-    <use href="#tree" x="20" y="185" transform="scale(1.1)"/>
-    <use href="#tree" x="160" y="175"/>
-    <use href="#tree" x="1080" y="180" transform="scale(1.1)"/>
-    <use href="#tree" x="1180" y="175"/>
-
-  </g>
+  <use href="#tree"
+       x="1130"
+       y="115"
+       transform="scale(.85)"/>
 
 </g>
 
@@ -140,14 +227,29 @@
 <!-- ================================================= -->
 
 <text x="600"
-      y="45"
+      y="42"
       text-anchor="middle"
       font-family="monospace"
       font-size="12"
+      font-weight="bold"
       letter-spacing="5"
-      fill="#B8C99A">
+      fill="#B8C4A3">
 
   PRACHI'S TECH JOURNEY
+
+</text>
+
+
+<text x="600"
+      y="61"
+      text-anchor="middle"
+      font-family="monospace"
+      font-size="8"
+      letter-spacing="2"
+      fill="#6F805F"
+      opacity=".9">
+
+  BUILDING • LEARNING • EXPLORING
 
 </text>
 
@@ -156,51 +258,72 @@
 <!-- TRAIN -->
 <!-- ================================================= -->
 
-<g>
+<g filter="url(#trainGlow)">
 
-  <!-- LOOPING TRAIN -->
+  <!-- TRAIN MOVEMENT -->
 
   <animateTransform
     attributeName="transform"
     type="translate"
-    values="-1100 0;0 0;1100 0"
-    keyTimes="0;.5;1"
-    dur="16s"
+    values="-1100 0;
+            -500 0;
+            100 0;
+            700 0;
+            1300 0"
+    keyTimes="0;
+             .25;
+             .5;
+             .75;
+             1"
+    dur="18s"
     repeatCount="indefinite"/>
 
 
-  <!-- ================= ENGINE ================= -->
+  <!-- ================================================= -->
+  <!-- ENGINE -->
+  <!-- ================================================= -->
 
   <g>
 
-    <!-- chimney smoke -->
+    <!-- smoke -->
 
-    <circle cx="85" cy="115" r="9"
-            fill="#B8C99A"
-            opacity=".18">
-
-      <animate
-        attributeName="cy"
-        values="115;90;115"
-        dur="2.5s"
-        repeatCount="indefinite"/>
-
-      <animate
-        attributeName="opacity"
-        values=".1;.3;.1"
-        dur="2.5s"
-        repeatCount="indefinite"/>
-
-    </circle>
-
-    <circle cx="100" cy="95" r="6"
-            fill="#B8C99A"
+    <circle cx="82"
+            cy="108"
+            r="9"
+            fill="#B8C4A3"
             opacity=".12">
 
       <animate
         attributeName="cy"
-        values="95;70;95"
+        values="108;85;65"
         dur="3s"
+        repeatCount="indefinite"/>
+
+      <animate
+        attributeName="opacity"
+        values=".05;.2;0"
+        dur="3s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+
+    <circle cx="100"
+            cy="90"
+            r="6"
+            fill="#D7E6BA"
+            opacity=".08">
+
+      <animate
+        attributeName="cy"
+        values="90;65;45"
+        dur="3.5s"
+        repeatCount="indefinite"/>
+
+      <animate
+        attributeName="opacity"
+        values=".05;.15;0"
+        dur="3.5s"
         repeatCount="indefinite"/>
 
     </circle>
@@ -208,87 +331,121 @@
 
     <!-- chimney -->
 
-    <rect x="72" y="118"
-          width="25"
+    <rect x="70"
+          y="118"
+          width="27"
           height="32"
-          fill="#14291A"
-          stroke="#6F8F55"
+          rx="3"
+          fill="#242C21"
+          stroke="#95A27D"
           stroke-width="2"/>
 
-    <rect x="66" y="112"
-          width="37"
+    <rect x="64"
+          y="111"
+          width="39"
           height="8"
           rx="3"
-          fill="#6F8F55"/>
-
-
-    <!-- engine -->
-
-    <path d="M35 150
-             H170
-             V220
-             H35
-             Q20 220 20 205
-             V165
-             Q20 150 35 150Z"
-          fill="url(#trainBody)"
+          fill="#59664A"
           stroke="#95A27D"
-          stroke-width="2"/>
+          stroke-width="1"/>
 
 
-    <!-- front -->
+    <!-- engine body -->
 
-    <path d="M170 165
-             H205
-             L225 185
-             L205 205
-             H170Z"
-          fill="#18341F"
-          stroke="#95A27D"
-          stroke-width="2"/>
+    <path d="
+      M35 150
+      H170
+      V220
+      H35
+      Q20 220 20 205
+      V165
+      Q20 150 35 150Z"
+
+      fill="url(#trainBody)"
+      stroke="#95A27D"
+      stroke-width="2"/>
 
 
-    <!-- engine window -->
+    <!-- engine front -->
 
-    <rect x="55" y="165"
-          width="42"
-          height="30"
-          rx="4"
+    <path d="
+      M170 165
+      H205
+      L225 185
+      L205 205
+      H170Z"
+
+      fill="#30382A"
+      stroke="#95A27D"
+      stroke-width="2"/>
+
+
+    <!-- window -->
+
+    <rect x="52"
+          y="164"
+          width="45"
+          height="32"
+          rx="5"
           fill="url(#window)"
-          opacity=".85"/>
+          opacity=".9"/>
+
+
+    <!-- window reflection -->
+
+    <path d="M56 168 L65 168 L83 192 L74 192Z"
+          fill="#FFFFFF"
+          opacity=".16"/>
 
 
     <!-- headlight -->
 
     <circle cx="213"
-            cy="184"
-            r="7"
+            cy="185"
+            r="8"
             fill="#D7E6BA">
 
       <animate
         attributeName="opacity"
-        values=".4;1;.4"
+        values=".35;1;.35"
+        dur="1.5s"
+        repeatCount="indefinite"/>
+
+      <animate
+        attributeName="r"
+        values="7;9;7"
         dur="1.5s"
         repeatCount="indefinite"/>
 
     </circle>
 
 
-    <!-- engine wheels -->
+    <!-- wheels -->
 
-    <g fill="#08140D"
+    <g fill="#111711"
        stroke="#95A27D"
        stroke-width="2">
 
-      <circle cx="65" cy="225" r="18"/>
-      <circle cx="145" cy="225" r="18"/>
+      <circle cx="65"
+              cy="225"
+              r="18"/>
+
+      <circle cx="145"
+              cy="225"
+              r="18"/>
 
     </g>
 
-    <g fill="#6F8F55">
 
-      <circle cx="65" cy="225" r="5"/>
-      <circle cx="145" cy="225" r="5"/>
+    <g fill="#71805F">
+
+      <circle cx="65"
+              cy="225"
+              r="5"/>
+
+      <circle cx="145"
+              cy="225"
+              r="5"/>
 
     </g>
 
@@ -298,7 +455,8 @@
           text-anchor="middle"
           font-family="monospace"
           font-size="9"
-          fill="#B8C99A">
+          font-weight="bold"
+          fill="#E4EBCF">
 
       CODE EXPRESS
 
@@ -315,11 +473,12 @@
         y="190"
         width="25"
         height="7"
-        fill="#6F8F55"/>
+        rx="3"
+        fill="#71805F"/>
 
 
   <!-- ================================================= -->
-  <!-- CORE CARRIAGE -->
+  <!-- JAVA / PYTHON / CARRIAGE -->
   <!-- ================================================= -->
 
   <g>
@@ -330,43 +489,62 @@
           height="75"
           rx="8"
           fill="url(#trainBody)"
-          stroke="#6F8F55"
+          stroke="#95A27D"
           stroke-width="2"/>
 
 
-    <!-- roof -->
-
     <rect x="235"
-          y="138"
+          y="137"
           width="210"
-          height="10"
+          height="11"
           rx="5"
-          fill="#315333"/>
+          fill="url(#trainRoof)"
+          stroke="#6F805F"
+          stroke-width="1"/>
 
 
     <!-- windows -->
 
-    <rect x="260" y="158"
-          width="35" height="28"
-          rx="3"
+    <rect x="260"
+          y="158"
+          width="35"
+          height="28"
+          rx="4"
           fill="url(#window)"/>
 
-    <rect x="305" y="158"
-          width="35" height="28"
-          rx="3"
+    <rect x="305"
+          y="158"
+          width="35"
+          height="28"
+          rx="4"
           fill="url(#window)"/>
 
-    <rect x="350" y="158"
-          width="35" height="28"
-          rx="3"
+    <rect x="350"
+          y="158"
+          width="35"
+          height="28"
+          rx="4"
           fill="url(#window)"/>
+
+
+    <!-- window reflections -->
+
+    <g fill="#FFFFFF"
+       opacity=".15">
+
+      <path d="M263 161 L270 161 L288 183 L280 183Z"/>
+      <path d="M308 161 L315 161 L333 183 L325 183Z"/>
+      <path d="M353 161 L360 161 L378 183 L370 183Z"/>
+
+    </g>
 
 
     <text x="340"
           y="205"
           text-anchor="middle"
           font-family="monospace"
-          font-size="10"
+          font-size="9"
+          font-weight="bold"
           fill="#E4EBCF">
 
       JAVA · PYTHON · C++ · C
@@ -376,26 +554,33 @@
 
     <!-- wheels -->
 
-    <circle cx="280" cy="225"
+    <circle cx="280"
+            cy="225"
             r="15"
-            fill="#08140D"
-            stroke="#95A27D"/>
+            fill="#111711"
+            stroke="#95A27D"
+            stroke-width="2"/>
 
-    <circle cx="400" cy="225"
+    <circle cx="400"
+            cy="225"
             r="15"
-            fill="#08140D"
-            stroke="#95A27D"/>
+            fill="#111711"
+            stroke="#95A27D"
+            stroke-width="2"/>
 
   </g>
 
 
-  <!-- connector -->
+  <!-- ================================================= -->
+  <!-- CONNECTOR -->
+  <!-- ================================================= -->
 
   <rect x="435"
         y="190"
         width="20"
         height="7"
-        fill="#6F8F55"/>
+        rx="3"
+        fill="#71805F"/>
 
 
   <!-- ================================================= -->
@@ -410,38 +595,60 @@
           height="75"
           rx="8"
           fill="url(#trainBody)"
-          stroke="#6F8F55"
+          stroke="#95A27D"
           stroke-width="2"/>
 
+
     <rect x="445"
-          y="138"
+          y="137"
           width="210"
-          height="10"
+          height="11"
           rx="5"
-          fill="#315333"/>
+          fill="url(#trainRoof)"
+          stroke="#6F805F"
+          stroke-width="1"/>
 
 
-    <rect x="470" y="158"
-          width="35" height="28"
-          rx="3"
+    <!-- windows -->
+
+    <rect x="470"
+          y="158"
+          width="35"
+          height="28"
+          rx="4"
           fill="url(#window)"/>
 
-    <rect x="515" y="158"
-          width="35" height="28"
-          rx="3"
+    <rect x="515"
+          y="158"
+          width="35"
+          height="28"
+          rx="4"
           fill="url(#window)"/>
 
-    <rect x="560" y="158"
-          width="35" height="28"
-          rx="3"
+    <rect x="560"
+          y="158"
+          width="35"
+          height="28"
+          rx="4"
           fill="url(#window)"/>
+
+
+    <g fill="#FFFFFF"
+       opacity=".15">
+
+      <path d="M473 161 L480 161 L498 183 L490 183Z"/>
+      <path d="M518 161 L525 161 L543 183 L535 183Z"/>
+      <path d="M563 161 L570 161 L588 183 L580 183Z"/>
+
+    </g>
 
 
     <text x="550"
           y="205"
           text-anchor="middle"
           font-family="monospace"
-          font-size="10"
+          font-size="9"
+          font-weight="bold"
           fill="#E4EBCF">
 
       REACT · JS · HTML · CSS · PHP
@@ -449,26 +656,35 @@
     </text>
 
 
-    <circle cx="490" cy="225"
-            r="15"
-            fill="#08140D"
-            stroke="#95A27D"/>
+    <!-- wheels -->
 
-    <circle cx="610" cy="225"
+    <circle cx="490"
+            cy="225"
             r="15"
-            fill="#08140D"
-            stroke="#95A27D"/>
+            fill="#111711"
+            stroke="#95A27D"
+            stroke-width="2"/>
+
+    <circle cx="610"
+            cy="225"
+            r="15"
+            fill="#111711"
+            stroke="#95A27D"
+            stroke-width="2"/>
 
   </g>
 
 
-  <!-- connector -->
+  <!-- ================================================= -->
+  <!-- CONNECTOR -->
+  <!-- ================================================= -->
 
   <rect x="645"
         y="190"
         width="20"
         height="7"
-        fill="#6F8F55"/>
+        rx="3"
+        fill="#71805F"/>
 
 
   <!-- ================================================= -->
@@ -483,38 +699,60 @@
           height="75"
           rx="8"
           fill="url(#trainBody)"
-          stroke="#6F8F55"
+          stroke="#95A27D"
           stroke-width="2"/>
 
+
     <rect x="655"
-          y="138"
+          y="137"
           width="210"
-          height="10"
+          height="11"
           rx="5"
-          fill="#315333"/>
+          fill="url(#trainRoof)"
+          stroke="#6F805F"
+          stroke-width="1"/>
 
 
-    <rect x="680" y="158"
-          width="35" height="28"
-          rx="3"
+    <!-- windows -->
+
+    <rect x="680"
+          y="158"
+          width="35"
+          height="28"
+          rx="4"
           fill="url(#window)"/>
 
-    <rect x="725" y="158"
-          width="35" height="28"
-          rx="3"
+    <rect x="725"
+          y="158"
+          width="35"
+          height="28"
+          rx="4"
           fill="url(#window)"/>
 
-    <rect x="770" y="158"
-          width="35" height="28"
-          rx="3"
+    <rect x="770"
+          y="158"
+          width="35"
+          height="28"
+          rx="4"
           fill="url(#window)"/>
+
+
+    <g fill="#FFFFFF"
+       opacity=".15">
+
+      <path d="M683 161 L690 161 L708 183 L700 183Z"/>
+      <path d="M728 161 L735 161 L753 183 L745 183Z"/>
+      <path d="M773 161 L780 161 L798 183 L790 183Z"/>
+
+    </g>
 
 
     <text x="760"
           y="205"
           text-anchor="middle"
           font-family="monospace"
-          font-size="10"
+          font-size="8.5"
+          font-weight="bold"
           fill="#E4EBCF">
 
       OPENCV · MEDIAPIPE · TENSORFLOW
@@ -522,30 +760,39 @@
     </text>
 
 
-    <circle cx="700" cy="225"
-            r="15"
-            fill="#08140D"
-            stroke="#95A27D"/>
+    <!-- wheels -->
 
-    <circle cx="820" cy="225"
+    <circle cx="700"
+            cy="225"
             r="15"
-            fill="#08140D"
-            stroke="#95A27D"/>
+            fill="#111711"
+            stroke="#95A27D"
+            stroke-width="2"/>
+
+    <circle cx="820"
+            cy="225"
+            r="15"
+            fill="#111711"
+            stroke="#95A27D"
+            stroke-width="2"/>
 
   </g>
 
 
-  <!-- connector -->
+  <!-- ================================================= -->
+  <!-- CONNECTOR -->
+  <!-- ================================================= -->
 
   <rect x="855"
         y="190"
         width="20"
         height="7"
-        fill="#6F8F55"/>
+        rx="3"
+        fill="#71805F"/>
 
 
   <!-- ================================================= -->
-  <!-- MOBILE + CLOUD -->
+  <!-- MOBILE / CLOUD / TOOLS -->
   <!-- ================================================= -->
 
   <g>
@@ -556,54 +803,82 @@
           height="75"
           rx="8"
           fill="url(#trainBody)"
-          stroke="#6F8F55"
+          stroke="#95A27D"
           stroke-width="2"/>
 
+
     <rect x="865"
-          y="138"
+          y="137"
           width="240"
-          height="10"
+          height="11"
           rx="5"
-          fill="#315333"/>
+          fill="url(#trainRoof)"
+          stroke="#6F805F"
+          stroke-width="1"/>
 
 
-    <rect x="890" y="158"
-          width="35" height="28"
-          rx="3"
+    <!-- windows -->
+
+    <rect x="890"
+          y="158"
+          width="35"
+          height="28"
+          rx="4"
           fill="url(#window)"/>
 
-    <rect x="935" y="158"
-          width="35" height="28"
-          rx="3"
+    <rect x="935"
+          y="158"
+          width="35"
+          height="28"
+          rx="4"
           fill="url(#window)"/>
 
-    <rect x="980" y="158"
-          width="35" height="28"
-          rx="3"
+    <rect x="980"
+          y="158"
+          width="35"
+          height="28"
+          rx="4"
           fill="url(#window)"/>
+
+
+    <g fill="#FFFFFF"
+       opacity=".15">
+
+      <path d="M893 161 L900 161 L918 183 L910 183Z"/>
+      <path d="M938 161 L945 161 L963 183 L955 183Z"/>
+      <path d="M983 161 L990 161 L1008 183 L1000 183Z"/>
+
+    </g>
 
 
     <text x="985"
           y="204"
           text-anchor="middle"
           font-family="monospace"
-          font-size="9"
+          font-size="8"
+          font-weight="bold"
           fill="#E4EBCF">
 
-      ANDROID · AWS · LINUX · GIT · GITHUB · MYSQL
+      ANDROID · AWS · LINUX · GIT · MYSQL
 
     </text>
 
 
-    <circle cx="910" cy="225"
-            r="15"
-            fill="#08140D"
-            stroke="#95A27D"/>
+    <!-- wheels -->
 
-    <circle cx="1055" cy="225"
+    <circle cx="910"
+            cy="225"
             r="15"
-            fill="#08140D"
-            stroke="#95A27D"/>
+            fill="#111711"
+            stroke="#95A27D"
+            stroke-width="2"/>
+
+    <circle cx="1055"
+            cy="225"
+            r="15"
+            fill="#111711"
+            stroke="#95A27D"
+            stroke-width="2"/>
 
   </g>
 
@@ -614,41 +889,48 @@
 <!-- TRACK -->
 <!-- ================================================= -->
 
-<line x1="0" y1="242"
-      x2="1200" y2="242"
+<line x1="0"
+      y1="242"
+      x2="1200"
+      y2="242"
       stroke="#95A27D"
       stroke-width="3"
-      opacity=".5"/>
+      opacity=".55"/>
 
-<line x1="0" y1="255"
-      x2="1200" y2="255"
-      stroke="#6F8F55"
+
+<line x1="0"
+      y1="255"
+      x2="1200"
+      y2="255"
+      stroke="#6F805F"
       stroke-width="2"
-      opacity=".3"/>
+      opacity=".4"/>
 
 
-<!-- railway sleepers -->
+<!-- ================================================= -->
+<!-- RAILWAY SLEEPERS -->
+<!-- ================================================= -->
 
-<g stroke="#6F8F55"
+<g stroke="#71805F"
    stroke-width="5"
-   opacity=".25">
+   opacity=".3">
 
   <path d="
-  M20 238V260
-  M100 238V260
-  M180 238V260
-  M260 238V260
-  M340 238V260
-  M420 238V260
-  M500 238V260
-  M580 238V260
-  M660 238V260
-  M740 238V260
-  M820 238V260
-  M900 238V260
-  M980 238V260
-  M1060 238V260
-  M1140 238V260"/>
+    M20 238V260
+    M100 238V260
+    M180 238V260
+    M260 238V260
+    M340 238V260
+    M420 238V260
+    M500 238V260
+    M580 238V260
+    M660 238V260
+    M740 238V260
+    M820 238V260
+    M900 238V260
+    M980 238V260
+    M1060 238V260
+    M1140 238V260"/>
 
 </g>
 
@@ -658,15 +940,17 @@
 <!-- ================================================= -->
 
 <path d="
-M0 275
-Q100 255 200 275
-T400 275
-T600 275
-T800 275
-T1000 275
-T1200 275
-V380 H0Z"
-fill="#08140D"/>
+  M0 275
+  Q100 255 200 275
+  T400 275
+  T600 275
+  T800 275
+  T1000 275
+  T1200 275
+  V380
+  H0Z"
+
+  fill="#0A100C"/>
 
 
 <!-- ================================================= -->
@@ -675,10 +959,25 @@ fill="#08140D"/>
 
 <g>
 
-  <use href="#tree" x="35" y="265" transform="scale(1.25)"/>
-  <use href="#tree" x="170" y="270" transform="scale(.9)"/>
-  <use href="#tree" x="1100" y="260" transform="scale(1.2)"/>
-  <use href="#tree" x="1180" y="270" transform="scale(.9)"/>
+  <use href="#tree"
+       x="35"
+       y="265"
+       transform="scale(1.25)"/>
+
+  <use href="#tree"
+       x="170"
+       y="270"
+       transform="scale(.9)"/>
+
+  <use href="#tree"
+       x="1100"
+       y="260"
+       transform="scale(1.2)"/>
+
+  <use href="#tree"
+       x="1180"
+       y="270"
+       transform="scale(.9)"/>
 
 </g>
 
@@ -689,25 +988,55 @@ fill="#08140D"/>
 
 <g fill="#D7E6BA">
 
-  <circle cx="120" cy="280" r="2">
-    <animate attributeName="opacity"
-             values=".1;1;.1"
-             dur="2s"
-             repeatCount="indefinite"/>
+  <circle cx="120"
+          cy="280"
+          r="2">
+
+    <animate
+      attributeName="opacity"
+      values=".1;1;.1"
+      dur="2s"
+      repeatCount="indefinite"/>
+
   </circle>
 
-  <circle cx="320" cy="300" r="1.5">
-    <animate attributeName="opacity"
-             values=".1;1;.1"
-             dur="2.8s"
-             repeatCount="indefinite"/>
+
+  <circle cx="320"
+          cy="300"
+          r="1.5">
+
+    <animate
+      attributeName="opacity"
+      values=".1;1;.1"
+      dur="2.8s"
+      repeatCount="indefinite"/>
+
   </circle>
 
-  <circle cx="900" cy="290" r="2">
-    <animate attributeName="opacity"
-             values=".1;1;.1"
-             dur="2.3s"
-             repeatCount="indefinite"/>
+
+  <circle cx="900"
+          cy="290"
+          r="2">
+
+    <animate
+      attributeName="opacity"
+      values=".1;1;.1"
+      dur="2.3s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <circle cx="1030"
+          cy="315"
+          r="1.2">
+
+    <animate
+      attributeName="opacity"
+      values=".1;1;.1"
+      dur="3.1s"
+      repeatCount="indefinite"/>
+
   </circle>
 
 </g>
@@ -722,11 +1051,13 @@ fill="#08140D"/>
       text-anchor="middle"
       font-family="monospace"
       font-size="10"
+      font-weight="bold"
       letter-spacing="4"
-      fill="#6F8F55">
+      fill="#95A27D">
 
   BUILD · LEARN · EXPLORE · REPEAT
 
 </text>
+
 
 </svg>
