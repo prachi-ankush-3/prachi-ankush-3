@@ -31,9 +31,6 @@
 </div>
 
 
-<div align="center">
-  <code>TECH DNA</code>
-</div>
 
 <div align="center">
   <img src="./assets/tech-network.svg" width="100%" alt="tech DNA node network" />
@@ -60,9 +57,7 @@
   <img src="./assets/rootline.svg" width="100%" alt="" />
 </div>
 
-<div align="center">
-  <code>ACHIEVEMENT SYSTEM</code>
-</div>
+
 
 <div align="center">
   <img src="./assets/achievements.svg" width="100%" alt="unlocked achievements and next cycle" />
@@ -70,7 +65,7 @@
 
 <div align="center">
 
-  <code>DEVELOPER TELEMETRY</code>
+  
 
 <div align="center">
 
