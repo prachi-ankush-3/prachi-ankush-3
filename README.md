@@ -104,7 +104,7 @@
 
 
 <div align="center">
-  <img src="./assets/shutdown.svg" width="100%" alt="session complete — system still online" />
+  <img src="./assets/shutdown.svg" width="100%" alt="session complete" />
 </div>
 
 
