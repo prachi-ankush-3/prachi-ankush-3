@@ -1,0 +1,499 @@
+```svg
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="720"
+     viewBox="0 0 1200 720">
+
+<rect width="1200" height="720" rx="20" fill="#0D1117"/>
+
+<defs>
+
+  <!-- Card gradient -->
+  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#172119"/>
+    <stop offset="100%" stop-color="#0D1117"/>
+  </linearGradient>
+
+  <!-- Green glow -->
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <!-- Butterfly -->
+  <g id="butterfly">
+
+    <ellipse cx="-6" cy="0"
+             rx="7" ry="11"
+             fill="#B8C99A"
+             opacity=".9"/>
+
+    <ellipse cx="6" cy="0"
+             rx="7" ry="11"
+             fill="#D7E6BA"
+             opacity=".9"/>
+
+    <ellipse cx="0" cy="2"
+             rx="2"
+             ry="9"
+             fill="#95A27D"/>
+
+    <path d="M-1 -4 Q-6 -12 -9 -13"
+          fill="none"
+          stroke="#B8C99A"
+          stroke-width="1"/>
+
+    <path d="M1 -4 Q6 -12 9 -13"
+          fill="none"
+          stroke="#B8C99A"
+          stroke-width="1"/>
+
+    <!-- wing flutter -->
+    <animateTransform
+      attributeName="transform"
+      type="scale"
+      values="1 1; .65 1; 1 1"
+      dur=".6s"
+      repeatCount="indefinite"/>
+
+  </g>
+
+</defs>
+
+
+<!-- HEADER -->
+
+<text x="60"
+      y="65"
+      font-family="monospace"
+      font-size="14"
+      letter-spacing="5"
+      fill="#72805F">
+
+  PROJECTS // CURRENT BUILDS
+
+</text>
+
+<text x="1140"
+      y="65"
+      text-anchor="end"
+      font-family="monospace"
+      font-size="13"
+      fill="#95A27D">
+
+  ● 04 PROJECTS
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- CARD 1 -->
+<!-- ================================================= -->
+
+<g>
+
+  <rect x="50"
+        y="100"
+        width="530"
+        height="260"
+        rx="18"
+        fill="url(#card)"
+        stroke="#3D4432"
+        stroke-width="1.5"/>
+
+  <!-- corner -->
+  <path d="M50 135 Q50 100 85 100 H140"
+        fill="none"
+        stroke="#95A27D"
+        stroke-width="2"/>
+
+  <!-- number -->
+  <text x="80"
+        y="145"
+        font-family="monospace"
+        font-size="12"
+        fill="#72805F">
+    01
+  </text>
+
+  <!-- status -->
+  <text x="500"
+        y="145"
+        text-anchor="end"
+        font-family="monospace"
+        font-size="11"
+        fill="#95A27D">
+    ● BUILDING
+  </text>
+
+  <!-- title -->
+  <text x="80"
+        y="185"
+        font-family="monospace"
+        font-size="25"
+        font-weight="bold"
+        fill="#E4EBCF">
+    EngiSummary
+  </text>
+
+  <text x="80"
+        y="215"
+        font-family="monospace"
+        font-size="13"
+        fill="#95A27D">
+    Engineering Drawing Intelligence
+  </text>
+
+  <text x="80"
+        y="250"
+        font-family="monospace"
+        font-size="12"
+        fill="#72805F">
+    React · Python · AI
+  </text>
+
+  <!-- repo button -->
+  <rect x="80"
+        y="285"
+        width="145"
+        height="38"
+        rx="19"
+        fill="#263021"
+        stroke="#95A27D"
+        stroke-width="1"/>
+
+  <text x="152"
+        y="309"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="11"
+        fill="#D7E6BA">
+    VIEW PROJECT →
+  </text>
+
+  <!-- butterfly -->
+  <g>
+
+    <use href="#butterfly"
+         transform="translate(535 325) scale(.65)"/>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0; -30 -180; -250 -210; -420 -80; -350 110; -100 170; 0 0"
+      dur="10s"
+      repeatCount="indefinite"/>
+
+  </g>
+
+</g>
+
+
+<!-- ================================================= -->
+<!-- CARD 2 -->
+<!-- ================================================= -->
+
+<g>
+
+  <rect x="620"
+        y="100"
+        width="530"
+        height="260"
+        rx="18"
+        fill="url(#card)"
+        stroke="#3D4432"
+        stroke-width="1.5"/>
+
+  <path d="M620 135 Q620 100 655 100 H710"
+        fill="none"
+        stroke="#95A27D"
+        stroke-width="2"/>
+
+  <text x="650"
+        y="145"
+        font-family="monospace"
+        font-size="12"
+        fill="#72805F">
+    02
+  </text>
+
+  <text x="1120"
+        y="145"
+        text-anchor="end"
+        font-family="monospace"
+        font-size="11"
+        fill="#95A27D">
+    ● ACTIVE
+  </text>
+
+  <text x="650"
+        y="185"
+        font-family="monospace"
+        font-size="25"
+        font-weight="bold"
+        fill="#E4EBCF">
+    TravAgent
+  </text>
+
+  <text x="650"
+        y="215"
+        font-family="monospace"
+        font-size="13"
+        fill="#95A27D">
+    Smart Travel Management Platform
+  </text>
+
+  <text x="650"
+        y="250"
+        font-family="monospace"
+        font-size="12"
+        fill="#72805F">
+    React · Flask · Python · Supabase
+  </text>
+
+  <rect x="650"
+        y="285"
+        width="145"
+        height="38"
+        rx="19"
+        fill="#263021"
+        stroke="#95A27D"
+        stroke-width="1"/>
+
+  <text x="722"
+        y="309"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="11"
+        fill="#D7E6BA">
+    VIEW PROJECT →
+  </text>
+
+  <g>
+
+    <use href="#butterfly"
+         transform="translate(1120 325) scale(.65)"/>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0; -50 -170; -260 -210; -430 -50; -300 130; -80 170; 0 0"
+      dur="11s"
+      repeatCount="indefinite"/>
+
+  </g>
+
+</g>
+
+
+<!-- ================================================= -->
+<!-- CARD 3 -->
+<!-- ================================================= -->
+
+<g>
+
+  <rect x="50"
+        y="390"
+        width="530"
+        height="260"
+        rx="18"
+        fill="url(#card)"
+        stroke="#3D4432"
+        stroke-width="1.5"/>
+
+  <path d="M50 425 Q50 390 85 390 H140"
+        fill="none"
+        stroke="#95A27D"
+        stroke-width="2"/>
+
+  <text x="80"
+        y="435"
+        font-family="monospace"
+        font-size="12"
+        fill="#72805F">
+    03
+  </text>
+
+  <text x="500"
+        y="435"
+        text-anchor="end"
+        font-family="monospace"
+        font-size="11"
+        fill="#95A27D">
+    ● PUBLISHED
+  </text>
+
+  <text x="80"
+        y="475"
+        font-family="monospace"
+        font-size="25"
+        font-weight="bold"
+        fill="#E4EBCF">
+    HandTalk
+  </text>
+
+  <text x="80"
+        y="505"
+        font-family="monospace"
+        font-size="13"
+        fill="#95A27D">
+    Voice for the Voiceless
+  </text>
+
+  <text x="80"
+        y="540"
+        font-family="monospace"
+        font-size="12"
+        fill="#72805F">
+    Computer Vision · ML · Assistive Tech
+  </text>
+
+  <rect x="80"
+        y="575"
+        width="145"
+        height="38"
+        rx="19"
+        fill="#263021"
+        stroke="#95A27D"
+        stroke-width="1"/>
+
+  <text x="152"
+        y="599"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="11"
+        fill="#D7E6BA">
+    VIEW PROJECT →
+  </text>
+
+  <g>
+
+    <use href="#butterfly"
+         transform="translate(535 615) scale(.65)"/>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0; -40 -170; -240 -200; -420 -80; -330 100; -100 170; 0 0"
+      dur="12s"
+      repeatCount="indefinite"/>
+
+  </g>
+
+</g>
+
+
+<!-- ================================================= -->
+<!-- CARD 4 -->
+<!-- ================================================= -->
+
+<g>
+
+  <rect x="620"
+        y="390"
+        width="530"
+        height="260"
+        rx="18"
+        fill="url(#card)"
+        stroke="#3D4432"
+        stroke-width="1.5"/>
+
+  <path d="M620 425 Q620 390 655 390 H710"
+        fill="none"
+        stroke="#95A27D"
+        stroke-width="2"/>
+
+  <text x="650"
+        y="435"
+        font-family="monospace"
+        font-size="12"
+        fill="#72805F">
+    04
+  </text>
+
+  <text x="1120"
+        y="435"
+        text-anchor="end"
+        font-family="monospace"
+        font-size="11"
+        fill="#95A27D">
+    ● ACTIVE
+  </text>
+
+  <text x="650"
+        y="475"
+        font-family="monospace"
+        font-size="25"
+        font-weight="bold"
+        fill="#E4EBCF">
+    TaskPro
+  </text>
+
+  <text x="650"
+        y="505"
+        font-family="monospace"
+        font-size="13"
+        fill="#95A27D">
+    Smart Team Collaboration Platform
+  </text>
+
+  <text x="650"
+        y="540"
+        font-family="monospace"
+        font-size="12"
+        fill="#72805F">
+    PHP · MySQL · JavaScript
+  </text>
+
+  <rect x="650"
+        y="575"
+        width="145"
+        height="38"
+        rx="19"
+        fill="#263021"
+        stroke="#95A27D"
+        stroke-width="1"/>
+
+  <text x="722"
+        y="599"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="11"
+        fill="#D7E6BA">
+    VIEW PROJECT →
+  </text>
+
+  <g>
+
+    <use href="#butterfly"
+         transform="translate(1120 615) scale(.65)"/>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0; -40 -170; -250 -210; -430 -70; -300 110; -80 170; 0 0"
+      dur="10.5s"
+      repeatCount="indefinite"/>
+
+  </g>
+
+</g>
+
+
+<!-- bottom decoration -->
+
+<path d="M50 680 H1150"
+      stroke="#263021"
+      stroke-width="1"/>
+
+<circle cx="600"
+        cy="680"
+        r="3"
+        fill="#95A27D"
+        filter="url(#glow)"/>
+
+</svg>
+```

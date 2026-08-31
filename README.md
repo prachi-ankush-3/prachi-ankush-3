@@ -54,43 +54,51 @@
 </div>
 
 
+```md
 <div align="center">
-  <code>BUILD LOG</code>
-</div>
 
-```
-●
-│  EngiSummary
-│  Engineering Drawing Intelligence
-│  React · Python · AI
-│  ● BUILDING
-│
-●
-│  TravAgent
-│  AI Travel & Bus Assistant
-│  Python · FastAPI · React
-│
-●
-│  HandTalk — Voice for the Voiceless
-│  Python · OpenCV · MediaPipe
-│  SPRINGER · SCOPUS INDEXED
-│
-●
-│  TaskPro
-│  Smart Team Collaboration
-│  PHP · MySQL · JavaScript
-```
-<div align="center">
+  <br/>
+
   <img
-    src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/main/assets/typing-code.svg"
-    width="720"
-    alt="Typing code animation"
+    src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/main/assets/projects.svg"
+    width="100%"
+    alt="Prachi Ankush projects"
   />
+
+  <br/>
+
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/prachi-ankush-3/EngiSummary">
+          <b>🌿 EngiSummary</b>
+        </a>
+      </td>
+
+      <td align="center">
+        <a href="https://github.com/prachi-ankush-3/TravelAgent">
+          <b>✈️ TravAgent</b>
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <td align="center">
+        <a href="https://github.com/prachi-ankush-3/handtalk-voice-for-voiceless">
+          <b>🖐️ HandTalk</b>
+        </a>
+      </td>
+
+      <td align="center">
+        <a href="https://github.com/prachi-ankush-3/TaskPro-Smart-Team-Collaboration-Platform">
+          <b>⚡ TaskPro</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
-[VIEW → EngiSummary](https://github.com/prachi-ankush-3/EngiSummary) ·
-[VIEW → TravAgent](https://github.com/prachi-ankush-3/TravAgent) ·
-[VIEW → HandTalk](https://github.com/prachi-ankush-3/HandTalk) ·
-[VIEW → TaskPro](https://github.com/prachi-ankush-3/TaskPro)
+```
 
 <div align="center">
   <img src="./assets/rootline.svg" width="100%" alt="" />
@@ -170,6 +178,3 @@
   <img src="./assets/footer-forest.svg" width="100%" alt="BUILD. BREAK. LEARN. FIX. REPEAT." />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0D1117,45:3D4432,100:95A27D&fontColor=95A27D&text=ONLINE&fontSize=16&animation=twinkling&fontAlignY=70" width="100%" alt="forest wave" />
-</div>
