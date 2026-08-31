@@ -21,7 +21,7 @@
 </div> -->
 
 <div align="center">
-  <img src="./assets/rootline.svg" width="100%" alt="" />
+  <img src="./assets/rootline.svg" width="100%" alt="Flying butterflies" />
 </div>
 <div align="center">
   <img src="./assets/identity.svg" width="860" alt="Prachi Ankush — Computer Engineering Student" />
