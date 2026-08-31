@@ -56,7 +56,7 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/main/assets/project-universe.svg"
+    src="./assets/projects.svg"
     width="100%"
     alt="Prachi Ankush project universe"
   />
