@@ -1,9 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
 
+<!-- PROFILE BACKGROUND -->
 <rect width="1200" height="500" fill="#0D1117"/>
-
-<!-- subtle forest layers -->
-<rect x="0" y="0" width="1200" height="500" fill="#11160F" opacity="0.45"/>
+<rect width="1200" height="500" fill="#11160F" opacity="0.45"/>
 
 <!-- top status -->
 <text x="60" y="55"
