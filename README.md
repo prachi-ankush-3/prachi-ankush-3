@@ -65,7 +65,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/achievements.svg" width="720" alt="unlocked achievements and next cycle" />
+  <img src="./assets/achievements.svg" width="100%" alt="unlocked achievements and next cycle" />
 </div>
 
 <div align="center">
