@@ -75,14 +75,13 @@
   />
 
 </div>
+
 <div align="center">
-
   <img
-    src="https://streak-stats.demolab.com/?user=prachi-ankush-3&theme=dark&hide_border=true&background=0D1117&stroke=3D4432&ring=95A27D&fire=95A27D&currStreakNum=E4EBCF&sideNums=95A27D&currStreakLabel=95A27D&sideLabels=72805F&dates=72805F"
-    width="600"
-    alt="Prachi Ankush GitHub contribution streak"
+    src="./assets/growth.svg"
+    width="95%"
+    alt="My growth"
   />
-
 </div>
 
 <br/>
@@ -107,14 +106,6 @@
 
 <div align="center">
   <img src="./assets/live-status.svg" width="720" alt="live development status" />
-</div>
-
-<div align="center">
-  <code>CONTRIBUTION RAIN</code>
-</div>
-
-<div align="center">
-  <img src="./assets/contribution-rain.svg" width="100%" alt="commit push merge rain" />
 </div>
 
 <div align="center">

@@ -1,0 +1,87 @@
+<div align="center">
+
+<svg width="900" height="260" viewBox="0 0 900 260"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="900" height="260" rx="18" fill="#0D1117"/>
+
+  <!-- Ground -->
+  <path d="M70 215 Q450 200 830 215"
+        stroke="#263021"
+        stroke-width="2"
+        fill="none"/>
+
+  <!-- Small tree -->
+  <g transform="translate(155,80)">
+    <rect x="44" y="105" width="8" height="35" rx="3" fill="#6B7658"/>
+    <circle cx="48" cy="95" r="30" fill="#59664A"/>
+    <circle cx="25" cy="105" r="20" fill="#657255"/>
+    <circle cx="70" cy="105" r="21" fill="#657255"/>
+    <circle cx="48" cy="72" r="22" fill="#748263"/>
+  </g>
+
+  <!-- Medium tree -->
+  <g transform="translate(370,45)">
+    <rect x="57" y="125" width="10" height="55" rx="3" fill="#7D8968"/>
+    <circle cx="62" cy="110" r="42" fill="#657255"/>
+    <circle cx="28" cy="125" r="29" fill="#71805E"/>
+    <circle cx="97" cy="125" r="30" fill="#71805E"/>
+    <circle cx="62" cy="77" r="34" fill="#7C8A68"/>
+    <circle cx="38" cy="91" r="23" fill="#82906D"/>
+    <circle cx="85" cy="92" r="23" fill="#82906D"/>
+  </g>
+
+  <!-- Big tree -->
+  <g transform="translate(620,15)">
+    <rect x="72" y="145" width="13" height="65" rx="4" fill="#95A27D"/>
+    <path d="M78 160 L45 130 M78 155 L110 125"
+          stroke="#95A27D"
+          stroke-width="7"
+          stroke-linecap="round"/>
+
+    <circle cx="78" cy="105" r="55" fill="#71805E"/>
+    <circle cx="35" cy="125" r="37" fill="#7C8A68"/>
+    <circle cx="120" cy="125" r="38" fill="#7C8A68"/>
+    <circle cx="78" cy="65" r="43" fill="#82906D"/>
+    <circle cx="48" cy="75" r="30" fill="#8D9A76"/>
+    <circle cx="108" cy="78" r="31" fill="#8D9A76"/>
+    <circle cx="78" cy="35" r="25" fill="#95A27D"/>
+  </g>
+
+  <!-- Connecting growth line -->
+  <path d="M110 215 C250 185 300 205 410 185
+           C520 165 550 185 650 165"
+        stroke="#95A27D"
+        stroke-width="2"
+        stroke-dasharray="5 8"
+        fill="none"
+        opacity="0.7"/>
+
+  <!-- Labels -->
+  <text x="155" y="238"
+        fill="#95A27D"
+        font-family="Arial"
+        font-size="13"
+        text-anchor="middle">
+    START
+  </text>
+
+  <text x="432" y="238"
+        fill="#95A27D"
+        font-family="Arial"
+        font-size="13"
+        text-anchor="middle">
+    GROWING
+  </text>
+
+  <text x="700" y="238"
+        fill="#B8C4A3"
+        font-family="Arial"
+        font-size="13"
+        text-anchor="middle">
+    BUILDING
+  </text>
+
+</svg>
+
+</div>
