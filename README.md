@@ -58,10 +58,9 @@
   <img
     src="./assets/projects.svg"
     width="100%"
-    alt="Prachi Ankush project universe"
+    alt="Prachi Ankush Projects"
   />
 </div>
-
 
 <div align="center">
   <img src="./assets/rootline.svg" width="100%" alt="" />
