@@ -32,7 +32,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2400&pause=700&color=95A27D&center=true&vCenter=true&width=560&cursor=true&lines=Java+%E2%86%92+Python+%E2%86%92+React;Building+with+AI+%26+Computer+Vision;Learning+AWS+%26+Linux;Turning+ideas+into+software" alt="typing" />
 </div>
 
-<br/>
 
 <div align="center">
   <code>TECH DNA</code>
