@@ -72,12 +72,14 @@
 
   <code>DEVELOPER TELEMETRY</code>
 
-  <br/><br/>
+<div align="center">
 
+  <img
+    src="https://komarev.com/ghpvc/?username=prachi-ankush-3&label=VIEWS&color=95A27D&style=flat-square"
+    alt="Profile views"
+  />
 
-
-<br/>
-
+</div>
 <div align="center">
 
   <img
