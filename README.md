@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="./assets/boot.svg"
-       width="100%"
-       alt="PRACHI ANKUSH boot sequence"/>
+  <img
+    src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/main/assets/boot.svg"
+    width="100%"
+    alt="PRACHI ANKUSH boot sequence"
+  />
 </div>
 
 <div align="center">
