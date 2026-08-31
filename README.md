@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/identity.svg" width="860" alt="Prachi Ankush — Computer Engineering student, VIT Pune, CGPA 9.55, 200+ LeetCode" />
+  <img src="./assets/identity.svg" width="860" alt="Prachi Ankush — Computer Engineering Student" />
 </div>
 
 <div align="center">
