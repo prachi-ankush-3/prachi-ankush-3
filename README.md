@@ -151,7 +151,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/footer-forest.svg" width="100%" alt="BUILD. BREAK. LEARN. FIX. REPEAT." />
+  <img src="./assets/typing-code.svg" width="100%" alt="BUILD. BREAK. LEARN. FIX. REPEAT." />
 </div>
 
 <div align="center">
