@@ -1,73 +1,190 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 460" role="img" aria-label="Developer boot sequence">
-  <defs>
-    <linearGradient id="bootGlow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="50%" stop-color="#95A27D"/>
-      <stop offset="100%" stop-color="#0D1117"/>
-    </linearGradient>
-    <filter id="sageGlow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="2.2" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <rect width="860" height="460" fill="#0D1117"/>
-  <rect width="860" height="460" fill="#11160F" opacity="0.55"/>
-  <g stroke="#1B2117" stroke-width="1">
-    <line x1="40" y1="0" x2="40" y2="460"/>
-    <line x1="820" y1="0" x2="820" y2="460"/>
-  </g>
-  <rect x="0" y="0" width="860" height="8" fill="url(#bootGlow)" opacity="0.35">
-    <animate attributeName="y" values="0;452;0" dur="7s" repeatCount="indefinite"/>
-  </rect>
-  <style>
-    .t { font-family: "Courier New", Courier, Consolas, monospace; }
-  </style>
-  <g class="t" font-size="14" fill="#72805F">
-    <text x="56" y="48" opacity="0">BIOS CHECK ............... OK
-      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.1s" fill="freeze"/>
-    </text>
-    <text x="56" y="74" opacity="0">SYSTEM CHECK ............. OK
-      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.45s" fill="freeze"/>
-    </text>
-    <text x="56" y="100" opacity="0">MEMORY ................... OK
-      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.8s" fill="freeze"/>
-    </text>
-    <text x="56" y="126" opacity="0" fill="#95A27D">NETWORK .................. CONNECTED
-      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.15s" fill="freeze"/>
-    </text>
-    <text x="56" y="168" opacity="0" fill="#B8C4A3">LOADING PRACHI.EXE .......
-      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.5s" fill="freeze"/>
-    </text>
-  </g>
-  <rect x="310" y="154" width="220" height="12" fill="#1B2117" rx="1" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="1.55s" fill="freeze"/>
-  </rect>
-  <rect x="310" y="154" width="0" height="12" fill="#95A27D" filter="url(#sageGlow)">
-    <animate attributeName="width" from="0" to="220" dur="1.6s" begin="1.6s" fill="freeze"/>
-  </rect>
-  <text class="t" x="540" y="166" font-size="13" fill="#FFFFFF" opacity="0">100%
-    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.15s" fill="freeze"/>
-  </text>
-  <text class="t" x="56" y="204" font-size="14" fill="#95A27D" opacity="0">INITIALIZING DEVELOPER ... OK
-    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="3.3s" fill="freeze"/>
-  </text>
-  <text class="t" x="430" y="258" text-anchor="middle" font-size="18" fill="#95A27D" letter-spacing="8" filter="url(#sageGlow)" opacity="0">SYSTEM ONLINE
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.7s" fill="freeze"/>
-  </text>
-  <line x1="220" y1="278" x2="640" y2="278" stroke="#3D4432" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="4s" fill="freeze"/>
-  </line>
-  <text class="t" x="430" y="330" text-anchor="middle" font-size="42" fill="#FFFFFF" letter-spacing="6" opacity="0">PRACHI ANKUSH
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="4.15s" fill="freeze"/>
-  </text>
-  <text class="t" x="430" y="362" text-anchor="middle" font-size="14" fill="#B8C4A3" opacity="0">Computer Engineer � Developer � Builder
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.5s" fill="freeze"/>
-  </text>
-  <rect x="430" y="380" width="9" height="16" fill="#95A27D">
-    <animate attributeName="opacity" values="0;0;1;0;1" keyTimes="0;0.72;0.73;0.86;1" dur="6s" fill="freeze"/>
-    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="6s" repeatCount="indefinite"/>
-  </rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+
+<rect width="1200" height="500" fill="#0D1117"/>
+
+<!-- subtle forest layers -->
+<rect x="0" y="0" width="1200" height="500" fill="#11160F" opacity="0.45"/>
+
+<!-- top status -->
+<text x="60" y="55"
+      font-family="monospace"
+      font-size="16"
+      fill="#72805F">
+  PRACHI_OS // BOOT SEQUENCE
+</text>
+
+<text x="1140" y="55"
+      text-anchor="end"
+      font-family="monospace"
+      font-size="14"
+      fill="#95A27D">
+  ● ONLINE
+</text>
+
+<!-- terminal lines -->
+
+<text x="70" y="105"
+      font-family="monospace"
+      font-size="17"
+      fill="#95A27D"
+      opacity="0">
+  BIOS CHECK ............... OK
+  <animate attributeName="opacity"
+           values="0;1"
+           dur="0.4s"
+           begin="0.2s"
+           fill="freeze"/>
+</text>
+
+<text x="70" y="140"
+      font-family="monospace"
+      font-size="17"
+      fill="#95A27D"
+      opacity="0">
+  SYSTEM CHECK ............. OK
+  <animate attributeName="opacity"
+           values="0;1"
+           dur="0.4s"
+           begin="0.7s"
+           fill="freeze"/>
+</text>
+
+<text x="70" y="175"
+      font-family="monospace"
+      font-size="17"
+      fill="#95A27D"
+      opacity="0">
+  MEMORY ................... OK
+  <animate attributeName="opacity"
+           values="0;1"
+           dur="0.4s"
+           begin="1.2s"
+           fill="freeze"/>
+</text>
+
+<text x="70" y="210"
+      font-family="monospace"
+      font-size="17"
+      fill="#95A27D"
+      opacity="0">
+  NETWORK ................. CONNECTED
+  <animate attributeName="opacity"
+           values="0;1"
+           dur="0.4s"
+           begin="1.7s"
+           fill="freeze"/>
+</text>
+
+<!-- loading -->
+
+<text x="70" y="260"
+      font-family="monospace"
+      font-size="17"
+      fill="#B8C4A3"
+      opacity="0">
+  LOADING PRACHI.EXE
+  <animate attributeName="opacity"
+           values="0;1"
+           dur="0.4s"
+           begin="2.2s"
+           fill="freeze"/>
+</text>
+
+<!-- loading bar -->
+
+<rect x="70"
+      y="280"
+      width="500"
+      height="14"
+      rx="3"
+      fill="#1B2117"/>
+
+<rect x="70"
+      y="280"
+      width="0"
+      height="14"
+      rx="3"
+      fill="#95A27D">
+
+  <animate attributeName="width"
+           from="0"
+           to="500"
+           dur="2s"
+           begin="2.3s"
+           fill="freeze"/>
+</rect>
+
+<text x="590"
+      y="293"
+      font-family="monospace"
+      font-size="14"
+      fill="#95A27D"
+      opacity="0">
+  100%
+  <animate attributeName="opacity"
+           values="0;1"
+           dur="0.3s"
+           begin="4.2s"
+           fill="freeze"/>
+</text>
+
+<!-- online -->
+
+<text x="600"
+      y="350"
+      text-anchor="middle"
+      font-family="monospace"
+      font-size="22"
+      letter-spacing="6"
+      fill="#95A27D"
+      opacity="0">
+
+  SYSTEM ONLINE ✓
+
+  <animate attributeName="opacity"
+           values="0;1"
+           dur="0.5s"
+           begin="4.5s"
+           fill="freeze"/>
+</text>
+
+<!-- name -->
+
+<text x="600"
+      y="415"
+      text-anchor="middle"
+      font-family="monospace"
+      font-size="48"
+      font-weight="bold"
+      letter-spacing="8"
+      fill="#FFFFFF"
+      opacity="0">
+
+  PRACHI ANKUSH
+
+  <animate attributeName="opacity"
+           values="0;1"
+           dur="0.7s"
+           begin="5s"
+           fill="freeze"/>
+</text>
+
+<text x="600"
+      y="450"
+      text-anchor="middle"
+      font-family="monospace"
+      font-size="16"
+      letter-spacing="3"
+      fill="#95A27D"
+      opacity="0">
+
+  COMPUTER ENGINEER • DEVELOPER • BUILDER
+
+  <animate attributeName="opacity"
+           values="0;1"
+           dur="0.5s"
+           begin="5.5s"
+           fill="freeze"/>
+</text>
+
 </svg>
