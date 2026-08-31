@@ -87,9 +87,9 @@
 <div align="center">
 
   <img
-    src="./assets/growth.svg"
+    src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/main/assets/growth.svg"
     width="95%"
-    alt="Growth journey"
+    alt="Prachi Ankush Growth Journey"
   />
 
 </div>
