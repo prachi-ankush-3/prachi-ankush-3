@@ -10,9 +10,7 @@
   <img src="./assets/fireflies.svg" width="100%" alt="" />
 </div>
 
-<div align="center">
-  <img src="./assets/terminal-rain.svg" width="100%" alt="terminal rain of git and code commands" />
-</div>
+
 
 <!-- <div align="center">
   <img
@@ -28,7 +26,9 @@
 <div align="center">
   <img src="./assets/identity.svg" width="860" alt="Prachi Ankush — Computer Engineering Student" />
 </div>
-
+<div align="center">
+  <img src="./assets/terminal-rain.svg" width="100%" alt="terminal rain of git and code commands" />
+</div>
 
 <div align="center">
   <img src="./assets/tree.svg" width="100%" alt="Code tree" />
