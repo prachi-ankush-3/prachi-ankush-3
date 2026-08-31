@@ -17,16 +17,6 @@
   />
 </div>
 
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/main/assets/typing-code.svg"
-    width="720"
-    alt="Typing code animation"
-  />
-</div>
-
-
 <div align="center">
   <img src="./assets/identity.svg" width="860" alt="Prachi Ankush — Computer Engineering Student" />
 </div>
@@ -105,7 +95,13 @@
 │  Smart Team Collaboration
 │  PHP · MySQL · JavaScript
 ```
-
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/main/assets/typing-code.svg"
+    width="720"
+    alt="Typing code animation"
+  />
+</div>
 [VIEW → EngiSummary](https://github.com/prachi-ankush-3/EngiSummary) ·
 [VIEW → TravAgent](https://github.com/prachi-ankush-3/TravAgent) ·
 [VIEW → HandTalk](https://github.com/prachi-ankush-3/HandTalk) ·
