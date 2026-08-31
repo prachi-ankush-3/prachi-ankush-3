@@ -1,22 +1,32 @@
-```svg
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="1200"
-     height="720"
-     viewBox="0 0 1200 720">
-
-<rect width="1200" height="720" rx="20" fill="#0D1117"/>
+  width="1200"
+  height="760"
+  viewBox="0 0 1200 760"
+  role="img"
+  aria-label="Prachi Ankush project universe">
 
 <defs>
 
-  <!-- Card gradient -->
-  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#172119"/>
+  <!-- Background -->
+
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0D1117"/>
+    <stop offset="55%" stop-color="#101810"/>
     <stop offset="100%" stop-color="#0D1117"/>
   </linearGradient>
 
-  <!-- Green glow -->
-  <filter id="glow">
-    <feGaussianBlur stdDeviation="4" result="blur"/>
+  <!-- Card -->
+
+  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#18241A"/>
+    <stop offset="55%" stop-color="#111A13"/>
+    <stop offset="100%" stop-color="#0D1117"/>
+  </linearGradient>
+
+  <!-- Soft glow -->
+
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
     <feMerge>
       <feMergeNode in="blur"/>
       <feMergeNode in="SourceGraphic"/>
@@ -24,476 +34,643 @@
   </filter>
 
   <!-- Butterfly -->
+
   <g id="butterfly">
 
-    <ellipse cx="-6" cy="0"
-             rx="7" ry="11"
-             fill="#B8C99A"
-             opacity=".9"/>
+```
+<ellipse cx="-7" cy="-1"
+         rx="7" ry="11"
+         fill="#B8C99A"/>
 
-    <ellipse cx="6" cy="0"
-             rx="7" ry="11"
-             fill="#D7E6BA"
-             opacity=".9"/>
+<ellipse cx="7" cy="-1"
+         rx="7" ry="11"
+         fill="#D7E6BA"/>
 
-    <ellipse cx="0" cy="2"
-             rx="2"
-             ry="9"
-             fill="#95A27D"/>
+<ellipse cx="0" cy="2"
+         rx="2"
+         ry="9"
+         fill="#72805F"/>
 
-    <path d="M-1 -4 Q-6 -12 -9 -13"
-          fill="none"
-          stroke="#B8C99A"
-          stroke-width="1"/>
+<path d="M-1 -4 Q-6 -12 -10 -14"
+      fill="none"
+      stroke="#B8C99A"
+      stroke-width="1"
+      stroke-linecap="round"/>
 
-    <path d="M1 -4 Q6 -12 9 -13"
-          fill="none"
-          stroke="#B8C99A"
-          stroke-width="1"/>
+<path d="M1 -4 Q6 -12 10 -14"
+      fill="none"
+      stroke="#B8C99A"
+      stroke-width="1"
+      stroke-linecap="round"/>
 
-    <!-- wing flutter -->
-    <animateTransform
-      attributeName="transform"
-      type="scale"
-      values="1 1; .65 1; 1 1"
-      dur=".6s"
-      repeatCount="indefinite"/>
+<animateTransform
+  attributeName="transform"
+  type="scale"
+  values="1,1;0.55,1;1,1"
+  dur="0.55s"
+  repeatCount="indefinite"/>
+```
 
   </g>
 
 </defs>
 
+<!-- ================================================= -->
+
+<!-- BACKGROUND -->
+
+<!-- ================================================= -->
+
+<rect width="1200"
+   height="760"
+   rx="22"
+   fill="url(#bg)"/>
+
+<!-- subtle atmosphere -->
+
+<circle cx="100" cy="150" r="100"
+     fill="#95A27D"
+     opacity=".025"/>
+
+<circle cx="1100" cy="600" r="150"
+     fill="#95A27D"
+     opacity=".025"/>
+
+<!-- ================================================= -->
 
 <!-- HEADER -->
 
-<text x="60"
-      y="65"
-      font-family="monospace"
-      font-size="14"
-      letter-spacing="5"
-      fill="#72805F">
+<!-- ================================================= -->
 
-  PROJECTS // CURRENT BUILDS
+<text x="60"
+   y="58"
+   font-family="monospace"
+   font-size="13"
+   letter-spacing="4"
+   fill="#72805F">
+
+PROJECT UNIVERSE
 
 </text>
 
 <text x="1140"
-      y="65"
-      text-anchor="end"
-      font-family="monospace"
-      font-size="13"
-      fill="#95A27D">
+   y="58"
+   text-anchor="end"
+   font-family="monospace"
+   font-size="12"
+   letter-spacing="2"
+   fill="#95A27D">
 
-  ● 04 PROJECTS
+04 BUILDS
 
 </text>
 
+<path d="M60 78 H1140"
+   stroke="#263021"
+   stroke-width="1"/>
 
 <!-- ================================================= -->
+
 <!-- CARD 1 -->
+
 <!-- ================================================= -->
 
 <g>
 
-  <rect x="50"
-        y="100"
-        width="530"
-        height="260"
-        rx="18"
-        fill="url(#card)"
-        stroke="#3D4432"
-        stroke-width="1.5"/>
+<rect x="60"
+   y="110"
+   width="520"
+   height="245"
+   rx="20"
+   fill="url(#card)"
+   stroke="#3D4432"
+   stroke-width="1.5"/>
 
-  <!-- corner -->
-  <path d="M50 135 Q50 100 85 100 H140"
-        fill="none"
-        stroke="#95A27D"
-        stroke-width="2"/>
+<!-- accent -->
 
-  <!-- number -->
-  <text x="80"
-        y="145"
-        font-family="monospace"
-        font-size="12"
-        fill="#72805F">
-    01
-  </text>
+<path d="M60 145
+      Q60 110 95 110
+      H175"
+   fill="none"
+   stroke="#95A27D"
+   stroke-width="2"/>
 
-  <!-- status -->
-  <text x="500"
-        y="145"
-        text-anchor="end"
-        font-family="monospace"
-        font-size="11"
-        fill="#95A27D">
-    ● BUILDING
-  </text>
+<circle cx="92"
+     cy="145"
+     r="4"
+     fill="#95A27D"
+     filter="url(#glow)"/>
 
-  <!-- title -->
-  <text x="80"
-        y="185"
-        font-family="monospace"
-        font-size="25"
-        font-weight="bold"
-        fill="#E4EBCF">
-    EngiSummary
-  </text>
+<text x="110"
+   y="150"
+   font-family="monospace"
+   font-size="11"
+   fill="#72805F">
 
-  <text x="80"
-        y="215"
-        font-family="monospace"
-        font-size="13"
-        fill="#95A27D">
-    Engineering Drawing Intelligence
-  </text>
+01
 
-  <text x="80"
-        y="250"
-        font-family="monospace"
-        font-size="12"
-        fill="#72805F">
-    React · Python · AI
-  </text>
+</text>
 
-  <!-- repo button -->
-  <rect x="80"
-        y="285"
-        width="145"
-        height="38"
-        rx="19"
-        fill="#263021"
-        stroke="#95A27D"
-        stroke-width="1"/>
+<text x="540"
+   y="150"
+   text-anchor="end"
+   font-family="monospace"
+   font-size="10"
+   fill="#95A27D">
 
-  <text x="152"
-        y="309"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="11"
-        fill="#D7E6BA">
-    VIEW PROJECT →
-  </text>
+● BUILDING
 
-  <!-- butterfly -->
-  <g>
+</text>
 
-    <use href="#butterfly"
-         transform="translate(535 325) scale(.65)"/>
+<text x="95"
+   y="195"
+   font-family="monospace"
+   font-size="27"
+   font-weight="bold"
+   fill="#E4EBCF">
 
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="0 0; -30 -180; -250 -210; -420 -80; -350 110; -100 170; 0 0"
-      dur="10s"
-      repeatCount="indefinite"/>
+EngiSummary
 
-  </g>
+</text>
+
+<text x="95"
+   y="225"
+   font-family="monospace"
+   font-size="13"
+   fill="#95A27D">
+
+Engineering Drawing Intelligence
+
+</text>
+
+<text x="95"
+   y="258"
+   font-family="monospace"
+   font-size="11"
+   fill="#72805F">
+
+React · Python · AI
+
+</text>
+
+<path d="M95 280 H535"
+   stroke="#263021"
+   stroke-width="1"/>
+
+<text x="95"
+   y="315"
+   font-family="monospace"
+   font-size="11"
+   fill="#B8C99A">
+
+ENGINEERING • AUTOMATION • INTELLIGENCE
+
+</text>
+
+<!-- butterfly path -->
+
+<path d="M540 320
+      C610 280 625 190 555 125
+      C500 75 420 85 370 110"
+   fill="none"
+   stroke="#95A27D"
+   stroke-width="1"
+   stroke-dasharray="2 9"
+   opacity=".22"/>
+
+<g>
+
+<use href="#butterfly"
+  transform="translate(540 320) scale(.65)"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;
+       45 -70;
+       20 -155;
+       -50 -205;
+       -140 -215;
+       -175 -145;
+       -120 -60;
+       0 0"
+dur="11s"
+repeatCount="indefinite"/>
 
 </g>
 
+</g>
 
 <!-- ================================================= -->
+
 <!-- CARD 2 -->
+
 <!-- ================================================= -->
 
 <g>
 
-  <rect x="620"
-        y="100"
-        width="530"
-        height="260"
-        rx="18"
-        fill="url(#card)"
-        stroke="#3D4432"
-        stroke-width="1.5"/>
+<rect x="620"
+   y="110"
+   width="520"
+   height="245"
+   rx="20"
+   fill="url(#card)"
+   stroke="#3D4432"
+   stroke-width="1.5"/>
 
-  <path d="M620 135 Q620 100 655 100 H710"
-        fill="none"
-        stroke="#95A27D"
-        stroke-width="2"/>
+<path d="M620 145
+      Q620 110 655 110
+      H735"
+   fill="none"
+   stroke="#95A27D"
+   stroke-width="2"/>
 
-  <text x="650"
-        y="145"
-        font-family="monospace"
-        font-size="12"
-        fill="#72805F">
-    02
-  </text>
+<circle cx="652"
+     cy="145"
+     r="4"
+     fill="#95A27D"
+     filter="url(#glow)"/>
 
-  <text x="1120"
-        y="145"
-        text-anchor="end"
-        font-family="monospace"
-        font-size="11"
-        fill="#95A27D">
-    ● ACTIVE
-  </text>
+<text x="670"
+   y="150"
+   font-family="monospace"
+   font-size="11"
+   fill="#72805F">
 
-  <text x="650"
-        y="185"
-        font-family="monospace"
-        font-size="25"
-        font-weight="bold"
-        fill="#E4EBCF">
-    TravAgent
-  </text>
+02
 
-  <text x="650"
-        y="215"
-        font-family="monospace"
-        font-size="13"
-        fill="#95A27D">
-    Smart Travel Management Platform
-  </text>
+</text>
 
-  <text x="650"
-        y="250"
-        font-family="monospace"
-        font-size="12"
-        fill="#72805F">
-    React · Flask · Python · Supabase
-  </text>
+<text x="1100"
+   y="150"
+   text-anchor="end"
+   font-family="monospace"
+   font-size="10"
+   fill="#95A27D">
 
-  <rect x="650"
-        y="285"
-        width="145"
-        height="38"
-        rx="19"
-        fill="#263021"
-        stroke="#95A27D"
-        stroke-width="1"/>
+● ACTIVE
 
-  <text x="722"
-        y="309"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="11"
-        fill="#D7E6BA">
-    VIEW PROJECT →
-  </text>
+</text>
 
-  <g>
+<text x="655"
+   y="195"
+   font-family="monospace"
+   font-size="27"
+   font-weight="bold"
+   fill="#E4EBCF">
 
-    <use href="#butterfly"
-         transform="translate(1120 325) scale(.65)"/>
+TravAgent
 
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="0 0; -50 -170; -260 -210; -430 -50; -300 130; -80 170; 0 0"
-      dur="11s"
-      repeatCount="indefinite"/>
+</text>
 
-  </g>
+<text x="655"
+   y="225"
+   font-family="monospace"
+   font-size="13"
+   fill="#95A27D">
+
+Smart Travel Management
+
+</text>
+
+<text x="655"
+   y="258"
+   font-family="monospace"
+   font-size="11"
+   fill="#72805F">
+
+React · Flask · Python · Supabase
+
+</text>
+
+<path d="M655 280 H1095"
+   stroke="#263021"
+   stroke-width="1"/>
+
+<text x="655"
+   y="315"
+   font-family="monospace"
+   font-size="11"
+   fill="#B8C99A">
+
+TRAVEL • AUTOMATION • FULL STACK
+
+</text>
+
+<path d="M1085 320
+      C1145 270 1160 180 1090 125
+      C1025 75 945 90 900 120"
+   fill="none"
+   stroke="#95A27D"
+   stroke-width="1"
+   stroke-dasharray="2 9"
+   opacity=".22"/>
+
+<g>
+
+<use href="#butterfly"
+  transform="translate(1085 320) scale(.65)"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;
+       45 -65;
+       25 -150;
+       -45 -205;
+       -135 -220;
+       -175 -145;
+       -110 -55;
+       0 0"
+dur="12s"
+repeatCount="indefinite"/>
 
 </g>
 
+</g>
 
 <!-- ================================================= -->
+
 <!-- CARD 3 -->
+
 <!-- ================================================= -->
 
 <g>
 
-  <rect x="50"
-        y="390"
-        width="530"
-        height="260"
-        rx="18"
-        fill="url(#card)"
-        stroke="#3D4432"
-        stroke-width="1.5"/>
+<rect x="60"
+   y="390"
+   width="520"
+   height="245"
+   rx="20"
+   fill="url(#card)"
+   stroke="#3D4432"
+   stroke-width="1.5"/>
 
-  <path d="M50 425 Q50 390 85 390 H140"
-        fill="none"
-        stroke="#95A27D"
-        stroke-width="2"/>
+<path d="M60 425
+      Q60 390 95 390
+      H175"
+   fill="none"
+   stroke="#95A27D"
+   stroke-width="2"/>
 
-  <text x="80"
-        y="435"
-        font-family="monospace"
-        font-size="12"
-        fill="#72805F">
-    03
-  </text>
+<circle cx="92"
+     cy="425"
+     r="4"
+     fill="#95A27D"
+     filter="url(#glow)"/>
 
-  <text x="500"
-        y="435"
-        text-anchor="end"
-        font-family="monospace"
-        font-size="11"
-        fill="#95A27D">
-    ● PUBLISHED
-  </text>
+<text x="110"
+   y="430"
+   font-family="monospace"
+   font-size="11"
+   fill="#72805F">
 
-  <text x="80"
-        y="475"
-        font-family="monospace"
-        font-size="25"
-        font-weight="bold"
-        fill="#E4EBCF">
-    HandTalk
-  </text>
+03
 
-  <text x="80"
-        y="505"
-        font-family="monospace"
-        font-size="13"
-        fill="#95A27D">
-    Voice for the Voiceless
-  </text>
+</text>
 
-  <text x="80"
-        y="540"
-        font-family="monospace"
-        font-size="12"
-        fill="#72805F">
-    Computer Vision · ML · Assistive Tech
-  </text>
+<text x="540"
+   y="430"
+   text-anchor="end"
+   font-family="monospace"
+   font-size="10"
+   fill="#95A27D">
 
-  <rect x="80"
-        y="575"
-        width="145"
-        height="38"
-        rx="19"
-        fill="#263021"
-        stroke="#95A27D"
-        stroke-width="1"/>
+● PUBLISHED
 
-  <text x="152"
-        y="599"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="11"
-        fill="#D7E6BA">
-    VIEW PROJECT →
-  </text>
+</text>
 
-  <g>
+<text x="95"
+   y="475"
+   font-family="monospace"
+   font-size="27"
+   font-weight="bold"
+   fill="#E4EBCF">
 
-    <use href="#butterfly"
-         transform="translate(535 615) scale(.65)"/>
+HandTalk
 
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="0 0; -40 -170; -240 -200; -420 -80; -330 100; -100 170; 0 0"
-      dur="12s"
-      repeatCount="indefinite"/>
+</text>
 
-  </g>
+<text x="95"
+   y="505"
+   font-family="monospace"
+   font-size="13"
+   fill="#95A27D">
+
+Voice for the Voiceless
+
+</text>
+
+<text x="95"
+   y="538"
+   font-family="monospace"
+   font-size="11"
+   fill="#72805F">
+
+Computer Vision · ML · Assistive Tech
+
+</text>
+
+<path d="M95 560 H535"
+   stroke="#263021"
+   stroke-width="1"/>
+
+<text x="95"
+   y="598"
+   font-family="monospace"
+   font-size="11"
+   fill="#B8C99A">
+
+SPRINGER • SCOPUS INDEXED
+
+</text>
+
+<path d="M540 600
+      C610 550 625 465 555 405
+      C500 355 420 365 370 390"
+   fill="none"
+   stroke="#95A27D"
+   stroke-width="1"
+   stroke-dasharray="2 9"
+   opacity=".22"/>
+
+<g>
+
+<use href="#butterfly"
+  transform="translate(540 600) scale(.65)"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;
+       45 -65;
+       20 -145;
+       -50 -205;
+       -145 -220;
+       -180 -145;
+       -115 -60;
+       0 0"
+dur="13s"
+repeatCount="indefinite"/>
 
 </g>
 
+</g>
 
 <!-- ================================================= -->
+
 <!-- CARD 4 -->
+
 <!-- ================================================= -->
 
 <g>
 
-  <rect x="620"
-        y="390"
-        width="530"
-        height="260"
-        rx="18"
-        fill="url(#card)"
-        stroke="#3D4432"
-        stroke-width="1.5"/>
+<rect x="620"
+   y="390"
+   width="520"
+   height="245"
+   rx="20"
+   fill="url(#card)"
+   stroke="#3D4432"
+   stroke-width="1.5"/>
 
-  <path d="M620 425 Q620 390 655 390 H710"
-        fill="none"
-        stroke="#95A27D"
-        stroke-width="2"/>
+<path d="M620 425
+      Q620 390 655 390
+      H735"
+   fill="none"
+   stroke="#95A27D"
+   stroke-width="2"/>
 
-  <text x="650"
-        y="435"
-        font-family="monospace"
-        font-size="12"
-        fill="#72805F">
-    04
-  </text>
+<circle cx="652"
+     cy="425"
+     r="4"
+     fill="#95A27D"
+     filter="url(#glow)"/>
 
-  <text x="1120"
-        y="435"
-        text-anchor="end"
-        font-family="monospace"
-        font-size="11"
-        fill="#95A27D">
-    ● ACTIVE
-  </text>
+<text x="670"
+   y="430"
+   font-family="monospace"
+   font-size="11"
+   fill="#72805F">
 
-  <text x="650"
-        y="475"
-        font-family="monospace"
-        font-size="25"
-        font-weight="bold"
-        fill="#E4EBCF">
-    TaskPro
-  </text>
+04
 
-  <text x="650"
-        y="505"
-        font-family="monospace"
-        font-size="13"
-        fill="#95A27D">
-    Smart Team Collaboration Platform
-  </text>
+</text>
 
-  <text x="650"
-        y="540"
-        font-family="monospace"
-        font-size="12"
-        fill="#72805F">
-    PHP · MySQL · JavaScript
-  </text>
+<text x="1100"
+   y="430"
+   text-anchor="end"
+   font-family="monospace"
+   font-size="10"
+   fill="#95A27D">
 
-  <rect x="650"
-        y="575"
-        width="145"
-        height="38"
-        rx="19"
-        fill="#263021"
-        stroke="#95A27D"
-        stroke-width="1"/>
+● ACTIVE
 
-  <text x="722"
-        y="599"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="11"
-        fill="#D7E6BA">
-    VIEW PROJECT →
-  </text>
+</text>
 
-  <g>
+<text x="655"
+   y="475"
+   font-family="monospace"
+   font-size="27"
+   font-weight="bold"
+   fill="#E4EBCF">
 
-    <use href="#butterfly"
-         transform="translate(1120 615) scale(.65)"/>
+TaskPro
 
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="0 0; -40 -170; -250 -210; -430 -70; -300 110; -80 170; 0 0"
-      dur="10.5s"
-      repeatCount="indefinite"/>
+</text>
 
-  </g>
+<text x="655"
+   y="505"
+   font-family="monospace"
+   font-size="13"
+   fill="#95A27D">
+
+Smart Team Collaboration
+
+</text>
+
+<text x="655"
+   y="538"
+   font-family="monospace"
+   font-size="11"
+   fill="#72805F">
+
+PHP · MySQL · JavaScript
+
+</text>
+
+<path d="M655 560 H1095"
+   stroke="#263021"
+   stroke-width="1"/>
+
+<text x="655"
+   y="598"
+   font-family="monospace"
+   font-size="11"
+   fill="#B8C99A">
+
+TEAMS • TASKS • PRODUCTIVITY
+
+</text>
+
+<path d="M1085 600
+      C1145 550 1160 465 1090 405
+      C1025 355 945 370 900 395"
+   fill="none"
+   stroke="#95A27D"
+   stroke-width="1"
+   stroke-dasharray="2 9"
+   opacity=".22"/>
+
+<g>
+
+<use href="#butterfly"
+  transform="translate(1085 600) scale(.65)"/>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;
+       45 -65;
+       20 -145;
+       -45 -205;
+       -135 -220;
+       -175 -145;
+       -110 -55;
+       0 0"
+dur="11.5s"
+repeatCount="indefinite"/>
 
 </g>
 
+</g>
 
-<!-- bottom decoration -->
+<!-- ================================================= -->
 
-<path d="M50 680 H1150"
-      stroke="#263021"
-      stroke-width="1"/>
+<!-- BOTTOM -->
+
+<!-- ================================================= -->
+
+<path d="M60 680 H1140"
+   stroke="#263021"
+   stroke-width="1"/>
 
 <circle cx="600"
-        cy="680"
-        r="3"
-        fill="#95A27D"
-        filter="url(#glow)"/>
+     cy="680"
+     r="3"
+     fill="#95A27D"
+     filter="url(#glow)"/>
+
+<text x="600"
+   y="710"
+   text-anchor="middle"
+   font-family="monospace"
+   font-size="11"
+   letter-spacing="4"
+   fill="#72805F">
+
+BUILD • BREAK • LEARN • REPEAT
+
+</text>
 
 </svg>
-```
