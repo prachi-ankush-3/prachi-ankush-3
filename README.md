@@ -67,35 +67,92 @@
 
   <br/>
 
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/prachi-ankush-3/EngiSummary">
-          <b>🌿 EngiSummary</b>
-        </a>
-      </td>
+<div align="center">
 
-      <td align="center">
-        <a href="https://github.com/prachi-ankush-3/TravelAgent">
-          <b>✈️ TravAgent</b>
-        </a>
-      </td>
-    </tr>
+<h2>✦ PROJECT UNIVERSE ✦</h2>
+<p>Things I've built, explored, and brought to life.</p>
 
-    <tr>
-      <td align="center">
-        <a href="https://github.com/prachi-ankush-3/handtalk-voice-for-voiceless">
-          <b>🖐️ HandTalk</b>
-        </a>
-      </td>
+</div>
 
-      <td align="center">
-        <a href="https://github.com/prachi-ankush-3/TaskPro-Smart-Team-Collaboration-Platform">
-          <b>⚡ TaskPro</b>
-        </a>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🖐️ HandTalk
+
+**Voice for the Voiceless**
+
+Assistive technology that converts hand gestures into text and speech using computer vision and machine learning.
+
+<br>
+
+<a href="https://github.com/prachi-ankush-3/handtalk-voice-for-voiceless">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-95A27D?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=95A27D" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌸 AnyaWorld
+
+**Android Application**
+
+A Spy × Family inspired Android experience with a pink-and-black UI, animated splash screen, floating cards and immersive chapter reading.
+
+<br>
+
+<a href="https://github.com/prachi-ankush-3/AnyaWorld-Android">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-95A27D?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=95A27D" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### ⚡ TaskPro
+
+**Smart Team Collaboration**
+
+A full-stack platform for task assignment, deadline tracking, team collaboration and activity monitoring using PHP and MySQL.
+
+<br>
+
+<a href="https://github.com/prachi-ankush-3/TaskPro-Smart-Team-Collaboration-Platform">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-95A27D?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=95A27D" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### ✈️ TravAgent
+
+**Smart Travel Management**
+
+A travel platform for discovering places, finding hotels, accessing transport information and managing travel plans.
+
+<br>
+
+<a href="https://github.com/prachi-ankush-3/TravelAgent">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-95A27D?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=95A27D" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/main/assets/butterfly-divider.svg" width="100%" />
 
 </div>
 ```
