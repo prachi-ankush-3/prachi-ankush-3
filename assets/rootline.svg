@@ -1,262 +1,184 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 900 100"
+     viewBox="0 0 900 120"
      width="900"
-     height="100"
-     role="img"
-     aria-label="Flying butterflies">
+     height="120">
 
-  <rect width="900" height="100" fill="#0D1117"/>
+  <!-- Deep forest background -->
+  <rect width="900" height="120" fill="#07110B"/>
 
-  <!-- Soft flowing breeze -->
+  <!-- soft green atmosphere -->
+  <ellipse cx="180" cy="55" rx="220" ry="55"
+           fill="#123522" opacity=".28"/>
+
+  <ellipse cx="700" cy="65" rx="260" ry="60"
+           fill="#123522" opacity=".22"/>
+
+  <!-- flowing paths -->
   <path
-    d="M-30 65
-       C100 35 170 88 290 58
-       S470 30 590 60
-       S780 85 930 45"
+    d="M-30 78
+       C100 35 190 105 310 62
+       C430 20 500 88 620 55
+       C740 25 820 80 930 42"
     fill="none"
-    stroke="#95A27D"
+    stroke="#6F8F55"
     stroke-width="1"
-    opacity="0.16"/>
+    opacity=".45"/>
+
+  <path
+    d="M-30 84
+       C110 48 190 110 320 70
+       C440 32 520 95 640 63
+       C760 35 830 88 930 52"
+    fill="none"
+    stroke="#B8C99A"
+    stroke-width=".6"
+    opacity=".2"/>
 
 
-  <!-- ================================================= -->
-  <!-- BUTTERFLY 1 -->
-  <!-- ================================================= -->
+  <!-- ================= BUTTERFLY 1 ================= -->
 
   <g>
 
-    <!-- body -->
-    <ellipse
-      cx="0"
-      cy="0"
-      rx="2"
-      ry="8"
-      fill="#E4EBCF"/>
+    <ellipse cx="0" cy="0"
+             rx="2" ry="7"
+             fill="#D8E8B8"/>
 
-    <!-- left wing -->
     <path
-      d="M-1 -1
-         C-18 -20 -32 -13 -27 2
-         C-24 12 -11 13 -1 5Z"
-      fill="#B8C99A"
-      opacity="0.9">
+      d="M-1 0
+         C-18 -20 -32 -14 -28 1
+         C-25 12 -11 12 -1 5Z"
+      fill="#6F8F55">
 
       <animateTransform
         attributeName="transform"
         type="scale"
-        values="1 1;0.55 1;1 1"
-        dur="0.55s"
+        values="1 1;.45 1;1 1"
+        dur=".55s"
         repeatCount="indefinite"/>
 
     </path>
 
-    <!-- right wing -->
     <path
-      d="M1 -1
-         C18 -20 32 -13 27 2
-         C24 12 11 13 1 5Z"
-      fill="#D7E6BA"
-      opacity="0.9">
+      d="M1 0
+         C18 -20 32 -14 28 1
+         C25 12 11 12 1 5Z"
+      fill="#B8C99A">
 
       <animateTransform
         attributeName="transform"
         type="scale"
-        values="1 1;0.55 1;1 1"
-        dur="0.55s"
+        values="1 1;.45 1;1 1"
+        dur=".55s"
         repeatCount="indefinite"/>
 
     </path>
 
-    <!-- antenna -->
     <path
-      d="M-1 -6 Q-7 -14 -11 -15
-         M1 -6 Q7 -14 11 -15"
+      d="M-1 -5 Q-7 -13 -10 -14
+         M1 -5 Q7 -13 10 -14"
       fill="none"
       stroke="#B8C99A"
-      stroke-width="0.8"
-      stroke-linecap="round"/>
+      stroke-width=".7"/>
 
-    <!-- flight -->
     <animateTransform
       attributeName="transform"
       type="translate"
       values="
-        -40 62;
-        80 35;
-        190 68;
-        310 42;
-        430 65;
-        550 32;
-        680 58;
-        800 38;
-        940 55"
+      -50 75;
+      80 42;
+      210 72;
+      340 38;
+      470 65;
+      600 35;
+      730 60;
+      950 40"
       dur="12s"
       repeatCount="indefinite"/>
 
   </g>
 
 
-  <!-- ================================================= -->
-  <!-- BUTTERFLY 2 -->
-  <!-- ================================================= -->
+  <!-- ================= BUTTERFLY 2 ================= -->
 
   <g>
 
-    <!-- body -->
-    <ellipse
-      cx="0"
-      cy="0"
-      rx="1.5"
-      ry="6"
-      fill="#E4EBCF"/>
+    <ellipse cx="0" cy="0"
+             rx="1.5" ry="6"
+             fill="#D8E8B8"/>
 
-    <!-- left wing -->
     <path
-      d="M-1 -1
-         C-13 -15 -24 -10 -21 2
-         C-19 10 -9 10 -1 4Z"
-      fill="#95A27D"
-      opacity="0.85">
+      d="M-1 0
+         C-14 -16 -25 -10 -21 2
+         C-18 10 -8 10 -1 4Z"
+      fill="#587543">
 
       <animateTransform
         attributeName="transform"
         type="scale"
-        values="1 1;0.5 1;1 1"
-        dur="0.48s"
+        values="1 1;.5 1;1 1"
+        dur=".48s"
         repeatCount="indefinite"/>
 
     </path>
 
-    <!-- right wing -->
     <path
-      d="M1 -1
-         C13 -15 24 -10 21 2
-         C19 10 9 10 1 4Z"
-      fill="#C4D6A0"
-      opacity="0.85">
+      d="M1 0
+         C14 -16 25 -10 21 2
+         C18 10 8 10 1 4Z"
+      fill="#95A27D">
 
       <animateTransform
         attributeName="transform"
         type="scale"
-        values="1 1;0.5 1;1 1"
-        dur="0.48s"
+        values="1 1;.5 1;1 1"
+        dur=".48s"
         repeatCount="indefinite"/>
 
     </path>
 
-    <!-- antenna -->
-    <path
-      d="M-1 -5 Q-5 -11 -8 -12
-         M1 -5 Q5 -11 8 -12"
-      fill="none"
-      stroke="#95A27D"
-      stroke-width="0.7"/>
-
-    <!-- flight -->
     <animateTransform
       attributeName="transform"
       type="translate"
       values="
-        -70 82;
-        70 55;
-        210 78;
-        350 48;
-        500 72;
-        640 45;
-        790 70;
-        960 48"
+      -100 95;
+      70 60;
+      240 88;
+      410 50;
+      580 82;
+      750 48;
+      960 65"
       dur="15s"
-      begin="2s"
+      begin="3s"
       repeatCount="indefinite"/>
 
   </g>
 
 
-  <!-- ================================================= -->
-  <!-- BUTTERFLY 3 — smaller / distant -->
-  <!-- ================================================= -->
+  <!-- small glowing particles -->
 
-  <g>
+  <g fill="#B8C99A">
 
-    <!-- body -->
-    <ellipse
-      cx="0"
-      cy="0"
-      rx="1"
-      ry="5"
-      fill="#E4EBCF"/>
-
-    <!-- left wing -->
-    <path
-      d="M0 0
-         C-10 -12 -18 -9 -16 1
-         C-14 7 -7 8 0 4Z"
-      fill="#AEBE91"
-      opacity="0.65"/>
-
-    <!-- right wing -->
-    <path
-      d="M0 0
-         C10 -12 18 -9 16 1
-         C14 7 7 8 0 4Z"
-      fill="#D0DEB0"
-      opacity="0.65"/>
-
-    <!-- flight -->
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="
-        -50 38;
-        100 60;
-        250 32;
-        400 52;
-        550 28;
-        700 48;
-        850 30;
-        950 42"
-      dur="10s"
-      begin="4s"
-      repeatCount="indefinite"/>
-
-  </g>
-
-
-  <!-- ================================================= -->
-  <!-- FLOATING LIGHT PARTICLES -->
-  <!-- ================================================= -->
-
-  <g fill="#D7E6BA">
-
-    <circle cx="180" cy="25" r="1">
+    <circle cx="170" cy="25" r="1.2">
       <animate
-        attributeName="cy"
-        values="25;18;25"
+        attributeName="opacity"
+        values=".15;.8;.15"
         dur="3s"
         repeatCount="indefinite"/>
     </circle>
 
-    <circle cx="350" cy="78" r="0.8">
+    <circle cx="430" cy="88" r=".9">
       <animate
-        attributeName="cy"
-        values="78;70;78"
+        attributeName="opacity"
+        values=".1;.7;.1"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="700" cy="28" r="1">
+      <animate
+        attributeName="opacity"
+        values=".1;.8;.1"
         dur="3.5s"
-        repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="610" cy="20" r="0.8">
-      <animate
-        attributeName="cy"
-        values="20;14;20"
-        dur="2.7s"
-        repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="760" cy="76" r="1">
-      <animate
-        attributeName="cy"
-        values="76;68;76"
-        dur="3.2s"
         repeatCount="indefinite"/>
     </circle>
 
