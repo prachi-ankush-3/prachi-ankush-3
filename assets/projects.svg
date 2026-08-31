@@ -7,39 +7,28 @@
 
 <defs>
 
-  <!-- ================= BACKGROUND ================= -->
-
+  <!-- BACKGROUND -->
   <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0%" stop-color="#0B120D"/>
     <stop offset="50%" stop-color="#101A12"/>
     <stop offset="100%" stop-color="#0B120D"/>
   </linearGradient>
 
-  <!-- ================= CARD ================= -->
-
+  <!-- CARD -->
   <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0%" stop-color="#1A291C"/>
     <stop offset="45%" stop-color="#142017"/>
     <stop offset="100%" stop-color="#0D1510"/>
   </linearGradient>
 
-  <!-- ================= BUTTON ================= -->
-
-  <linearGradient id="button" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#30452F"/>
-    <stop offset="100%" stop-color="#1B2A1C"/>
-  </linearGradient>
-
-  <!-- ================= GLOW ================= -->
-
+  <!-- GLOW -->
   <filter id="glow"
           x="-100%"
           y="-100%"
           width="300%"
           height="300%">
 
-    <feGaussianBlur stdDeviation="3"
-                    result="blur"/>
+    <feGaussianBlur stdDeviation="3" result="blur"/>
 
     <feMerge>
       <feMergeNode in="blur"/>
@@ -48,8 +37,7 @@
 
   </filter>
 
-  <!-- ================= BUTTERFLY ================= -->
-
+  <!-- BUTTERFLY -->
   <g id="butterfly">
 
     <ellipse cx="-7"
@@ -86,8 +74,6 @@
           stroke-width="1"
           stroke-linecap="round"/>
 
-    <!-- wing flutter -->
-
     <animateTransform
       attributeName="transform"
       type="scale"
@@ -100,9 +86,7 @@
 </defs>
 
 
-<!-- ================================================= -->
 <!-- BACKGROUND -->
-<!-- ================================================= -->
 
 <rect width="1200"
       height="760"
@@ -110,7 +94,7 @@
       fill="url(#bg)"/>
 
 
-<!-- subtle atmosphere -->
+<!-- ATMOSPHERE -->
 
 <circle cx="100"
         cy="150"
@@ -131,9 +115,7 @@
         opacity=".012"/>
 
 
-<!-- ================================================= -->
 <!-- HEADER -->
-<!-- ================================================= -->
 
 <text x="60"
       y="58"
@@ -178,8 +160,6 @@ PROJECT UNIVERSE
         stroke="#3D4432"
         stroke-width="1.5"/>
 
-  <!-- top accent -->
-
   <path d="M60 145
            Q60 110 95 110
            H175"
@@ -209,8 +189,6 @@ PROJECT UNIVERSE
         fill="#95A27D">
     ● BUILDING
   </text>
-
-  <!-- title -->
 
   <text x="95"
         y="190"
@@ -250,35 +228,7 @@ PROJECT UNIVERSE
   </text>
 
 
-  <!-- BUTTON -->
-
-  <rect x="95"
-        y="305"
-        width="150"
-        height="34"
-        rx="17"
-        fill="url(#button)"
-        stroke="#95A27D"
-        stroke-width="1"/>
-
-  <circle cx="113"
-          cy="322"
-          r="4"
-          fill="#B8C99A"
-          filter="url(#glow)"/>
-
-  <text x="176"
-        y="326"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="10"
-        font-weight="bold"
-        fill="#D7E6BA">
-    OPEN REPO →
-  </text>
-
-
-  <!-- butterfly path -->
+  <!-- BUTTERFLY PATH -->
 
   <path d="M540 320
            C610 280 625 190 555 125
@@ -288,8 +238,6 @@ PROJECT UNIVERSE
         stroke-width="1"
         stroke-dasharray="2 9"
         opacity=".22"/>
-
-  <!-- butterfly -->
 
   <g>
 
@@ -361,7 +309,6 @@ PROJECT UNIVERSE
     ● ACTIVE
   </text>
 
-
   <text x="655"
         y="190"
         font-family="monospace"
@@ -400,35 +347,7 @@ PROJECT UNIVERSE
   </text>
 
 
-  <!-- BUTTON -->
-
-  <rect x="655"
-        y="305"
-        width="150"
-        height="34"
-        rx="17"
-        fill="url(#button)"
-        stroke="#95A27D"
-        stroke-width="1"/>
-
-  <circle cx="673"
-          cy="322"
-          r="4"
-          fill="#B8C99A"
-          filter="url(#glow)"/>
-
-  <text x="736"
-        y="326"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="10"
-        font-weight="bold"
-        fill="#D7E6BA">
-    OPEN REPO →
-  </text>
-
-
-  <!-- butterfly -->
+  <!-- BUTTERFLY PATH -->
 
   <path d="M1085 320
            C1145 270 1160 180 1090 125
@@ -509,7 +428,6 @@ PROJECT UNIVERSE
     ● PUBLISHED
   </text>
 
-
   <text x="95"
         y="470"
         font-family="monospace"
@@ -548,35 +466,7 @@ PROJECT UNIVERSE
   </text>
 
 
-  <!-- BUTTON -->
-
-  <rect x="95"
-        y="588"
-        width="150"
-        height="34"
-        rx="17"
-        fill="url(#button)"
-        stroke="#95A27D"
-        stroke-width="1"/>
-
-  <circle cx="113"
-          cy="605"
-          r="4"
-          fill="#B8C99A"
-          filter="url(#glow)"/>
-
-  <text x="176"
-        y="609"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="10"
-        font-weight="bold"
-        fill="#D7E6BA">
-    OPEN REPO →
-  </text>
-
-
-  <!-- butterfly -->
+  <!-- BUTTERFLY PATH -->
 
   <path d="M540 600
            C610 550 625 465 555 405
@@ -657,7 +547,6 @@ PROJECT UNIVERSE
     ● ACTIVE
   </text>
 
-
   <text x="655"
         y="470"
         font-family="monospace"
@@ -696,35 +585,7 @@ PROJECT UNIVERSE
   </text>
 
 
-  <!-- BUTTON -->
-
-  <rect x="655"
-        y="588"
-        width="150"
-        height="34"
-        rx="17"
-        fill="url(#button)"
-        stroke="#95A27D"
-        stroke-width="1"/>
-
-  <circle cx="673"
-          cy="605"
-          r="4"
-          fill="#B8C99A"
-          filter="url(#glow)"/>
-
-  <text x="736"
-        y="609"
-        text-anchor="middle"
-        font-family="monospace"
-        font-size="10"
-        font-weight="bold"
-        fill="#D7E6BA">
-    OPEN REPO →
-  </text>
-
-
-  <!-- butterfly -->
+  <!-- BUTTERFLY PATH -->
 
   <path d="M1085 600
            C1145 550 1160 465 1090 405
