@@ -75,6 +75,17 @@
   />
 
 </div>
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com/?user=prachi-ankush-3&theme=dark&hide_border=true&background=0D1117&stroke=3D4432&ring=95A27D&fire=95A27D&currStreakNum=E4EBCF&sideNums=95A27D&currStreakLabel=95A27D&sideLabels=72805F&dates=72805F"
+    width="600"
+    alt="Prachi Ankush GitHub contribution streak"
+  />
+
+</div>
+
+<br/>
 
 <div align="center">
   <img
@@ -82,18 +93,6 @@
     width="95%"
     alt="My growth"
   />
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-ankush-3&bg_color=0D1117&color=95A27D&line=95A27D&point=B8C4A3&area_color=263021&area=true&hide_border=true"
-    width="95%"
-    alt="Prachi Ankush GitHub contribution graph"
-  />
-
 </div>
 
 
