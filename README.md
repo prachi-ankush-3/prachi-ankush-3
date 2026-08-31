@@ -44,7 +44,7 @@
 
 <div align="center">
   <img
-    src="./assets/tech-train.svg"
+    src="./assets/train.svg"
     width="100%"
     alt="Prachi Ankush technology train"
   />
