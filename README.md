@@ -5,9 +5,7 @@
     alt="PRACHI ANKUSH boot sequence"
   />
 </div>
-<div align="center">
-  <img src="./assets/rootline.svg" width="100%" alt="Flying butterflies" />
-</div>
+
 
 <div align="center">
   <img src="./assets/fireflies.svg" width="100%" alt="" />
@@ -45,22 +43,56 @@
 </div>
 
 <div align="center">
-  <sub>CORE</sub><br/>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark" alt="Java Python C++ C" /><br/><br/>
-  <sub>WEB</sub><br/>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,php&theme=dark" alt="React JavaScript HTML CSS PHP" /><br/><br/>
-  <sub>AI / VISION</sub><br/>
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow&theme=dark" alt="OpenCV TensorFlow" /><br/>
-  <sub>OpenCV · MediaPipe · TensorFlow</sub><br/><br/>
-  <sub>MOBILE</sub><br/>
-  <img src="https://skillicons.dev/icons?i=androidstudio,java&theme=dark" alt="Android Java" /><br/><br/>
-  <sub>CLOUD</sub><br/>
-  <img src="https://skillicons.dev/icons?i=aws,linux&theme=dark" alt="AWS Linux" /><br/><br/>
-  <sub>TOOLS</sub><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" alt="Git GitHub VS Code MySQL" />
-</div>
 
-<br/>
+  <h3>🌿 MY TOOLKIT</h3>
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <strong>CORE</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark" />
+      </td>
+
+      <td align="center" width="50%">
+        <strong>WEB</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=react,js,html,css,php&theme=dark" />
+      </td>
+    </tr>
+
+    <tr>
+      <td align="center">
+        <strong>AI / VISION</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=opencv,tensorflow&theme=dark" /><br/>
+        <sub>OpenCV · MediaPipe · TensorFlow</sub>
+      </td>
+
+      <td align="center">
+        <strong>MOBILE</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=androidstudio,java&theme=dark" />
+      </td>
+    </tr>
+
+    <tr>
+      <td align="center">
+        <strong>CLOUD</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=aws,linux&theme=dark" />
+      </td>
+
+      <td align="center">
+        <strong>TOOLS</strong><br/><br/>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <sub>
+    <b>LEARN</b> → <b>BUILD</b> → <b>BREAK</b> → <b>IMPROVE</b> → <b>REPEAT</b>
+  </sub>
+
+</div>
+<br>
 
 <div align="center">
   <img src="./assets/rootline.svg" width="100%" alt="" />
