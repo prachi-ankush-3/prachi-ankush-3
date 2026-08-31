@@ -10,11 +10,7 @@
   <img src="./assets/fireflies.svg" width="100%" alt="" />
 </div>
 <div align="center">
-  <img
-    src="./assets/rootline.svg"
-    width="100%"
-    alt="Flying butterflies"
-  />
+  <img src="./assets/rootline.svg" width="100%" alt="Flying butterflies" />
 </div>
 
 <div align="center">
