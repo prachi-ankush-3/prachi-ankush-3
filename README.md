@@ -23,13 +23,17 @@
 </div>
 
 <div align="center">
-  <img src="./assets/rootline.svg" width="100%" alt="" />
-</div>
 
-<div align="center">
+  <img src="./assets/rootline.svg"
+       width="100%"
+       alt="Developer journey"/>
+
+  <br/>
+
   <img src="./assets/code-tree.svg"
        width="100%"
-       alt="Code growing into a digital forest tree" />
+       alt="Code growing into a digital tree"/>
+
 </div>
 <div align="center">
   <img src="./assets/identity.svg" width="860" alt="Prachi Ankush — Computer Engineering student, VIT Pune, CGPA 9.55, 200+ LeetCode" />
