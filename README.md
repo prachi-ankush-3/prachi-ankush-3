@@ -10,7 +10,9 @@
 <div align="center">
   <img src="./assets/fireflies.svg" width="100%" alt="" />
 </div>
-
+<div align="center">
+  <img src="./assets/footer-forest.svg" width="100%" alt="BUILD. BREAK. LEARN. FIX. REPEAT." />
+</div>
 
 <div align="center">
   <img src="./assets/identity.svg" width="860" alt="Prachi Ankush — Computer Engineering Student" />
@@ -49,13 +51,7 @@
     alt="Prachi Ankush technology train"
   />
 </div>
-<div align="center">
-  <img
-    src="./assets/rootline.svg"
-    width="100%"
-    alt="Prachi Ankush technology train"
-  />
-</div>
+
 
 <div align="center">
   <code>BUILD LOG</code>
