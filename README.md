@@ -42,48 +42,60 @@
   <img src="./assets/tech-network.svg" width="100%" alt="tech DNA node network" />
 </div>
 
+<!-- ==================== TOOLKIT ==================== -->
+
 <div align="center">
 
-  <h3>🌿 MY TOOLKIT</h3>
+  <h2>🌿 MY TOOLKIT</h2>
+
+  <br/>
 
   <table>
     <tr>
-      <td align="center" width="50%">
-        <strong>CORE</strong><br/><br/>
+      <td align="center">
+        <b>⚡ CORE</b><br/><br/>
         <img src="https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark" />
       </td>
 
-      <td align="center" width="50%">
-        <strong>WEB</strong><br/><br/>
+      <td align="center">
+        <b>🌐 WEB</b><br/><br/>
         <img src="https://skillicons.dev/icons?i=react,js,html,css,php&theme=dark" />
       </td>
+
+      <td align="center">
+        <b>👁️ AI / VISION</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=opencv,tensorflow&theme=dark" /><br/>
+        <sub>MediaPipe</sub>
+      </td>
     </tr>
 
     <tr>
       <td align="center">
-        <strong>AI / VISION</strong><br/><br/>
-        <img src="https://skillicons.dev/icons?i=opencv,tensorflow&theme=dark" /><br/>
-        <sub>OpenCV · MediaPipe · TensorFlow</sub>
-      </td>
-
-      <td align="center">
-        <strong>MOBILE</strong><br/><br/>
+        <b>📱 MOBILE</b><br/><br/>
         <img src="https://skillicons.dev/icons?i=androidstudio,java&theme=dark" />
       </td>
-    </tr>
 
-    <tr>
       <td align="center">
-        <strong>CLOUD</strong><br/><br/>
+        <b>☁️ CLOUD</b><br/><br/>
         <img src="https://skillicons.dev/icons?i=aws,linux&theme=dark" />
       </td>
 
       <td align="center">
-        <strong>TOOLS</strong><br/><br/>
+        <b>🛠️ TOOLS</b><br/><br/>
         <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" />
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <sub>
+    <b>BUILD</b> · <b>LEARN</b> · <b>EXPERIMENT</b> · <b>GROW</b>
+  </sub>
+
+</div>
+
+<br/>
 
   <br/>
 
