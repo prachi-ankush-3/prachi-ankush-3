@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./assets/boot.svg" width="100%" alt="BIOS boot sequence — PRACHI ANKUSH SYSTEM ONLINE" />
+  <img src="./assets/boot.svg"
+       width="100%"
+       alt="PRACHI ANKUSH boot sequence"/>
 </div>
 
 <div align="center">
