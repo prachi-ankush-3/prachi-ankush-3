@@ -42,72 +42,12 @@
   <img src="./assets/tech-network.svg" width="100%" alt="tech DNA node network" />
 </div>
 
-<!-- ==================== TOOLKIT ==================== -->
-
 <div align="center">
-
-  <h2>🌿 MY TOOLKIT</h2>
-
-  <br/>
-
-  <table>
-    <tr>
-      <td align="center">
-        <b>⚡ CORE</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark" />
-      </td>
-
-      <td align="center">
-        <b>🌐 WEB</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=react,js,html,css,php&theme=dark" />
-      </td>
-
-      <td align="center">
-        <b>👁️ AI / VISION</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=opencv,tensorflow&theme=dark" /><br/>
-        <sub>MediaPipe</sub>
-      </td>
-    </tr>
-
-    <tr>
-      <td align="center">
-        <b>📱 MOBILE</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=androidstudio,java&theme=dark" />
-      </td>
-
-      <td align="center">
-        <b>☁️ CLOUD</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=aws,linux&theme=dark" />
-      </td>
-
-      <td align="center">
-        <b>🛠️ TOOLS</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <sub>
-    <b>BUILD</b> · <b>LEARN</b> · <b>EXPERIMENT</b> · <b>GROW</b>
-  </sub>
-
-</div>
-
-<br/>
-
-  <br/>
-
-  <sub>
-    <b>LEARN</b> → <b>BUILD</b> → <b>BREAK</b> → <b>IMPROVE</b> → <b>REPEAT</b>
-  </sub>
-
-</div>
-<br>
-
-<div align="center">
-  <img src="./assets/rootline.svg" width="100%" alt="" />
+  <img
+    src="./assets/tech-train.svg"
+    width="100%"
+    alt="Prachi Ankush technology train"
+  />
 </div>
 
 <div align="center">
