@@ -49,6 +49,13 @@
     alt="Prachi Ankush technology train"
   />
 </div>
+<div align="center">
+  <img
+    src="./assets/rootline.svg"
+    width="100%"
+    alt="Prachi Ankush technology train"
+  />
+</div>
 
 <div align="center">
   <code>BUILD LOG</code>
