@@ -15,7 +15,11 @@
 </div>
 
 <div align="center">
-  <img src="./assets/typing-code.svg" width="720" alt="executing Developer class" />
+  <img
+    src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/main/assets/typing-code.svg"
+    width="720"
+    alt="Typing code animation"
+  />
 </div>
 
 <div align="center">
