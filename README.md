@@ -69,17 +69,35 @@
 </div>
 
 <div align="center">
+
   <code>DEVELOPER TELEMETRY</code>
-</div>
+
+  <br/><br/>
+
+
+
+<br/>
 
 <div align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=prachi-ankush-3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=95A27D&icon_color=95A27D&text_color=FFFFFF&ring_color=95A27D" alt="GitHub stats" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-ankush-3&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=95A27D&text_color=FFFFFF" alt="Top languages" />
-  <img height="140" src="https://streak-stats.demolab.com?user=prachi-ankush-3&background=0D1117&border=3D4432&stroke=3D4432&ring=95A27D&fire=95A27D&currStreakNum=FFFFFF&sideNums=95A27D&currStreakLabel=95A27D&sideLabels=95A27D&dates=72805F&hide_border=true" alt="GitHub streak" />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=prachi-ankush-3&theme=dark&hide_border=true&background=0D1117&stroke=3D4432&ring=95A27D&fire=95A27D&currStreakNum=E4EBCF&sideNums=95A27D&currStreakLabel=95A27D&sideLabels=72805F&dates=72805F"
+    width="600"
+    alt="Prachi Ankush GitHub contribution streak"
+  />
+
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-ankush-3&bg_color=0D1117&color=95A27D&line=95A27D&point=B8C4A3&area=true&area_color=263021&hide_border=true&custom_title=growth" width="100%" alt="contribution landscape" />
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-ankush-3&bg_color=0D1117&color=95A27D&line=95A27D&point=B8C4A3&area_color=263021&area=true&hide_border=true"
+    width="95%"
+    alt="Prachi Ankush GitHub contribution graph"
+  />
+
 </div>
 
 <div align="center">
