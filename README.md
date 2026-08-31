@@ -11,7 +11,7 @@
 </div>
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/prachi-ankush-3/prachi-ankush-3/main/assets/rootline.svg"
+    src="./assets/rootline.svg"
     width="100%"
     alt="Flying butterflies"
   />
