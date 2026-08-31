@@ -11,8 +11,9 @@
   <img src="./assets/fireflies.svg" width="100%" alt="" />
 </div>
 <div align="center">
-  <img src="./assets/footer-forest.svg" width="100%" alt="BUILD. BREAK. LEARN. FIX. REPEAT." />
+  <img src="./assets/rootline.svg" width="100%" alt="" />
 </div>
+
 
 <div align="center">
   <img src="./assets/identity.svg" width="860" alt="Prachi Ankush — Computer Engineering Student" />
@@ -164,6 +165,9 @@
   <a href="https://www.hackerrank.com/prachiankush3"><img src="https://cdn.simpleicons.org/hackerrank/95A27D" height="22" alt="HackerRank" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:prachiankush3@gmail.com"><img src="https://cdn.simpleicons.org/gmail/95A27D" height="22" alt="Email" /></a>
+</div>
+<div align="center">
+  <img src="./assets/footer-forest.svg" width="100%" alt="BUILD. BREAK. LEARN. FIX. REPEAT." />
 </div>
 
 <div align="center">
